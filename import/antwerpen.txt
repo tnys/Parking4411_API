@@ -1,0 +1,1913 @@
+51.222085,4.39771,"Oudebareellei, Antwerpen",24205
+51.21801,4.39916,"Drukkerijstraat, Antwerpen",20301
+51.2247,4.437795,"Zeilstraat, Antwerpen",26713
+51.217365,4.416595,"Quellinstraat, Antwerpen",21502
+51.22319,4.428205,"Burgerwelzijn, Antwerpen",26738
+51.20234,4.39281,"Brederodestraat, Antwerpen",22719
+51.221705,4.442815,"Guldensporenstraat, Antwerpen",26526
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22108
+51.222085,4.39771,"Oudebareellei, Antwerpen",24206
+51.219382,4.398588,"Reyndersstraat, Antwerpen",20302
+51.22442,4.439365,"Touwstraat, Antwerpen",26714
+51.217365,4.416595,"Quellinstraat, Antwerpen",21503
+51.20234,4.39281,"Brederodestraat, Antwerpen",22720
+51.22253,4.441635,"Zwarteleeuwstraat, Antwerpen",26528
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22109
+51.226105,4.40717,"Generaal Belliardstraat, Antwerpen",24301
+51.2184,4.396475,"Sint-Jansvliet, Antwerpen",20303
+51.22442,4.439365,"Touwstraat, Antwerpen",26715
+51.217365,4.416595,"Quellinstraat, Antwerpen",21504
+51.20234,4.39281,"Brederodestraat, Antwerpen",22721
+51.222105,4.44157,"Delftstraat, Antwerpen",26530
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22110
+51.226105,4.40717,"Generaal Belliardstraat, Antwerpen",24302
+51.2184,4.396475,"Sint-Jansvliet, Antwerpen",20304
+51.224206,4.438345,"Vlagstraat, Antwerpen",26716
+51.217365,4.416595,"Quellinstraat, Antwerpen",21505
+51.195688,4.425692,"Anjelierstraat, Antwerpen",26960
+51.20234,4.39281,"Brederodestraat, Antwerpen",22722
+51.221575,4.44158,"Bijlstraat, Antwerpen",26532
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22111
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",22092
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24303
+51.217895,4.398665,"Steenhouwersvest, Antwerpen",20305
+51.224206,4.438345,"Vlagstraat, Antwerpen",26717
+51.219125,4.3957,"Ernest Van Dijckkaai, Antwerpen",20141
+51.213165,4.41203,"Louiza-Marialei, Antwerpen",21601
+51.20234,4.39281,"Brederodestraat, Antwerpen",22724
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",26961
+51.221135,4.44163,"Goedendagstraat, Antwerpen",26534
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",22093
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24304
+51.213165,4.41203,"Louiza-Marialei, Antwerpen",21602
+51.224206,4.438345,"Vlagstraat, Antwerpen",26718
+51.2222,4.40465,"Minderbroedersrui, Antwerpen",20142
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",26962
+51.20565,4.395075,"Jozef Liesstraat, Antwerpen",22725
+51.220095,4.443095,"Kwekerijstraat, Antwerpen",26538
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",22094
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24305
+51.213251,4.410244,"Frankrijklei, Antwerpen",21603
+51.222815,4.4329,"Duinstraat, Antwerpen",26721
+51.21817,4.394995,"Plantinkaai, Antwerpen",20151
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",26963
+51.204825,4.39566,"Belegstraat, Antwerpen",22726
+51.22019,4.442035,"Gillis Van Biervlietstra, Antwerpen",26540
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",22095
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24306
+51.213251,4.410244,"Frankrijklei, Antwerpen",21604
+51.223905,4.432995,"Pesthofstraat, Antwerpen",26722
+51.21817,4.394995,"Plantinkaai, Antwerpen",20152
+51.213251,4.410244,"Frankrijklei, Antwerpen",21411
+51.20426,4.39086,"Cuylitsstraat, Antwerpen",22727
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",26964
+51.21995,4.44018,"Poststraat, Antwerpen",26542
+51.21979,4.441625,"Jan Borluutplein, Antwerpen",26510
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",22096
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24307
+51.222085,4.39771,"Terlindenhofstraat, Antwerpen",24155
+51.222815,4.4329,"Duinstraat, Antwerpen",26723
+51.21817,4.394995,"Plantinkaai, Antwerpen",20153
+51.213251,4.410244,"Frankrijklei, Antwerpen",21412
+51.20426,4.39086,"Cuylitsstraat, Antwerpen",22728
+51.20403,4.39205,"Montignystraat, Antwerpen",22708
+51.197,4.42799,"Vredestraat, Antwerpen",26965
+51.216683,4.443541,"Florastraat, Antwerpen",26511
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",22097
+51.222085,4.39771,"Terlindenhofstraat, Antwerpen",24156
+51.2222,4.43267,"Meetingstraat, Antwerpen",26724
+51.21602,4.393465,"Sint-Michielskaai, Antwerpen",20154
+51.2231,4.43994,"Lange Kongostraat, Antwerpen",26701
+51.213251,4.410244,"Frankrijklei, Antwerpen",21413
+51.20403,4.39205,"Montignystraat, Antwerpen",22709
+51.196458,4.42788,"Meibloemstraat, Antwerpen",26966
+51.216683,4.443541,"Florastraat, Antwerpen",26512
+51.202362,4.419234,"Isabellalei, Antwerpen",22098
+51.222085,4.39771,"Terlindenhofstraat, Antwerpen",24157
+51.21602,4.393465,"Sint-Michielskaai, Antwerpen",20155
+51.2231,4.43994,"Lange Kongostraat, Antwerpen",26702
+51.213251,4.410244,"Frankrijklei, Antwerpen",21414
+51.197,4.42799,"Vredestraat, Antwerpen",26967
+51.20403,4.39205,"Montignystraat, Antwerpen",22710
+51.219105,4.442705,"Linnaeusstraat, Antwerpen",26514
+51.202362,4.419234,"Isabellalei, Antwerpen",22099
+51.222085,4.39771,"Terlindenhofstraat, Antwerpen",24158
+51.21602,4.393465,"Sint-Michielskaai, Antwerpen",20156
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26703
+51.213251,4.410244,"Frankrijklei, Antwerpen",21415
+51.197,4.42799,"Vredestraat, Antwerpen",26968
+51.20403,4.39205,"Montignystraat, Antwerpen",22711
+51.219295,4.44134,"Ceresstraat, Antwerpen",26515
+51.202362,4.419234,"Isabellalei, Antwerpen",22100
+51.222085,4.39771,"Terlindenhofstraat, Antwerpen",24159
+51.21602,4.393465,"Sint-Michielskaai, Antwerpen",20157
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26704
+51.213251,4.410244,"Frankrijklei, Antwerpen",21416
+51.200265,4.419195,"Albert Grisarstraat, Antwerpen",26949
+51.20403,4.39205,"Montignystraat, Antwerpen",22712
+51.1961,4.423107,"Cameliastraat, Antwerpen",26969
+51.21955,4.44267,"Wijnegemstraat, Antwerpen",26517
+51.202362,4.419234,"Isabellalei, Antwerpen",22101
+51.20054,4.40123,"Van Roiestraat, Antwerpen",24160
+51.21602,4.393465,"Sint-Michielskaai, Antwerpen",20158
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26705
+51.213251,4.410244,"Frankrijklei, Antwerpen",21417
+51.201035,4.421555,"Helenalei, Antwerpen",26950
+51.20403,4.39205,"Montignystraat, Antwerpen",22713
+51.220095,4.443095,"Kwekerijstraat, Antwerpen",26520
+51.20054,4.40123,"Van Roiestraat, Antwerpen",24161
+51.213251,4.410244,"Frankrijklei, Antwerpen",21418
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26706
+51.197635,4.41917,"Walemstraat, Antwerpen",26951
+51.20234,4.39281,"Brederodestraat, Antwerpen",22714
+51.221705,4.442815,"Guldensporenstraat, Antwerpen",26521
+51.222085,4.39771,"Oudebareellei, Antwerpen",24201
+51.213251,4.410244,"Frankrijklei, Antwerpen",21419
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26707
+51.197635,4.41917,"Walemstraat, Antwerpen",26952
+51.20234,4.39281,"Brederodestraat, Antwerpen",22715
+51.221705,4.442815,"Guldensporenstraat, Antwerpen",26522
+51.222085,4.39771,"Oudebareellei, Antwerpen",24202
+51.213251,4.410244,"Frankrijklei, Antwerpen",21422
+51.220608,4.421579,"Van Schoonhovenstraat, Antwerpen",21318
+51.225475,4.43747,"Maatsstraat, Antwerpen",26708
+51.196785,4.420415,"Berthoutstraat, Antwerpen",26953
+51.20234,4.39281,"Brederodestraat, Antwerpen",22716
+51.221705,4.442815,"Guldensporenstraat, Antwerpen",26523
+51.21662,4.434935,"Laar, Antwerpen",26491
+51.222085,4.39771,"Oudebareellei, Antwerpen",24203
+51.19867,4.39328,"Jaak De Boeckstraat, Antwerpen",24145
+51.220608,4.421579,"Van Schoonhovenstraat, Antwerpen",21319
+51.22467,4.435885,"Boerhaavestraat, Antwerpen",26710
+51.198575,4.421845,"Van Campenhoutstraat, Antwerpen",26954
+51.20234,4.39281,"Brederodestraat, Antwerpen",22717
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22603
+51.21662,4.434935,"Laar, Antwerpen",26492
+51.222085,4.39771,"Elfnovemberstraat, Antwerpen",24146
+51.220535,4.41883,"Van Stralenstraat, Antwerpen",21321
+51.22467,4.435885,"Boerhaavestraat, Antwerpen",26712
+51.220469,4.432743,"Pastorijstraat, Antwerpen",26622
+51.198575,4.421845,"Van Campenhoutstraat, Antwerpen",26956
+51.206386,4.439412,"Vlijtstraat, Antwerpen",22604
+51.21662,4.434935,"Laar, Antwerpen",26493
+51.222085,4.39771,"Elfnovemberstraat, Antwerpen",24147
+51.220535,4.41883,"Van Stralenstraat, Antwerpen",21322
+51.22076,4.42826,"Wetstraat, Antwerpen",26624
+51.19828,4.42297,"Torenstraat, Antwerpen",26957
+51.206386,4.439412,"Vlijtstraat, Antwerpen",22605
+51.21662,4.434935,"Laar, Antwerpen",26494
+51.222085,4.39771,"Elfnovemberstraat, Antwerpen",24148
+51.220535,4.41883,"Van Stralenstraat, Antwerpen",21324
+51.22076,4.42826,"Wetstraat, Antwerpen",26626
+51.197015,4.424505,"Baron de Catersstraat, Antwerpen",26958
+51.200485,4.39179,"Brusselstraat, Antwerpen",22701
+51.218505,4.43924,"Helmstraat, Antwerpen",26500
+51.222085,4.39771,"Annuntiatenstraat, Antwerpen",24149
+51.220535,4.41883,"Van Stralenstraat, Antwerpen",21325
+51.21787,4.42926,"Van der Keilenstraat, Antwerpen",26628
+51.19744,4.417415,"Ferdinand Coosemansstraa, Antwerpen",26939
+51.197015,4.424505,"Baron de Catersstraat, Antwerpen",26959
+51.20295,4.390915,"Ieperstraat, Antwerpen",22702
+51.218505,4.43924,"Helmstraat, Antwerpen",26503
+51.222085,4.39771,"Annuntiatenstraat, Antwerpen",24150
+51.21802,4.41787,"Anneessensstraat, Antwerpen",21401
+51.21787,4.42926,"Van der Keilenstraat, Antwerpen",26629
+51.19744,4.417415,"Ferdinand Coosemansstraa, Antwerpen",26940
+51.20362,4.39054,"Jan van Beersstraat, Antwerpen",22703
+51.218505,4.43924,"Helmstraat, Antwerpen",26504
+51.175955,4.357865,"Van Aertselaerstraat, Antwerpen",24151
+51.21802,4.41787,"Anneessensstraat, Antwerpen",21402
+51.218295,4.430375,"Huybrechtsstraat, Antwerpen",26630
+51.19744,4.417415,"Ferdinand Coosemansstraa, Antwerpen",26941
+51.20362,4.39054,"Jan van Beersstraat, Antwerpen",22704
+51.218505,4.43924,"Helmstraat, Antwerpen",26505
+51.222085,4.39771,"Frans de l Arbrelaan, Antwerpen",24152
+51.213251,4.410244,"Frankrijklei, Antwerpen",21409
+51.218885,4.43302,"Groenstraat, Antwerpen",26631
+51.19802,4.41695,"Belpairestraat, Antwerpen",26942
+51.20426,4.39086,"Cuylitsstraat, Antwerpen",22705
+51.217074,4.442374,"Borsbeekstraat, Antwerpen",26506
+51.222085,4.39771,"Frans de l Arbrelaan, Antwerpen",24153
+51.213251,4.410244,"Frankrijklei, Antwerpen",21410
+51.21428,4.41066,"Tabakvest, Antwerpen",21113
+51.218885,4.43302,"Groenstraat, Antwerpen",26632
+51.19802,4.41695,"Belpairestraat, Antwerpen",26943
+51.20426,4.39086,"Cuylitsstraat, Antwerpen",22706
+51.21959,4.44097,"Ranststraat, Antwerpen",26508
+51.21487,4.43748,"Jaak De Braeckeleerstraa, Antwerpen",26471
+51.222085,4.39771,"Terlindenhofstraat, Antwerpen",24154
+51.238252,4.424285,"Bredabaan, Antwerpen",24135
+51.21862,4.43164,"Lammekensstraat, Antwerpen",26633
+51.21428,4.41066,"Tabakvest, Antwerpen",21114
+51.198875,4.41861,"Wijnstraat, Antwerpen",26944
+51.20403,4.39205,"Montignystraat, Antwerpen",22707
+51.208353,4.435472,"Tweelingenstraat, Antwerpen",22461
+51.215445,4.437435,"Kattenberg, Antwerpen",26472
+51.238252,4.424285,"Bredabaan, Antwerpen",24136
+51.2231,4.43994,"Lange Kongostraat, Antwerpen",26700
+51.21428,4.41066,"Tabakvest, Antwerpen",21115
+51.20035,4.4289,"Boomgaardstraat, Antwerpen",26945
+51.2079,4.43454,"Schorpioenstraat, Antwerpen",22462
+51.216085,4.435875,"Generaal Eisenhowerlei, Antwerpen",26475
+51.222085,4.39771,"Sint-Franciscusplein, Antwerpen",24137
+51.21563,4.410525,"Meistraat, Antwerpen",21117
+51.20035,4.4289,"Boomgaardstraat, Antwerpen",26946
+51.2079,4.43454,"Schorpioenstraat, Antwerpen",22463
+51.216085,4.435875,"Generaal Eisenhowerlei, Antwerpen",26477
+51.222085,4.39771,"Weggestraat, Antwerpen",24138
+51.201374,4.397239,"Moonsstraat, Antwerpen",26060
+51.221455,4.41871,"Pijlstraat, Antwerpen",21309
+51.20035,4.4289,"Boomgaardstraat, Antwerpen",26947
+51.20131,4.409025,"Schulstraat, Antwerpen",23309
+51.207522,4.431604,"Kreeftstraat, Antwerpen",22464
+51.216085,4.435875,"Generaal Eisenhowerlei, Antwerpen",26479
+51.222085,4.39771,"Rustoordstraat, Antwerpen",24139
+51.20056,4.3986,"Markgravelei, Antwerpen",26062
+51.221455,4.41871,"Pijlstraat, Antwerpen",21310
+51.199935,4.422965,"Eikelstraat, Antwerpen",26929
+51.20035,4.4289,"Boomgaardstraat, Antwerpen",26948
+51.20131,4.409025,"Schulstraat, Antwerpen",23310
+51.207555,4.433735,"Dolfijnstraat, Antwerpen",22465
+51.21727,4.435125,"Verzoeningstraat, Antwerpen",26480
+51.21254,4.396525,"Van Heybeeckstraat, Antwerpen",24140
+51.199815,4.39802,"Van Peltstraat, Antwerpen",26064
+51.22033,4.41975,"Van Arteveldestraat, Antwerpen",21311
+51.19802,4.41695,"Belpairestraat, Antwerpen",26930
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",23311
+51.205905,4.431125,"Grote Hondstraat, Antwerpen",22466
+51.21727,4.435125,"Verzoeningstraat, Antwerpen",26482
+51.21254,4.396525,"Van Heybeeckstraat, Antwerpen",24141
+51.199455,4.39691,"Korte Van Peltstraat, Antwerpen",26065
+51.22033,4.41975,"Van Arteveldestraat, Antwerpen",21312
+51.19802,4.41695,"Belpairestraat, Antwerpen",26931
+51.22989,4.406555,"Verbindingsdok Westkaai, Antwerpen",24512
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",23312
+51.213075,4.4173,"Lange Kievitstraat, Antwerpen",22510
+51.215445,4.437435,"Kattenberg, Antwerpen",26484
+51.21254,4.396525,"Van Heybeeckstraat, Antwerpen",24142
+51.198651,4.396079,"Juliaan Dillensstraat, Antwerpen",26067
+51.224255,4.41729,"Van Maerlantstraat, Antwerpen",21316
+51.20044,4.42724,"Auwersstraat, Antwerpen",26932
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",23313
+51.213075,4.4173,"Lange Kievitstraat, Antwerpen",22511
+51.215445,4.437435,"Kattenberg, Antwerpen",26485
+51.213251,4.410244,"Frankrijklei, Antwerpen",21624
+51.175955,4.357865,"Van Aertselaerstraat, Antwerpen",24143
+51.196395,4.401415,"Bosmanslei, Antwerpen",26068
+51.224255,4.41729,"Van Maerlantstraat, Antwerpen",21317
+51.219895,4.415105,"Sint-Jacobsmarkt, Antwerpen",21014
+51.23116,4.40464,"Amsterdamstraat, Antwerpen",24513
+51.2005,4.42625,"Drummondstraat, Antwerpen",26933
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",23314
+51.213075,4.4173,"Lange Kievitstraat, Antwerpen",22512
+51.21662,4.434935,"Laar, Antwerpen",26488
+51.21533,4.442585,"Sint-Janstraat, Antwerpen",26453
+51.19867,4.39328,"Jaak De Boeckstraat, Antwerpen",24144
+51.225415,4.41092,"Nieuwdreef, Antwerpen",24125
+51.19922,4.3957,"Oudekerkstraat, Antwerpen",26069
+51.219895,4.415105,"Sint-Jacobsmarkt, Antwerpen",21015
+51.20044,4.42724,"Auwersstraat, Antwerpen",26934
+51.204751,4.40857,"Peter Benoitstraat, Antwerpen",23315
+51.206362,4.431202,"Draakstraat, Antwerpen",22451
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22602
+51.215085,4.44191,"Sint-Mattheusstraat, Antwerpen",26455
+51.19922,4.3957,"Oudekerkstraat, Antwerpen",26070
+51.222085,4.39771,"Wuytslei, Antwerpen",24126
+51.229982,4.405298,"Nassaustraat, Antwerpen",24514
+51.22146,4.41543,"Van Boendalestraat, Antwerpen",21016
+51.200155,4.428165,"Weidestraat, Antwerpen",26935
+51.204751,4.40857,"Peter Benoitstraat, Antwerpen",23316
+51.206315,4.43026,"Kleine Hondstraat, Antwerpen",22452
+51.21555,4.44173,"Sint-Marcusstraat, Antwerpen",26458
+51.20056,4.3986,"Markgravelei, Antwerpen",26071
+51.238252,4.424285,"Bredabaan, Antwerpen",24127
+51.21672,4.412165,"Hopland, Antwerpen",21102
+51.199155,4.42477,"Beernaertstraat, Antwerpen",26936
+51.205685,4.408675,"Gounodstraat, Antwerpen",23317
+51.206429,4.429481,"Filomenastraat, Antwerpen",22453
+51.21587,4.44041,"Delareystraat, Antwerpen",26459
+51.229678,4.40323,"Sint-Laureiskaai, Antwerpen",24522
+51.20056,4.3986,"Markgravelei, Antwerpen",26073
+51.200355,4.393215,"De Braekeleerstraat, Antwerpen",26045
+51.229982,4.405298,"Nassaustraat, Antwerpen",24515
+51.200485,4.39179,"Brusselstraat, Antwerpen",22700
+51.215285,4.4125,"Baeckelmansstraat, Antwerpen",21103
+51.222085,4.39771,"Wuytslei, Antwerpen",24128
+51.19744,4.417415,"Ferdinand Coosemansstraa, Antwerpen",26937
+51.205685,4.408675,"Gounodstraat, Antwerpen",23318
+51.206429,4.429481,"Filomenastraat, Antwerpen",22454
+51.193505,4.410845,"Bronstraat, Antwerpen",23215
+51.21477,4.439935,"Bothastraat, Antwerpen",26462
+51.200355,4.393215,"De Braekeleerstraat, Antwerpen",26046
+51.238252,4.424285,"Bredabaan, Antwerpen",24129
+51.21428,4.41066,"Tabakvest, Antwerpen",21104
+51.20203,4.42048,"Marialei, Antwerpen",26919
+51.19744,4.417415,"Ferdinand Coosemansstraa, Antwerpen",26938
+51.207235,4.428865,"Kleine Beerstraat, Antwerpen",22455
+51.195555,4.40981,"Doornelei, Antwerpen",23216
+51.21477,4.439935,"Bothastraat, Antwerpen",26463
+51.230515,4.40247,"Rijnkaai, Antwerpen",24523
+51.197855,4.39492,"Lange Elzenstraat, Antwerpen",26049
+51.229982,4.405298,"Nassaustraat, Antwerpen",24516
+51.199805,4.41424,"Koning Albertparkweg, Antwerpen",23332
+51.216305,4.4119,"Langegang, Antwerpen",21105
+51.238252,4.424285,"Bredabaan, Antwerpen",24130
+51.20203,4.42048,"Marialei, Antwerpen",26920
+51.208155,4.42722,"Lange Van Ruusbroecstraa, Antwerpen",22456
+51.203195,4.409685,"Harmoniestraat, Antwerpen",23301
+51.215085,4.44191,"Sint-Mattheusstraat, Antwerpen",26465
+51.20312,4.39279,"Broederminstraat, Antwerpen",26051
+51.238252,4.424285,"Bredabaan, Antwerpen",24131
+51.21563,4.410525,"Meistraat, Antwerpen",21109
+51.20203,4.42048,"Marialei, Antwerpen",26921
+51.208155,4.42722,"Lange Van Ruusbroecstraa, Antwerpen",22457
+51.203195,4.409685,"Harmoniestraat, Antwerpen",23302
+51.216305,4.438535,"Cronjestraat, Antwerpen",26468
+51.230515,4.40247,"Rijnkaai, Antwerpen",24524
+51.23116,4.40464,"Amsterdamstraat, Antwerpen",24517
+51.2011,4.395185,"Jonghelinckstraat, Antwerpen",26053
+51.238252,4.424285,"Bredabaan, Antwerpen",24132
+51.21428,4.41066,"Tabakvest, Antwerpen",21111
+51.20203,4.42048,"Marialei, Antwerpen",26922
+51.208353,4.435472,"Tweelingenstraat, Antwerpen",22458
+51.203195,4.409685,"Harmoniestraat, Antwerpen",23303
+51.216305,4.438535,"Cronjestraat, Antwerpen",26469
+51.2011,4.395185,"Jonghelinckstraat, Antwerpen",26054
+51.238252,4.424285,"Bredabaan, Antwerpen",24133
+51.21428,4.41066,"Tabakvest, Antwerpen",21112
+51.21901,4.4149,"Kipdorpvest, Antwerpen",21002
+51.197565,4.426695,"Generaal Drubbelstraat, Antwerpen",26923
+51.208353,4.435472,"Tweelingenstraat, Antwerpen",22459
+51.203195,4.409685,"Harmoniestraat, Antwerpen",23304
+51.227725,4.40175,"Tavernierkaai, Antwerpen",24525
+51.215445,4.437435,"Kattenberg, Antwerpen",26470
+51.21717,4.43808,"Vincottestraat, Antwerpen",26440
+51.23116,4.40464,"Amsterdamstraat, Antwerpen",24518
+51.201608,4.39607,"Hof ter Bekestraat, Antwerpen",26056
+51.238252,4.424285,"Bredabaan, Antwerpen",24111
+51.238252,4.424285,"Bredabaan, Antwerpen",24134
+51.21901,4.4149,"Kipdorpvest, Antwerpen",21003
+51.197565,4.426695,"Generaal Drubbelstraat, Antwerpen",26924
+51.208353,4.435472,"Tweelingenstraat, Antwerpen",22460
+51.207875,4.430865,"Nottebohmstraat, Antwerpen",22441
+51.203195,4.409685,"Harmoniestraat, Antwerpen",23305
+51.21717,4.43808,"Vincottestraat, Antwerpen",26441
+51.200325,4.395785,"Coebergerstraat, Antwerpen",26057
+51.238252,4.424285,"Bredabaan, Antwerpen",24112
+51.21901,4.4149,"Kipdorpvest, Antwerpen",21004
+51.200975,4.426175,"Waterfordstraat, Antwerpen",26925
+51.20267,4.410965,"Mozartstraat, Antwerpen",23306
+51.208505,4.43226,"Wolfstraat, Antwerpen",22442
+51.21717,4.43808,"Vincottestraat, Antwerpen",26442
+51.229965,4.403985,"Bataviastraat, Antwerpen",24519
+51.200325,4.395785,"Coebergerstraat, Antwerpen",26058
+51.238252,4.424285,"Bredabaan, Antwerpen",24114
+51.21901,4.4149,"Kipdorpvest, Antwerpen",21005
+51.200975,4.426175,"Waterfordstraat, Antwerpen",26926
+51.202288,4.409003,"Valkenburgstraat, Antwerpen",23307
+51.20841,4.433145,"Bosduifstraat, Antwerpen",22443
+51.21717,4.43904,"Leningstraat, Antwerpen",26444
+51.201374,4.397239,"Moonsstraat, Antwerpen",26059
+51.238252,4.424285,"Bredabaan, Antwerpen",24117
+51.197695,4.394171,"Desguinlei, Antwerpen",26031
+51.221005,4.41522,"Korte Winkelstraat, Antwerpen",21006
+51.200975,4.426175,"Waterfordstraat, Antwerpen",26927
+51.202288,4.409003,"Valkenburgstraat, Antwerpen",23308
+51.20841,4.433145,"Bosduifstraat, Antwerpen",22444
+51.198232,4.41112,"Prins Albertlei, Antwerpen",27009
+51.21717,4.43904,"Leningstraat, Antwerpen",26445
+51.229965,4.403985,"Bataviastraat, Antwerpen",24520
+51.238252,4.424285,"Bredabaan, Antwerpen",24118
+51.19821,4.39371,"Politeshofstraat, Antwerpen",26032
+51.220555,4.41373,"Lange Sint-Annastraat, Antwerpen",21007
+51.203045,4.430685,"Transvaalstraat, Antwerpen",26909
+51.199935,4.422965,"Eikelstraat, Antwerpen",26928
+51.207555,4.433735,"Dolfijnstraat, Antwerpen",22445
+51.198232,4.41112,"Prins Albertlei, Antwerpen",27010
+51.216492,4.441016,"Mertensstraat, Antwerpen",26448
+51.238252,4.424285,"Bredabaan, Antwerpen",24119
+51.19821,4.39371,"Politeshofstraat, Antwerpen",26033
+51.222085,4.39771,"Doelhofstraat, Antwerpen",24212
+51.220095,4.41534,"Molenbergstraat, Antwerpen",21008
+51.203045,4.430685,"Transvaalstraat, Antwerpen",26910
+51.197695,4.394171,"Desguinlei, Antwerpen",23207
+51.207555,4.433735,"Dolfijnstraat, Antwerpen",22446
+51.216492,4.441016,"Mertensstraat, Antwerpen",26449
+51.23014,4.402495,"Dinantstraat, Antwerpen",24521
+51.238252,4.424285,"Bredabaan, Antwerpen",24113
+51.220535,4.41883,"Van Straelenlei, Antwerpen",24120
+51.19867,4.39328,"De Beuckerstraat, Antwerpen",26035
+51.221005,4.41522,"Korte Winkelstraat, Antwerpen",21009
+51.202392,4.432312,"Waterloostraat, Antwerpen",26911
+51.193267,4.408219,"Karel Oomsstraat, Antwerpen",23208
+51.207555,4.433735,"Dolfijnstraat, Antwerpen",22447
+51.215855,4.44143,"Reuzenstraat, Antwerpen",26450
+51.222085,4.39771,"Victor Roosensplein, Antwerpen",24122
+51.19867,4.39328,"De Beuckerstraat, Antwerpen",26036
+51.222085,4.39771,"Doelhofstraat, Antwerpen",24213
+51.22186,4.412755,"Pieter van Hobokenstraat, Antwerpen",21012
+51.202155,4.42722,"Van Luppenstraat, Antwerpen",26912
+51.193267,4.408219,"Karel Oomsstraat, Antwerpen",23209
+51.20636,4.432475,"Lange Altaarstraat, Antwerpen",22448
+51.21533,4.442585,"Sint-Janstraat, Antwerpen",26451
+51.222085,4.39771,"Barnkrachtstraat, Antwerpen",24123
+51.197855,4.39492,"Lange Elzenstraat, Antwerpen",26038
+51.219895,4.415105,"Sint-Jacobsmarkt, Antwerpen",21013
+51.222787,4.411367,"Grote Kauwenberg, Antwerpen",20918
+51.202155,4.42722,"Van Luppenstraat, Antwerpen",26913
+51.193267,4.408219,"Karel Oomsstraat, Antwerpen",23210
+51.206863,4.431588,"Korte Altaarstraat, Antwerpen",22449
+51.21533,4.442585,"Sint-Janstraat, Antwerpen",26452
+51.238252,4.424285,"Bredabaan, Antwerpen",24104
+51.215085,4.44191,"Sint-Bartholomeusstraat, Antwerpen",24124
+51.1992,4.39316,"Catharina Beersmansstraa, Antwerpen",26039
+51.22989,4.406555,"Westkaai, Antwerpen",24214
+51.223267,4.411823,"Lange Winkelstraat, Antwerpen",20920
+51.202223,4.428374,"Cobdenstraat, Antwerpen",26914
+51.193267,4.408219,"Karel Oomsstraat, Antwerpen",23211
+51.206863,4.431588,"Korte Altaarstraat, Antwerpen",22450
+51.221655,4.413695,"Ossenmarkt, Antwerpen",21010
+51.1992,4.39316,"Catharina Beersmansstraa, Antwerpen",26040
+51.223267,4.411823,"Lange Winkelstraat, Antwerpen",20921
+51.201466,4.428971,"Zenobe Grammestraat, Antwerpen",26915
+51.193267,4.408219,"Karel Oomsstraat, Antwerpen",23212
+51.230415,4.40782,"Oostkaai, Antwerpen",24215
+51.199735,4.393115,"Victor Driessensstraat, Antwerpen",26042
+51.223422,4.413875,"Rodestraat, Antwerpen",20922
+51.229245,4.415405,"Van de Wervestraat, Antwerpen",21946
+51.201466,4.428971,"Zenobe Grammestraat, Antwerpen",26916
+51.193267,4.408219,"Karel Oomsstraat, Antwerpen",23213
+51.199735,4.393115,"Victor Driessensstraat, Antwerpen",26043
+51.201645,4.39264,"Snijdersstraat, Antwerpen",26021
+51.223422,4.413875,"Rodestraat, Antwerpen",20923
+51.229245,4.415405,"Van de Wervestraat, Antwerpen",21947
+51.20044,4.42724,"Auwersstraat, Antwerpen",26917
+51.19371,4.40963,"Biartstraat, Antwerpen",23214
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23112
+51.215085,4.44191,"Sint-Bartholomeusstraat, Antwerpen",24216
+51.202605,4.393905,"Balansstraat, Antwerpen",26022
+51.224366,4.410409,"Vekestraat, Antwerpen",20924
+51.22868,4.414855,"Duboisstraat, Antwerpen",21948
+51.22849,4.425125,"Oranjestraat, Antwerpen",26876
+51.20203,4.42048,"Marialei, Antwerpen",26918
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23113
+51.20403,4.39205,"Montignystraat, Antwerpen",26023
+51.224366,4.410409,"Vekestraat, Antwerpen",20925
+51.22814,4.41506,"De Waghemakerestraat, Antwerpen",21949
+51.20539,4.43361,"Pretoriastraat, Antwerpen",26900
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23114
+51.222085,4.39771,"Komiteitstraat, Antwerpen",24217
+51.200485,4.39179,"Brusselstraat, Antwerpen",26024
+51.22602,4.410823,"Stijfselstraat, Antwerpen",20927
+51.22748,4.41438,"Van Aerdtstraat, Antwerpen",21950
+51.20539,4.43361,"Pretoriastraat, Antwerpen",26901
+51.196535,4.40824,"Korte Lozanastraat, Antwerpen",23115
+51.202605,4.393905,"Balansstraat, Antwerpen",26025
+51.22564,4.410255,"Stijfselrui, Antwerpen",20928
+51.227065,4.41544,"Geulincxstraat, Antwerpen",21951
+51.20539,4.43361,"Pretoriastraat, Antwerpen",26902
+51.196535,4.40824,"Korte Lozanastraat, Antwerpen",23116
+51.222085,4.39771,"Komiteitstraat, Antwerpen",24218
+51.20403,4.39205,"Montignystraat, Antwerpen",26026
+51.220505,4.41211,"Frans Halsplein, Antwerpen",21001
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20908
+51.2255,4.416025,"Houwerstraat, Antwerpen",21952
+51.20369,4.434255,"Generaal Capiaumontstraa, Antwerpen",26903
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",23200
+51.202605,4.393905,"Balansstraat, Antwerpen",26027
+51.22025,4.416005,"Italielei, Antwerpen",21953
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20909
+51.20369,4.434255,"Generaal Capiaumontstraa, Antwerpen",26904
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",23201
+51.222085,4.39771,"Komiteitstraat, Antwerpen",24219
+51.198845,4.391295,"Kielsevest, Antwerpen",26028
+51.22025,4.416005,"Italielei, Antwerpen",21954
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20910
+51.202485,4.43029,"Generaal van Merlenstraa, Antwerpen",26905
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",23202
+51.198845,4.391295,"Kielsevest, Antwerpen",26029
+51.22025,4.416005,"Italielei, Antwerpen",21955
+51.22025,4.416005,"Italielei, Antwerpen",21935
+51.225337,4.413867,"Rijnpoortvest, Antwerpen",20911
+51.202485,4.43029,"Generaal van Merlenstraa, Antwerpen",26906
+51.198232,4.41112,"Prins Albertlei, Antwerpen",27007
+51.20403,4.39205,"Montignystraat, Antwerpen",26030
+51.20487,4.396215,"Paleisstraat, Antwerpen",26007
+51.22025,4.416005,"Italielei, Antwerpen",21936
+51.22564,4.410255,"Stijfselrui, Antwerpen",20912
+51.229815,4.411225,"Entrepotkaai, Antwerpen",24502
+51.202392,4.432312,"Waterloostraat, Antwerpen",26907
+51.210735,4.40988,"Van Breestraat, Antwerpen",22919
+51.198232,4.41112,"Prins Albertlei, Antwerpen",27008
+51.206745,4.398115,"Bresstraat, Antwerpen",26008
+51.22517,4.416935,"Sint-Jansplein, Antwerpen",21938
+51.22564,4.410255,"Stijfselrui, Antwerpen",20913
+51.22809,4.426261,"Biekorfstraat, Antwerpen",26857
+51.203045,4.430685,"Transvaalstraat, Antwerpen",26908
+51.208415,4.402935,"Anselmostraat, Antwerpen",23102
+51.206745,4.398115,"Bresstraat, Antwerpen",26009
+51.229315,4.417215,"De Pretstraat, Antwerpen",21939
+51.234175,4.411055,"Napelsstraat, Antwerpen",24503
+51.226786,4.411787,"Ankerrui, Antwerpen",20914
+51.22809,4.426261,"Biekorfstraat, Antwerpen",26858
+51.208415,4.402935,"Anselmostraat, Antwerpen",23103
+51.20487,4.396215,"Paleisstraat, Antwerpen",26011
+51.22794,4.41875,"Lange Dijkstraat, Antwerpen",21940
+51.226786,4.411787,"Ankerrui, Antwerpen",20915
+51.226975,4.427295,"Tulpstraat, Antwerpen",26860
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23104
+51.20487,4.396215,"Paleisstraat, Antwerpen",26012
+51.22794,4.41875,"Lange Dijkstraat, Antwerpen",21941
+51.22996,4.410555,"Napoleonkaai, Antwerpen",24504
+51.226786,4.411787,"Ankerrui, Antwerpen",20916
+51.227394,4.426416,"Everaertsstraat, Antwerpen",26862
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23105
+51.205524,4.396387,"Bestormingstraat, Antwerpen",26013
+51.226585,4.418875,"Brugstraat, Antwerpen",21942
+51.226786,4.411787,"Ankerrui, Antwerpen",20917
+51.21316,4.409035,"Oude Vaartplaats, Antwerpen",20810
+51.226975,4.427295,"Tulpstraat, Antwerpen",26864
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23106
+51.204825,4.39566,"Belegstraat, Antwerpen",26014
+51.231428,4.409545,"Londenstraat, Antwerpen",24505
+51.226335,4.414785,"Cassiersstraat, Antwerpen",21943
+51.21316,4.409035,"Oude Vaartplaats, Antwerpen",20811
+51.227394,4.426416,"Everaertsstraat, Antwerpen",26866
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23108
+51.202605,4.393905,"Balansstraat, Antwerpen",26016
+51.226335,4.414785,"Cassiersstraat, Antwerpen",21944
+51.21645,4.406163,"Schuttershofstraat, Antwerpen",20812
+51.226975,4.427295,"Tulpstraat, Antwerpen",26868
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23109
+51.202605,4.393905,"Balansstraat, Antwerpen",26018
+51.231428,4.409545,"Londenstraat, Antwerpen",24506
+51.229245,4.415405,"Van de Wervestraat, Antwerpen",21945
+51.21645,4.406163,"Schuttershofstraat, Antwerpen",20813
+51.221835,4.416475,"Violierstraat, Antwerpen",21925
+51.226675,4.423975,"Sint-Amandusstraat, Antwerpen",26870
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23110
+51.202605,4.393905,"Balansstraat, Antwerpen",26020
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25614
+51.22701,4.41242,"Tunnelplaats, Antwerpen",20901
+51.22025,4.416005,"Italielei, Antwerpen",21926
+51.227394,4.426416,"Everaertsstraat, Antwerpen",26872
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",23111
+51.210825,4.407105,"Britse Lei, Antwerpen",22908
+51.231428,4.409545,"Londenstraat, Antwerpen",24507
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25615
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20902
+51.22025,4.416005,"Italielei, Antwerpen",21927
+51.22504,4.422588,"Klipstraat, Antwerpen",26838
+51.22809,4.426261,"Biekorfstraat, Antwerpen",26874
+51.210825,4.407105,"Britse Lei, Antwerpen",22909
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25616
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20903
+51.22025,4.416005,"Italielei, Antwerpen",21928
+51.229815,4.421795,"Viaduct Dam, Antwerpen",26840
+51.20961,4.40765,"Justitiestraat, Antwerpen",22910
+51.23043,4.40921,"Bordeauxstraat, Antwerpen",24508
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25620
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20904
+51.22025,4.416005,"Italielei, Antwerpen",21929
+51.229555,4.422795,"Sint-Jobstraat, Antwerpen",26842
+51.20961,4.40765,"Justitiestraat, Antwerpen",22911
+51.20487,4.396215,"Paleisstraat, Antwerpen",26001
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20906
+51.22025,4.416005,"Italielei, Antwerpen",21930
+51.22849,4.425125,"Oranjestraat, Antwerpen",26844
+51.20961,4.40765,"Justitiestraat, Antwerpen",22912
+51.230415,4.40782,"Verbindingsdok Oostkaai, Antwerpen",24509
+51.20487,4.396215,"Paleisstraat, Antwerpen",26002
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20907
+51.22025,4.416005,"Italielei, Antwerpen",21931
+51.229555,4.422795,"Sint-Jobstraat, Antwerpen",26846
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22913
+51.20487,4.396215,"Paleisstraat, Antwerpen",26003
+51.22025,4.416005,"Italielei, Antwerpen",21932
+51.22342,4.4264,"Gasstraat, Antwerpen",26848
+51.211492,4.401057,"Kasteelpleinstraat, Antwerpen",22914
+51.231428,4.409545,"Londenstraat, Antwerpen",24510
+51.20487,4.396215,"Paleisstraat, Antwerpen",26004
+51.22025,4.416005,"Italielei, Antwerpen",21933
+51.22748,4.431475,"Visestraat, Antwerpen",26850
+51.20934,4.405805,"Mertens en Torfsstraat, Antwerpen",22915
+51.20726,4.399655,"Bolwerkstraat, Antwerpen",26005
+51.22025,4.416005,"Italielei, Antwerpen",21934
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25639
+51.224255,4.41729,"Van Maerlantstraat, Antwerpen",21915
+51.22748,4.431475,"Visestraat, Antwerpen",26852
+51.211492,4.401057,"Kasteelpleinstraat, Antwerpen",22916
+51.231428,4.409545,"Londenstraat, Antwerpen",24511
+51.20487,4.396215,"Paleisstraat, Antwerpen",26006
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25004
+51.224255,4.41729,"Van Maerlantstraat, Antwerpen",21916
+51.22849,4.425125,"Oranjestraat, Antwerpen",26854
+51.20904,4.404885,"Stockmansstraat, Antwerpen",22917
+51.212865,4.3971,"Willem Lepelstraat, Antwerpen",22847
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25005
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25640
+51.224255,4.41729,"Van Maerlantstraat, Antwerpen",21917
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26826
+51.22809,4.426261,"Biekorfstraat, Antwerpen",26856
+51.212501,4.399238,"Sint-Rochusstraat, Antwerpen",22849
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25006
+51.22456,4.41546,"Vondelstraat, Antwerpen",21918
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26827
+51.212501,4.399238,"Sint-Rochusstraat, Antwerpen",22850
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25007
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25641
+51.22456,4.41546,"Vondelstraat, Antwerpen",21919
+51.225155,4.424555,"Walenstraat, Antwerpen",26828
+51.210825,4.407105,"Britse Lei, Antwerpen",22901
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25008
+51.22377,4.41669,"Olijftakstraat, Antwerpen",21920
+51.224805,4.423778,"Maaldersstraat, Antwerpen",26830
+51.210825,4.407105,"Britse Lei, Antwerpen",22902
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25642
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25009
+51.22377,4.41669,"Olijftakstraat, Antwerpen",21921
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26831
+51.210825,4.407105,"Britse Lei, Antwerpen",22903
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25010
+51.22305,4.41829,"Goudbloemstraat, Antwerpen",21922
+51.223455,4.42301,"Nachtegaalstraat, Antwerpen",26832
+51.210825,4.407105,"Britse Lei, Antwerpen",22904
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25643
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25011
+51.22305,4.41829,"Goudbloemstraat, Antwerpen",21923
+51.225965,4.423395,"Sint-Norbertusstraat, Antwerpen",26833
+51.210825,4.407105,"Britse Lei, Antwerpen",22905
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25012
+51.22305,4.41829,"Goudbloemstraat, Antwerpen",21924
+51.224725,4.41995,"Sint-Gummarusstraat, Antwerpen",21905
+51.223455,4.42301,"Nachtegaalstraat, Antwerpen",26834
+51.210825,4.407105,"Britse Lei, Antwerpen",22906
+51.219506,4.423175,"Winkelhaakstraat, Antwerpen",24207
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25613
+51.229315,4.417215,"De Pretstraat, Antwerpen",24440
+51.222743,4.420038,"Rotterdamstraat, Antwerpen",21906
+51.22171,4.42631,"Diepestraat, Antwerpen",26835
+51.210825,4.407105,"Britse Lei, Antwerpen",22907
+51.21442,4.39638,"Pachtstraat, Antwerpen",22837
+51.22868,4.414855,"Duboisstraat, Antwerpen",24441
+51.222743,4.420038,"Rotterdamstraat, Antwerpen",21907
+51.22171,4.42631,"Diepestraat, Antwerpen",26836
+51.21398,4.397335,"Prekersstraat, Antwerpen",22838
+51.219506,4.423175,"Winkelhaakstraat, Antwerpen",24208
+51.22868,4.414855,"Duboisstraat, Antwerpen",24442
+51.222743,4.420038,"Rotterdamstraat, Antwerpen",21908
+51.21398,4.397335,"Prekersstraat, Antwerpen",22839
+51.21171,4.427775,"Bleekhofstraat, Antwerpen",26223
+51.22868,4.414855,"Duboisstraat, Antwerpen",24443
+51.222743,4.420038,"Rotterdamstraat, Antwerpen",21909
+51.210605,4.389025,"Luikstraat, Antwerpen",23529
+51.21398,4.397335,"Prekersstraat, Antwerpen",22840
+51.220535,4.41883,"Van Straelenlei, Antwerpen",24209
+51.211367,4.428139,"Van der Meydenstraat, Antwerpen",26224
+51.22814,4.41506,"De Waghemakerestraat, Antwerpen",24444
+51.220535,4.41883,"Van Stralenstraat, Antwerpen",21910
+51.211005,4.38963,"Wapenstraat, Antwerpen",23530
+51.21254,4.396525,"Van Craesbeeckstraat, Antwerpen",22841
+51.210935,4.428535,"Marinisstraat, Antwerpen",26226
+51.22748,4.41438,"Van Aerdtstraat, Antwerpen",24445
+51.220535,4.41883,"Van Stralenstraat, Antwerpen",21911
+51.212408,4.391179,"Timmerwerfstraat, Antwerpen",23531
+51.21254,4.396525,"Van Craesbeeckstraat, Antwerpen",22842
+51.215085,4.44191,"Sint-Bartholomeusstraat, Antwerpen",24210
+51.211026,4.430235,"Bouwensstraat, Antwerpen",26228
+51.22748,4.41438,"Van Aerdtstraat, Antwerpen",24446
+51.2208,4.41796,"Osystraat, Antwerpen",21912
+51.21306,4.39195,"Scheldestraat, Antwerpen",23532
+51.21254,4.396525,"Van Craesbeeckstraat, Antwerpen",22843
+51.21171,4.427775,"Bleekhofstraat, Antwerpen",26230
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25001
+51.2208,4.41796,"Osystraat, Antwerpen",21913
+51.206335,4.38678,"Gentplaats, Antwerpen",23533
+51.212865,4.3971,"Willem Lepelstraat, Antwerpen",22844
+51.222085,4.39771,"Doelhofstraat, Antwerpen",24211
+51.21171,4.427775,"Bleekhofstraat, Antwerpen",26231
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25002
+51.2208,4.41796,"Osystraat, Antwerpen",21914
+51.210445,4.41454,"Van Eycklei, Antwerpen",21820
+51.212865,4.3971,"Willem Lepelstraat, Antwerpen",22845
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27011
+51.21171,4.427775,"Bleekhofstraat, Antwerpen",26232
+51.22794,4.41875,"Lange Dijkstraat, Antwerpen",24430
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",25003
+51.210445,4.41454,"Van Eycklei, Antwerpen",21821
+51.193535,4.411981,"Generaal Lemanstraat, Antwerpen",23702
+51.212865,4.3971,"Willem Lepelstraat, Antwerpen",22846
+51.21574,4.399697,"Sint-Antoniusstraat, Antwerpen",22824
+51.21237,4.430935,"Langstraat, Antwerpen",26234
+51.22794,4.41875,"Lange Dijkstraat, Antwerpen",24431
+51.210445,4.41454,"Van Eycklei, Antwerpen",21822
+51.193535,4.411981,"Generaal Lemanstraat, Antwerpen",23703
+51.214857,4.396141,"Sint-Andriesplaats, Antwerpen",22825
+51.21237,4.430935,"Langstraat, Antwerpen",26236
+51.22794,4.41875,"Lange Dijkstraat, Antwerpen",24432
+51.210445,4.41454,"Van Eycklei, Antwerpen",21823
+51.193535,4.411981,"Generaal Lemanstraat, Antwerpen",23705
+51.214905,4.39739,"Steenbergstraat, Antwerpen",22826
+51.21237,4.430935,"Langstraat, Antwerpen",26238
+51.22938,4.418705,"Fuggerstraat, Antwerpen",24433
+51.215645,4.429645,"Van Leentstraat, Antwerpen",26211
+51.210445,4.41454,"Van Eycklei, Antwerpen",21825
+51.193535,4.411981,"Generaal Lemanstraat, Antwerpen",23706
+51.212569,4.390339,"Cockerillkaai, Antwerpen",23519
+51.216708,4.394651,"Vlaanderenstraat, Antwerpen",22830
+51.22938,4.418705,"Fuggerstraat, Antwerpen",24434
+51.211214,4.429174,"Kroonstraat, Antwerpen",26212
+51.210445,4.41454,"Van Eycklei, Antwerpen",21826
+51.208235,4.38477,"De Gerlachekaai, Antwerpen",23520
+51.216382,4.394002,"Sint-Michielsstraat, Antwerpen",22831
+51.22938,4.418705,"Fuggerstraat, Antwerpen",24435
+51.211214,4.429174,"Kroonstraat, Antwerpen",26213
+51.22517,4.416935,"Sint-Jansplein, Antwerpen",21901
+51.208235,4.38477,"De Gerlachekaai, Antwerpen",23521
+51.215494,4.393432,"Arsenaalstraat, Antwerpen",22832
+51.229315,4.417215,"De Pretstraat, Antwerpen",24436
+51.213902,4.426961,"Milisstraat, Antwerpen",26214
+51.22516,4.419495,"Oudesteenweg, Antwerpen",21902
+51.208235,4.38477,"De Gerlachekaai, Antwerpen",23522
+51.214783,4.393413,"Fortuinstraat, Antwerpen",22833
+51.229315,4.417215,"De Pretstraat, Antwerpen",24437
+51.213902,4.426961,"Milisstraat, Antwerpen",26215
+51.224417,4.419692,"Hollandstraat, Antwerpen",21903
+51.208235,4.38477,"De Gerlachekaai, Antwerpen",23523
+51.214206,4.392845,"Goedehoopstraat, Antwerpen",22834
+51.229315,4.417215,"De Pretstraat, Antwerpen",24438
+51.211214,4.429174,"Kroonstraat, Antwerpen",26217
+51.224417,4.419692,"Hollandstraat, Antwerpen",21904
+51.212015,4.417695,"Van Leriusstraat, Antwerpen",21809
+51.207361,4.384838,"Van der Sweepstraat, Antwerpen",23524
+51.213398,4.39305,"Riemstraat, Antwerpen",22835
+51.229315,4.417215,"De Pretstraat, Antwerpen",24439
+51.22516,4.419495,"Oudesteenweg, Antwerpen",24420
+51.21322,4.42719,"Borgerhoutsestraat, Antwerpen",26218
+51.212015,4.417695,"Van Leriusstraat, Antwerpen",21810
+51.213398,4.39305,"Riemstraat, Antwerpen",22836
+51.21426,4.393835,"Kloosterstraat, Antwerpen",22814
+51.20838,4.386091,"Schalienstraat, Antwerpen",23525
+51.21322,4.42719,"Borgerhoutsestraat, Antwerpen",26220
+51.22516,4.419495,"Oudesteenweg, Antwerpen",24421
+51.21007,4.41798,"Loosplaats, Antwerpen",21811
+51.20942,4.387555,"Lakenstraat, Antwerpen",23526
+51.21426,4.393835,"Kloosterstraat, Antwerpen",22815
+51.211214,4.429174,"Kroonstraat, Antwerpen",26221
+51.22849,4.425125,"Oranjestraat, Antwerpen",24422
+51.209832,4.420506,"Brialmontlei, Antwerpen",21812
+51.210045,4.38764,"Visserskaai, Antwerpen",23527
+51.21426,4.393835,"Kloosterstraat, Antwerpen",22816
+51.21171,4.427775,"Bleekhofstraat, Antwerpen",26222
+51.20381,4.39759,"Haantjeslei, Antwerpen",26172
+51.22849,4.425125,"Oranjestraat, Antwerpen",24423
+51.209832,4.420506,"Brialmontlei, Antwerpen",21813
+51.210175,4.38853,"IJzerenpoortkaai, Antwerpen",23528
+51.215255,4.395315,"Korte Vlierstraat, Antwerpen",22817
+51.20859,4.38759,"Waalsekaai, Antwerpen",23509
+51.20381,4.39759,"Haantjeslei, Antwerpen",26173
+51.22705,4.419565,"Dahliastraat, Antwerpen",24424
+51.209832,4.420506,"Brialmontlei, Antwerpen",21814
+51.21443,4.397135,"Lange Vlierstraat, Antwerpen",22818
+51.20859,4.38759,"Waalsekaai, Antwerpen",23510
+51.216889,4.428396,"Van Geertstraat, Antwerpen",26201
+51.228,4.42024,"Marnixstraat, Antwerpen",24425
+51.209832,4.420506,"Brialmontlei, Antwerpen",21816
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25629
+51.21587,4.39774,"Pompstraat, Antwerpen",22819
+51.20859,4.38759,"Waalsekaai, Antwerpen",23511
+51.229815,4.411225,"Entrepotkaai, Antwerpen",24501
+51.215879,4.427222,"Dodoensstraat, Antwerpen",26202
+51.228,4.42024,"Marnixstraat, Antwerpen",24426
+51.210053,4.422182,"Mercatorstraat, Antwerpen",21817
+51.215055,4.398025,"Salm-Salmstraat, Antwerpen",22820
+51.20859,4.38759,"Waalsekaai, Antwerpen",23512
+51.216889,4.428396,"Van Geertstraat, Antwerpen",26203
+51.228597,4.420699,"Korte Dijkstraat, Antwerpen",24427
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25630
+51.210445,4.41454,"Van Eycklei, Antwerpen",21818
+51.216235,4.397625,"Sint-Andriesstraat, Antwerpen",22821
+51.20859,4.38759,"Waalsekaai, Antwerpen",23513
+51.216889,4.428396,"Van Geertstraat, Antwerpen",26204
+51.228597,4.420699,"Korte Dijkstraat, Antwerpen",24428
+51.210445,4.41454,"Van Eycklei, Antwerpen",21819
+51.215775,4.41994,"Vestingstraat, Antwerpen",21714
+51.216235,4.397625,"Sint-Andriesstraat, Antwerpen",22822
+51.20859,4.38759,"Waalsekaai, Antwerpen",23514
+51.215305,4.42705,"Tuinbouwstraat, Antwerpen",26205
+51.22794,4.41875,"Lange Dijkstraat, Antwerpen",24429
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25631
+51.215775,4.41994,"Vestingstraat, Antwerpen",21715
+51.21574,4.399697,"Sint-Antoniusstraat, Antwerpen",22823
+51.212569,4.390339,"Cockerillkaai, Antwerpen",23515
+51.214677,4.426509,"Ketsstraat, Antwerpen",26206
+51.211125,4.418545,"Jacob Jacobsstraat, Antwerpen",21801
+51.212569,4.390339,"Cockerillkaai, Antwerpen",23516
+51.214677,4.426509,"Ketsstraat, Antwerpen",26208
+51.234525,4.388616,"Thonetlaan, Antwerpen",25632
+51.20829,4.42139,"Belgielei, Antwerpen",22082
+51.211125,4.418545,"Jacob Jacobsstraat, Antwerpen",21802
+51.212569,4.390339,"Cockerillkaai, Antwerpen",23517
+51.22163,4.40051,"Wisselstraat, Antwerpen",20130
+51.215645,4.429645,"Van Leentstraat, Antwerpen",26210
+51.20471,4.398915,"Diercxsensstraat, Antwerpen",26154
+51.199918,4.411553,"Koningin Elisabethlei, Antwerpen",22083
+51.2151,4.417475,"Lange Herentalsestraat, Antwerpen",21803
+51.212569,4.390339,"Cockerillkaai, Antwerpen",23518
+51.207933,4.415118,"Breughelstraat, Antwerpen",23469
+51.222622,4.398057,"Jordaenskaai, Antwerpen",20131
+51.234525,4.388616,"Thonetlaan, Antwerpen",25633
+51.203587,4.398924,"Hertsdeinstraat, Antwerpen",26156
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22084
+51.212585,4.42104,"Simonsstraat, Antwerpen",21804
+51.207933,4.415118,"Breughelstraat, Antwerpen",23470
+51.222622,4.398057,"Jordaenskaai, Antwerpen",20132
+51.204825,4.39566,"Belegstraat, Antwerpen",26158
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22085
+51.212585,4.42104,"Simonsstraat, Antwerpen",21805
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23501
+51.225505,4.39986,"Orteliuskaai, Antwerpen",20133
+51.234525,4.388616,"Thonetlaan, Antwerpen",25634
+51.204075,4.396,"Lange Batterijstraat, Antwerpen",26160
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22086
+51.21254,4.419125,"Terliststraat, Antwerpen",21806
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23502
+51.222622,4.398057,"Jordaenskaai, Antwerpen",20134
+51.204075,4.396,"Lange Batterijstraat, Antwerpen",26162
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22087
+51.21254,4.419125,"Terliststraat, Antwerpen",21807
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23503
+51.222622,4.398057,"Jordaenskaai, Antwerpen",20135
+51.234525,4.388616,"Thonetlaan, Antwerpen",25635
+51.202615,4.395905,"Lange Achteromstraat, Antwerpen",26164
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22088
+51.21746,4.417665,"Appelmansstraat, Antwerpen",21701
+51.212015,4.417695,"Van Leriusstraat, Antwerpen",21808
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23504
+51.219125,4.3957,"Ernest Van Dijckkaai, Antwerpen",20137
+51.20314,4.396625,"Korte Achteromstraat, Antwerpen",26165
+51.210053,4.422182,"Mercatorstraat, Antwerpen",22089
+51.21746,4.417665,"Appelmansstraat, Antwerpen",21702
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23505
+51.219125,4.3957,"Ernest Van Dijckkaai, Antwerpen",20138
+51.234525,4.388616,"Thonetlaan, Antwerpen",25636
+51.202445,4.39664,"Sint-Laureisstraat, Antwerpen",26167
+51.204473,4.42709,"Cuperusstraat, Antwerpen",22090
+51.21746,4.417665,"Appelmansstraat, Antwerpen",21703
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23506
+51.219125,4.3957,"Ernest Van Dijckkaai, Antwerpen",20139
+51.229801,4.413483,"Ellermanstraat, Antwerpen",24403
+51.20381,4.39759,"Haantjeslei, Antwerpen",26170
+51.204473,4.42709,"Cuperusstraat, Antwerpen",22091
+51.2151,4.417475,"Lange Herentalsestraat, Antwerpen",21705
+51.20829,4.42139,"Belgielei, Antwerpen",22072
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23507
+51.219125,4.3957,"Ernest Van Dijckkaai, Antwerpen",20140
+51.22351,4.403035,"Lange Koepoortstraat, Antwerpen",20117
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25637
+51.20381,4.39759,"Haantjeslei, Antwerpen",26171
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",26140
+51.2147,4.41588,"Quinten Matsijslei, Antwerpen",21707
+51.20829,4.42139,"Belgielei, Antwerpen",22073
+51.209395,4.39028,"Vlaamsekaai, Antwerpen",23508
+51.209025,4.41396,"Memlingstraat, Antwerpen",23459
+51.224945,4.40088,"Sint-Paulusplaats, Antwerpen",20118
+51.207195,4.402,"Solvynsstraat, Antwerpen",26141
+51.2147,4.41588,"Quinten Matsijslei, Antwerpen",21708
+51.20829,4.42139,"Belgielei, Antwerpen",22074
+51.209205,4.41697,"Jacob Jordaensstraat, Antwerpen",23460
+51.21519,4.38287,"Beatrijslaan, Antwerpen",25638
+51.224915,4.400453,"Grote Kraaiwijk, Antwerpen",20119
+51.20638,4.39985,"Miraeusstraat, Antwerpen",26143
+51.2147,4.41588,"Quinten Matsijslei, Antwerpen",21709
+51.20829,4.42139,"Belgielei, Antwerpen",22075
+51.209205,4.41697,"Jacob Jordaensstraat, Antwerpen",23461
+51.224485,4.40226,"Sint-Paulusstraat, Antwerpen",20121
+51.20638,4.39985,"Miraeusstraat, Antwerpen",26145
+51.2147,4.41588,"Quinten Matsijslei, Antwerpen",21710
+51.20829,4.42139,"Belgielei, Antwerpen",22076
+51.209205,4.41697,"Jacob Jordaensstraat, Antwerpen",23462
+51.224485,4.40226,"Sint-Paulusstraat, Antwerpen",20122
+51.207195,4.402,"Solvynsstraat, Antwerpen",26147
+51.2147,4.41588,"Quinten Matsijslei, Antwerpen",21711
+51.20829,4.42139,"Belgielei, Antwerpen",22077
+51.209205,4.41697,"Jacob Jordaensstraat, Antwerpen",23463
+51.224485,4.40226,"Sint-Paulusstraat, Antwerpen",20123
+51.207195,4.402,"Solvynsstraat, Antwerpen",26148
+51.2147,4.41588,"Quinten Matsijslei, Antwerpen",21712
+51.213545,4.41359,"Rubenslei, Antwerpen",21625
+51.20829,4.42139,"Belgielei, Antwerpen",22078
+51.209678,4.415518,"Antoon van Dyckstraat, Antwerpen",23464
+51.226161,4.400563,"Sint-Pietersvliet, Antwerpen",20125
+51.20471,4.398915,"Diercxsensstraat, Antwerpen",26149
+51.20829,4.42139,"Belgielei, Antwerpen",22079
+51.213545,4.41359,"Rubenslei, Antwerpen",21626
+51.209678,4.415518,"Antoon van Dyckstraat, Antwerpen",23465
+51.223904,4.400121,"Veemarkt, Antwerpen",20126
+51.20591,4.398645,"Boudewijnsstraat, Antwerpen",26150
+51.20829,4.42139,"Belgielei, Antwerpen",22080
+51.213545,4.41359,"Rubenslei, Antwerpen",21627
+51.209678,4.415518,"Antoon van Dyckstraat, Antwerpen",23466
+51.222741,4.398446,"Vleeshuisstraat, Antwerpen",20127
+51.202445,4.39664,"Sint-Laureisstraat, Antwerpen",26152
+51.20829,4.42139,"Belgielei, Antwerpen",22081
+51.210465,4.395245,"Volkstraat, Antwerpen",22062
+51.213545,4.41359,"Rubenslei, Antwerpen",21628
+51.209678,4.415518,"Antoon van Dyckstraat, Antwerpen",23467
+51.223205,4.398873,"Zakstraat, Antwerpen",20128
+51.1969,4.42615,"Victor Jacobslei, Antwerpen",20040
+51.202445,4.39664,"Sint-Laureisstraat, Antwerpen",26153
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",26129
+51.210465,4.395245,"Volkstraat, Antwerpen",22063
+51.213545,4.41359,"Rubenslei, Antwerpen",21629
+51.207933,4.415118,"Breughelstraat, Antwerpen",23468
+51.210505,4.4114,"Edelinckstraat, Antwerpen",23429
+51.1969,4.42615,"Victor Jacobslei, Antwerpen",20041
+51.20466,4.402805,"Stefaniestraat, Antwerpen",26130
+51.216555,4.39855,"Augustijnenstraat, Antwerpen",22827
+51.206225,4.38989,"Edward Pecherstraat, Antwerpen",22064
+51.213545,4.41359,"Rubenslei, Antwerpen",21630
+51.210505,4.4114,"Edelinckstraat, Antwerpen",23430
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",20042
+51.20466,4.402805,"Stefaniestraat, Antwerpen",26131
+51.206225,4.38989,"Edward Pecherstraat, Antwerpen",22065
+51.213545,4.41359,"Rubenslei, Antwerpen",21631
+51.209755,4.4119,"Van Noortstraat, Antwerpen",23431
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",20043
+51.226975,4.427295,"Tulpstraat, Antwerpen",26878
+51.22437,4.4064,"Lange Noordstraat, Antwerpen",20919
+51.20591,4.398645,"Boudewijnsstraat, Antwerpen",26132
+51.20708,4.388721,"Gijzelaarsstraat, Antwerpen",22066
+51.213545,4.41359,"Rubenslei, Antwerpen",21632
+51.209755,4.4119,"Van Noortstraat, Antwerpen",23432
+51.22234,4.39732,"Steenplein, Antwerpen",20102
+51.20591,4.398645,"Boudewijnsstraat, Antwerpen",26133
+51.208635,4.396245,"Schildersstraat, Antwerpen",22067
+51.213545,4.41359,"Rubenslei, Antwerpen",21633
+51.20942,4.412685,"Bexstraat, Antwerpen",23433
+51.2222,4.40465,"Minderbroedersrui, Antwerpen",20103
+51.210735,4.40988,"Van Breestraat, Antwerpen",22921
+51.203535,4.40106,"Clementinastraat, Antwerpen",26134
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22068
+51.213545,4.41359,"Rubenslei, Antwerpen",21634
+51.20942,4.412685,"Bexstraat, Antwerpen",23434
+51.2222,4.40465,"Minderbroedersrui, Antwerpen",20105
+51.203535,4.40106,"Clementinastraat, Antwerpen",26135
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22069
+51.20942,4.412685,"Bexstraat, Antwerpen",23435
+51.22353,4.399345,"Burchtgracht, Antwerpen",20108
+51.210735,4.40988,"Van Breestraat, Antwerpen",22922
+51.203535,4.40106,"Clementinastraat, Antwerpen",26136
+51.206225,4.387895,"Pacificatiestraat, Antwerpen",22070
+51.209277,4.413228,"Florisstraat, Antwerpen",23456
+51.22351,4.403035,"Lange Koepoortstraat, Antwerpen",20115
+51.205285,4.401855,"Rudolfstraat, Antwerpen",26137
+51.209967,4.395872,"Karel Rogierstraat, Antwerpen",22071
+51.207122,4.393409,"Admiraal de Boisotstraat, Antwerpen",22052
+51.209813,4.414408,"Rembrandtstraat, Antwerpen",23457
+51.22351,4.403035,"Lange Koepoortstraat, Antwerpen",20116
+51.2001,4.43897,"Borsbeekbrug, Antwerpen",20029
+51.205285,4.401855,"Rudolfstraat, Antwerpen",26138
+51.20471,4.398915,"Diercxsensstraat, Antwerpen",26146
+51.200555,4.40249,"Robert Molsstraat, Antwerpen",26114
+51.207227,4.395695,"Beeldhouwersstraat, Antwerpen",22053
+51.209813,4.414408,"Rembrandtstraat, Antwerpen",23458
+51.20492,4.41371,"Sint-Vincentiusstraat, Antwerpen",23419
+51.197565,4.426695,"Generaal Drubbelstraat, Antwerpen",20030
+51.20054,4.40123,"Van Trierstraat, Antwerpen",26115
+51.207227,4.395695,"Beeldhouwersstraat, Antwerpen",22054
+51.19611,4.422275,"Patriottenstraat, Antwerpen",26970
+51.20492,4.41371,"Sint-Vincentiusstraat, Antwerpen",23420
+51.194108,4.435642,"Posthofbrug, Antwerpen",20031
+51.201296,4.423666,"Albert Claudestraat, Antwerpen",26983
+51.20054,4.40123,"Van Trierstraat, Antwerpen",26116
+51.20767,4.39562,"Plaatsnijdersstraat, Antwerpen",22055
+51.196925,4.423265,"De Villegasstraat, Antwerpen",26971
+51.20492,4.41371,"Sint-Vincentiusstraat, Antwerpen",23421
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",20033
+51.20381,4.39759,"Haantjeslei, Antwerpen",26118
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25621
+51.210745,4.400785,"Verbondstraat, Antwerpen",22056
+51.196925,4.423265,"De Villegasstraat, Antwerpen",26972
+51.204502,4.412355,"Sint-Thomasstraat, Antwerpen",23422
+51.197565,4.426695,"Generaal Drubbelstraat, Antwerpen",20034
+51.216085,4.435875,"Generaal Eisenhowerlei, Antwerpen",26481
+51.20141,4.399565,"Pyckestraat, Antwerpen",26119
+51.204924,4.388379,"Jan van Gentstraat, Antwerpen",22057
+51.197015,4.424505,"Baron de Catersstraat, Antwerpen",26973
+51.204502,4.412355,"Sint-Thomasstraat, Antwerpen",23423
+51.19587,4.41977,"Driekoningenstraat, Antwerpen",20035
+51.20141,4.399565,"Pyckestraat, Antwerpen",26120
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25622
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22058
+51.197565,4.426695,"Generaal Drubbelstraat, Antwerpen",26974
+51.204502,4.412355,"Sint-Thomasstraat, Antwerpen",23424
+51.19587,4.41977,"Driekoningenstraat, Antwerpen",20036
+51.213075,4.4173,"Lange Kievitstraat, Antwerpen",22349
+51.202577,4.401353,"Ballaerstraat, Antwerpen",26122
+51.20782,4.391985,"Leopold de Waelstraat, Antwerpen",22059
+51.198451,4.430954,"Van Vaerenberghstraat, Antwerpen",26975
+51.20518,4.415015,"Albertstraat, Antwerpen",23425
+51.218294,4.418671,"Statiestraat, Antwerpen",20037
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25623
+51.202577,4.401353,"Ballaerstraat, Antwerpen",26124
+51.2064,4.392575,"Graaf van Hoornestraat, Antwerpen",22060
+51.207857,4.438257,"Minkelersstraat, Antwerpen",26976
+51.20518,4.415015,"Albertstraat, Antwerpen",23426
+51.218294,4.418671,"Statiestraat, Antwerpen",20038
+51.202577,4.401353,"Ballaerstraat, Antwerpen",26126
+51.196785,4.420415,"Berthoutstraat, Antwerpen",26980
+51.20754,4.39006,"Kasteelstraat, Antwerpen",22061
+51.208665,4.392685,"De Burburestraat, Antwerpen",22042
+51.199825,4.421095,"Bindstraat, Antwerpen",26979
+51.203817,4.413814,"Sterstraat, Antwerpen",23427
+51.218294,4.418671,"Statiestraat, Antwerpen",20039
+51.20172,4.433405,"Guldenvliesstraat, Antwerpen",20019
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25624
+51.20458,4.40445,"Lange Lozanastraat, Antwerpen",26128
+51.195635,4.40052,"Van Putlei, Antwerpen",26102
+51.199045,4.423315,"Daenenstraat, Antwerpen",26981
+51.208755,4.390665,"Pourbusstraat, Antwerpen",22043
+51.207857,4.438257,"Minkelersstraat, Antwerpen",26977
+51.203817,4.413814,"Sterstraat, Antwerpen",23428
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23408
+51.201605,4.43114,"Klokstraat, Antwerpen",20020
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",26103
+51.204139,4.43497,"Velodroomstraat, Antwerpen",26982
+51.20828,4.39026,"Verschansingstraat, Antwerpen",22044
+51.206195,4.436078,"Krugerstraat, Antwerpen",26978
+51.207933,4.410748,"Hertoginstraat, Antwerpen",23410
+51.201379,4.431805,"Krijtstraat, Antwerpen",20021
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25625
+51.199765,4.40276,"Lemmestraat, Antwerpen",26104
+51.20828,4.39026,"Verschansingstraat, Antwerpen",22045
+51.207933,4.410748,"Hertoginstraat, Antwerpen",23411
+51.201191,4.432435,"Leemputstraat, Antwerpen",20022
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",26105
+51.216683,4.443541,"Florastraat, Antwerpen",26424
+51.20754,4.39006,"Kasteelstraat, Antwerpen",22046
+51.207933,4.410748,"Hertoginstraat, Antwerpen",23412
+51.189635,4.379965,"Abdijstraat, Antwerpen",23828
+51.202392,4.432312,"Waterloostraat, Antwerpen",20023
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25626
+51.20638,4.427,"Arendstraat, Antwerpen",22430
+51.226,4.433805,"Familiestraat, Antwerpen",26767
+51.20381,4.39759,"Haantjeslei, Antwerpen",26106
+51.218405,4.44226,"Terloostraat, Antwerpen",26426
+51.20735,4.390997,"Lambermontplaats, Antwerpen",22047
+51.2077,4.41156,"Korte Leemstraat, Antwerpen",23413
+51.222085,4.39771,"Borrewaterstraat, Antwerpen",24101
+51.202665,4.43372,"Cogels Osylei, Antwerpen",20024
+51.2083,4.42902,"Grote Beerstraat, Antwerpen",22431
+51.22641,4.434605,"Nikkelstraat, Antwerpen",26788
+51.199775,4.40396,"Van Schoonbekestraat, Antwerpen",26107
+51.217074,4.442374,"Borsbeekstraat, Antwerpen",26428
+51.20735,4.390997,"Lambermontplaats, Antwerpen",22048
+51.2077,4.41156,"Korte Leemstraat, Antwerpen",23414
+51.238252,4.424285,"Bredabaan, Antwerpen",24102
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",20025
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25627
+51.2083,4.42902,"Grote Beerstraat, Antwerpen",22432
+51.201785,4.404185,"Durletstraat, Antwerpen",26110
+51.217074,4.442374,"Borsbeekstraat, Antwerpen",26430
+51.20782,4.391985,"Leopold de Waelstraat, Antwerpen",22049
+51.207065,4.410375,"Sint-Jozefstraat, Antwerpen",23415
+51.238252,4.424285,"Bredabaan, Antwerpen",24103
+51.1969,4.42615,"Victor Jacobslei, Antwerpen",20026
+51.2083,4.42902,"Grote Beerstraat, Antwerpen",22433
+51.201785,4.404185,"Durletstraat, Antwerpen",26111
+51.215415,4.44429,"Gijselsstraat, Antwerpen",26431
+51.2064,4.392575,"Graaf van Hoornestraat, Antwerpen",22050
+51.207065,4.410375,"Sint-Jozefstraat, Antwerpen",23416
+51.238252,4.424285,"Bredabaan, Antwerpen",24105
+51.204139,4.43497,"Velodroomstraat, Antwerpen",20027
+51.22164,4.38704,"Frederik van Eedenplein, Antwerpen",25628
+51.2083,4.42902,"Grote Beerstraat, Antwerpen",22434
+51.200555,4.40249,"Robert Molsstraat, Antwerpen",26112
+51.215815,4.4432,"Gravinstraat, Antwerpen",26432
+51.207155,4.39449,"Allewaertstraat, Antwerpen",22051
+51.206225,4.387895,"Pacificatiestraat, Antwerpen",22032
+51.207065,4.410375,"Sint-Jozefstraat, Antwerpen",23417
+51.238252,4.424285,"Bredabaan, Antwerpen",24106
+51.2001,4.43897,"Borsbeekbrug, Antwerpen",20028
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",20009
+51.208015,4.43176,"Walvisstraat, Antwerpen",22435
+51.200555,4.40249,"Robert Molsstraat, Antwerpen",26113
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",26085
+51.215415,4.44429,"Gijselsstraat, Antwerpen",26433
+51.206225,4.387895,"Pacificatiestraat, Antwerpen",22033
+51.207065,4.410375,"Sint-Jozefstraat, Antwerpen",23418
+51.205965,4.40543,"Fourmentstraat, Antwerpen",23329
+51.238252,4.424285,"Bredabaan, Antwerpen",24107
+51.198451,4.430954,"Van Vaerenberghstraat, Antwerpen",20010
+51.208015,4.43176,"Walvisstraat, Antwerpen",22436
+51.21763,4.441065,"Examenstraat, Antwerpen",26435
+51.197695,4.394171,"Desguinlei, Antwerpen",26086
+51.205785,4.39045,"Baron d Hanislaan, Antwerpen",22034
+51.238252,4.424285,"Bredabaan, Antwerpen",24108
+51.2066,4.405057,"Jozef De Bomstraat, Antwerpen",23330
+51.198901,4.430069,"Callensstraat, Antwerpen",20011
+51.208015,4.43176,"Walvisstraat, Antwerpen",22437
+51.215415,4.44429,"Gijselsstraat, Antwerpen",26437
+51.197695,4.394171,"Desguinlei, Antwerpen",26087
+51.20708,4.388721,"Gijzelaarsstraat, Antwerpen",22035
+51.238252,4.424285,"Bredabaan, Antwerpen",24109
+51.2066,4.405057,"Jozef De Bomstraat, Antwerpen",23331
+51.194108,4.435642,"Posthofbrug, Antwerpen",20012
+51.207522,4.431604,"Kreeftstraat, Antwerpen",22438
+51.215415,4.44429,"Gijselsstraat, Antwerpen",26438
+51.215365,4.445105,"Statielei, Antwerpen",26406
+51.19733,4.402445,"Arthur Goemaerelei, Antwerpen",26090
+51.20708,4.388721,"Gijzelaarsstraat, Antwerpen",22036
+51.238252,4.424285,"Bredabaan, Antwerpen",24110
+51.189305,4.381695,"Pierenbergstraat, Antwerpen",23818
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23401
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",20013
+51.207875,4.430865,"Nottebohmstraat, Antwerpen",22440
+51.208115,4.42819,"Ramstraat, Antwerpen",22420
+51.21846,4.444242,"Albrecht Rodenbachstraat, Antwerpen",26407
+51.19733,4.402445,"Arthur Goemaerelei, Antwerpen",26091
+51.206225,4.387895,"Pacificatiestraat, Antwerpen",22037
+51.19063,4.37913,"Richard Baseleerstraat, Antwerpen",23819
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23402
+51.202665,4.43372,"Cogels Osylei, Antwerpen",20014
+51.208435,4.425555,"Korte Van Ruusbroecstraa, Antwerpen",22421
+51.217255,4.444895,"Zendelingenstraat, Antwerpen",26408
+51.19733,4.402445,"Arthur Goemaerelei, Antwerpen",26092
+51.20551,4.389165,"Emiel Banningstraat, Antwerpen",22038
+51.191115,4.38032,"Jacob Le Mairestraat, Antwerpen",23820
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23403
+51.200735,4.43035,"Stanleystraat, Antwerpen",20015
+51.208155,4.42722,"Lange Van Ruusbroecstraa, Antwerpen",22422
+51.218405,4.44226,"Terloostraat, Antwerpen",26410
+51.19733,4.402445,"Arthur Goemaerelei, Antwerpen",26093
+51.20551,4.389165,"Emiel Banningstraat, Antwerpen",22039
+51.189055,4.38297,"Kanunnikenstraat, Antwerpen",23821
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23404
+51.19924,4.427255,"Jozef Balstraat, Antwerpen",20016
+51.208155,4.42722,"Lange Van Ruusbroecstraa, Antwerpen",22423
+51.21812,4.44332,"Vooruitzichtstraat, Antwerpen",26412
+51.195635,4.40052,"Van Putlei, Antwerpen",26095
+51.20551,4.389165,"Emiel Banningstraat, Antwerpen",22040
+51.18826,4.38489,"Wittestraat, Antwerpen",23822
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23405
+51.198451,4.430954,"Van Vaerenberghstraat, Antwerpen",20017
+51.208155,4.42722,"Lange Van Ruusbroecstraa, Antwerpen",22424
+51.21698,4.44414,"Karel Geertsstraat, Antwerpen",26414
+51.196395,4.401415,"Bosmanslei, Antwerpen",26099
+51.209675,4.392365,"Museumstraat, Antwerpen",22041
+51.21021,4.39303,"Verlatstraat, Antwerpen",22022
+51.18826,4.38489,"Wittestraat, Antwerpen",23823
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23406
+51.19844,4.4275,"Van Marsenillestraat, Antwerpen",20018
+51.207093,4.426865,"Steenbokstraat, Antwerpen",22425
+51.21698,4.44414,"Karel Geertsstraat, Antwerpen",26416
+51.20056,4.3986,"Markgravelei, Antwerpen",26074
+51.195635,4.40052,"Van Putlei, Antwerpen",26101
+51.21306,4.39195,"Scheldestraat, Antwerpen",22023
+51.213251,4.410244,"Frankrijklei, Antwerpen",21618
+51.18896,4.37865,"Gabriellastraat, Antwerpen",23824
+51.210795,4.40883,"Lange Leemstraat, Antwerpen",23407
+51.206195,4.40778,"Teichmannstraat, Antwerpen",23319
+51.207093,4.426865,"Steenbokstraat, Antwerpen",22426
+51.21698,4.44414,"Karel Geertsstraat, Antwerpen",26418
+51.19733,4.402445,"Arthur Goemaerelei, Antwerpen",26075
+51.21306,4.39195,"Scheldestraat, Antwerpen",22024
+51.189635,4.379965,"Abdijstraat, Antwerpen",23825
+51.20462,4.406015,"Verdussenstraat, Antwerpen",23320
+51.200735,4.43035,"Stanleystraat, Antwerpen",20001
+51.207235,4.428865,"Kleine Beerstraat, Antwerpen",22427
+51.216683,4.443541,"Florastraat, Antwerpen",26420
+51.20056,4.3986,"Markgravelei, Antwerpen",26076
+51.212205,4.39406,"Graaf van Egmontstraat, Antwerpen",22025
+51.189635,4.379965,"Abdijstraat, Antwerpen",23826
+51.20462,4.406015,"Verdussenstraat, Antwerpen",23321
+51.200735,4.43035,"Stanleystraat, Antwerpen",20002
+51.207235,4.428865,"Kleine Beerstraat, Antwerpen",22428
+51.216683,4.443541,"Florastraat, Antwerpen",26422
+51.197705,4.406325,"Lokkaardstraat, Antwerpen",26077
+51.210597,4.434051,"Betogingstraat, Antwerpen",26327
+51.212205,4.39406,"Graaf van Egmontstraat, Antwerpen",22026
+51.189635,4.379965,"Abdijstraat, Antwerpen",23827
+51.19063,4.37913,"Richard Baseleerstraat, Antwerpen",23808
+51.204135,4.40575,"Vinkenstraat, Antwerpen",23322
+51.20035,4.4289,"Boomgaardstraat, Antwerpen",20003
+51.20638,4.427,"Arendstraat, Antwerpen",22429
+51.209605,4.424805,"De Boeystraat, Antwerpen",22410
+51.197705,4.406325,"Lokkaardstraat, Antwerpen",26079
+51.210597,4.434051,"Betogingstraat, Antwerpen",26328
+51.21089,4.39339,"Vorstermanstraat, Antwerpen",22027
+51.191525,4.378505,"Zaanstraat, Antwerpen",23809
+51.204135,4.40575,"Vinkenstraat, Antwerpen",23323
+51.199898,4.429318,"Maatschappijstraat, Antwerpen",20004
+51.209895,4.425475,"Provinciestraat, Antwerpen",22411
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",26080
+51.209785,4.43525,"Ledeganckstraat, Antwerpen",26330
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22028
+51.204765,4.40682,"Jan Blockxstraat, Antwerpen",23324
+51.191525,4.378505,"Zaanstraat, Antwerpen",23810
+51.20001,4.42873,"De Fourneaustraat, Antwerpen",20005
+51.209123,4.425787,"Kruikstraat, Antwerpen",22412
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",26081
+51.209775,4.432415,"Montensstraat, Antwerpen",26331
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22029
+51.204765,4.40682,"Jan Blockxstraat, Antwerpen",23325
+51.1904,4.374815,"Schijfstraat, Antwerpen",23811
+51.199549,4.429001,"Batkinstraat, Antwerpen",20006
+51.208439,4.426541,"Rolwagenstraat, Antwerpen",22413
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",26082
+51.213005,4.433161,"Sergeyselsstraat, Antwerpen",26332
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22030
+51.204786,4.40456,"Isabella Brantstraat, Antwerpen",23326
+51.1904,4.374815,"Schijfstraat, Antwerpen",23812
+51.200155,4.428165,"Weidestraat, Antwerpen",20007
+51.208439,4.426541,"Rolwagenstraat, Antwerpen",22414
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",26083
+51.215365,4.445105,"Statielei, Antwerpen",26401
+51.212295,4.3952,"Kronenburgstraat, Antwerpen",22031
+51.209967,4.395872,"Karel Rogierstraat, Antwerpen",22012
+51.204786,4.40456,"Isabella Brantstraat, Antwerpen",23327
+51.188475,4.37941,"De Bosschaertstraat, Antwerpen",23813
+51.198485,4.42886,"Arthur Sterckstraat, Antwerpen",20008
+51.209115,4.427794,"Magdalenastraat, Antwerpen",22415
+51.197209,4.406895,"Jan Van Rijswijcklaan, Antwerpen",26084
+51.215365,4.445105,"Statielei, Antwerpen",26402
+51.209622,4.396505,"Zwijgerstraat, Antwerpen",22013
+51.2066,4.405057,"Jozef De Bomstraat, Antwerpen",23328
+51.188475,4.37941,"De Bosschaertstraat, Antwerpen",23814
+51.209545,4.429065,"Raafstraat, Antwerpen",22416
+51.215365,4.445105,"Statielei, Antwerpen",26403
+51.21044,4.39947,"Welvaartstraat, Antwerpen",22014
+51.188475,4.37941,"De Bosschaertstraat, Antwerpen",23815
+51.20813,4.429839,"Stierstraat, Antwerpen",22417
+51.215365,4.445105,"Statielei, Antwerpen",26404
+51.21044,4.39947,"Welvaartstraat, Antwerpen",22015
+51.208495,4.397805,"De Vrierestraat, Antwerpen",22191
+51.189305,4.381695,"Pierenbergstraat, Antwerpen",23816
+51.222218,4.410347,"Prinsstraat, Antwerpen",20713
+51.215595,4.40039,"Bogaardestraat, Antwerpen",22802
+51.20813,4.429839,"Stierstraat, Antwerpen",22418
+51.215365,4.445105,"Statielei, Antwerpen",26405
+51.20898,4.43605,"Vandenpeereboomstraat, Antwerpen",26317
+51.211029,4.399937,"Vrijheidstraat, Antwerpen",22016
+51.20829,4.42139,"Belgielei, Antwerpen",22192
+51.189305,4.381695,"Pierenbergstraat, Antwerpen",23817
+51.217605,4.419185,"Jan Breydelstraat, Antwerpen",27064
+51.220184,4.409688,"Sint-Jacobsstraat, Antwerpen",20714
+51.208115,4.42819,"Ramstraat, Antwerpen",22419
+51.2117,4.407575,"Mechelsesteenweg, Antwerpen",22380
+51.21039,4.438255,"Sterlingerstraat, Antwerpen",26318
+51.211029,4.399937,"Vrijheidstraat, Antwerpen",22017
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22193
+51.217605,4.419185,"Jan Breydelstraat, Antwerpen",27065
+51.219369,4.408791,"Lange Klarenstraat, Antwerpen",20718
+51.211205,4.45157,"Stenenbrug, Antwerpen",22401
+51.21135,4.436495,"Eugeen Joorsstraat, Antwerpen",26319
+51.21119,4.398435,"Lambermontstraat, Antwerpen",22018
+51.20791,4.4176,"Consciencestraat, Antwerpen",22194
+51.217605,4.419185,"Jan Breydelstraat, Antwerpen",27066
+51.21316,4.409035,"Oude Vaartplaats, Antwerpen",20802
+51.205905,4.431125,"Grote Hondstraat, Antwerpen",22402
+51.21135,4.436495,"Eugeen Joorsstraat, Antwerpen",26320
+51.21133,4.397267,"Geuzenstraat, Antwerpen",22019
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22195
+51.189635,4.379965,"Abdijstraat, Antwerpen",23801
+51.21522,4.40596,"Arenbergstraat, Antwerpen",20803
+51.205905,4.431125,"Grote Hondstraat, Antwerpen",22403
+51.21135,4.436495,"Eugeen Joorsstraat, Antwerpen",26321
+51.210465,4.395245,"Volkstraat, Antwerpen",22020
+51.21739,4.428645,"Carnotstraat, Antwerpen",22201
+51.22809,4.426261,"Biekorfstraat, Antwerpen",26877
+51.189635,4.379965,"Abdijstraat, Antwerpen",23802
+51.21522,4.40596,"Arenbergstraat, Antwerpen",20804
+51.205905,4.431125,"Grote Hondstraat, Antwerpen",22404
+51.21141,4.435655,"Schildstraat, Antwerpen",26322
+51.210465,4.395245,"Volkstraat, Antwerpen",22021
+51.209297,4.400817,"Tolstraat, Antwerpen",22002
+51.21739,4.428645,"Carnotstraat, Antwerpen",22202
+51.214681,4.420578,"Pelikaanstraat, Antwerpen",21827
+51.189635,4.379965,"Abdijstraat, Antwerpen",23803
+51.21509,4.406875,"Leopoldstraat, Antwerpen",20806
+51.205905,4.431125,"Grote Hondstraat, Antwerpen",22405
+51.21039,4.43513,"Zegepraalstraat, Antwerpen",26323
+51.21739,4.428645,"Carnotstraat, Antwerpen",22203
+51.210745,4.400785,"Verbondstraat, Antwerpen",22003
+51.213251,4.410244,"Frankrijklei, Antwerpen",21615
+51.189635,4.379965,"Abdijstraat, Antwerpen",23804
+51.21509,4.406875,"Leopoldstraat, Antwerpen",20807
+51.208957,4.424024,"Oostenstraat, Antwerpen",22406
+51.209785,4.43525,"Ledeganckstraat, Antwerpen",26324
+51.21739,4.428645,"Carnotstraat, Antwerpen",22204
+51.210745,4.400785,"Verbondstraat, Antwerpen",22004
+51.189635,4.379965,"Abdijstraat, Antwerpen",23805
+51.21509,4.406875,"Leopoldstraat, Antwerpen",20808
+51.208957,4.424024,"Oostenstraat, Antwerpen",22407
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24401
+51.21039,4.438255,"Sterlingerstraat, Antwerpen",26325
+51.21739,4.428645,"Carnotstraat, Antwerpen",22205
+51.209895,4.425475,"Provinciestraat, Antwerpen",22180
+51.210745,4.400785,"Verbondstraat, Antwerpen",22005
+51.189635,4.379965,"Abdijstraat, Antwerpen",23806
+51.21316,4.409035,"Oude Vaartplaats, Antwerpen",20809
+51.220485,4.406535,"Borzestraat, Antwerpen",20703
+51.208957,4.424024,"Oostenstraat, Antwerpen",22408
+51.211435,4.435025,"De Winterstraat, Antwerpen",26326
+51.21509,4.406875,"Prins Leopoldstraat, Antwerpen",26307
+51.209895,4.425475,"Provinciestraat, Antwerpen",22181
+51.208495,4.397805,"De Vrierestraat, Antwerpen",22006
+51.189635,4.379965,"Abdijstraat, Antwerpen",23807
+51.194255,4.41282,"Terlinckstraat, Antwerpen",27054
+51.221972,4.4084,"Gratiekapelstraat, Antwerpen",20704
+51.209895,4.425475,"Provinciestraat, Antwerpen",22409
+51.204054,4.414437,"Haringrodestraat, Antwerpen",22361
+51.21509,4.406875,"Prins Leopoldstraat, Antwerpen",26308
+51.20977,4.423915,"Van den Nestlei, Antwerpen",22182
+51.208495,4.397805,"De Vrierestraat, Antwerpen",22007
+51.194255,4.41282,"Terlinckstraat, Antwerpen",27055
+51.22183,4.40549,"Keizerstraat, Antwerpen",20705
+51.204054,4.414437,"Haringrodestraat, Antwerpen",22362
+51.21236,4.437535,"Blijde-Inkomststraat, Antwerpen",26309
+51.20977,4.423915,"Van den Nestlei, Antwerpen",22183
+51.208635,4.396245,"Schildersstraat, Antwerpen",22008
+51.175937,4.4176,"Pieter de Coninckstraat, Antwerpen",27056
+51.22183,4.40549,"Keizerstraat, Antwerpen",20706
+51.204054,4.414437,"Haringrodestraat, Antwerpen",22363
+51.21039,4.438255,"Sterlingerstraat, Antwerpen",26310
+51.21991,4.428095,"Regentstraat, Antwerpen",22184
+51.208635,4.396245,"Schildersstraat, Antwerpen",22009
+51.175937,4.4176,"Pieter de Coninckstraat, Antwerpen",27057
+51.221865,4.40932,"Koningstraat, Antwerpen",20707
+51.20178,4.41764,"Gretrystraat, Antwerpen",22364
+51.20964,4.438125,"Wilrijkstraat, Antwerpen",26311
+51.210745,4.400785,"Verbondstraat, Antwerpen",22186
+51.20922,4.39853,"Coquilhatstraat, Antwerpen",22010
+51.218294,4.418671,"Statiestraat, Antwerpen",20044
+51.193376,4.414052,"Jennevalstraat, Antwerpen",27058
+51.21945,4.412751,"Lange Nieuwstraat, Antwerpen",20708
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26811
+51.20178,4.41764,"Gretrystraat, Antwerpen",22365
+51.20964,4.438125,"Wilrijkstraat, Antwerpen",26312
+51.209297,4.400817,"Tolstraat, Antwerpen",22187
+51.22025,4.416005,"Italielei, Antwerpen",21956
+51.213251,4.410244,"Frankrijklei, Antwerpen",21621
+51.20922,4.39853,"Coquilhatstraat, Antwerpen",22011
+51.193376,4.414052,"Jennevalstraat, Antwerpen",27059
+51.21945,4.412751,"Lange Nieuwstraat, Antwerpen",20709
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26812
+51.20178,4.41764,"Gretrystraat, Antwerpen",22366
+51.210743,4.438214,"Verlindenstraat, Antwerpen",26313
+51.209675,4.392365,"Museumstraat, Antwerpen",22188
+51.22025,4.416005,"Italielei, Antwerpen",21957
+51.214464,4.40503,"Lange Gasthuisstraat, Antwerpen",20506
+51.218294,4.418671,"Statiestraat, Antwerpen",20045
+51.1944,4.41593,"Onze-Lieve-Vrouwstraat, Antwerpen",27060
+51.222829,4.40512,"Minderbroedersstraat, Antwerpen",20710
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26813
+51.202595,4.415655,"Van Beethovenstraat, Antwerpen",22367
+51.21039,4.438255,"Sterlingerstraat, Antwerpen",26314
+51.207122,4.393409,"Admiraal de Boisotstraat, Antwerpen",22189
+51.22025,4.416005,"Italielei, Antwerpen",21958
+51.22668,4.405165,"Falconplein, Antwerpen",24313
+51.18826,4.38489,"De Wittestraat, Antwerpen",27061
+51.221918,4.411038,"Prinsesstraat, Antwerpen",20711
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26814
+51.202295,4.41823,"Wambachstraat, Antwerpen",22368
+51.20898,4.43605,"Vandenpeereboomstraat, Antwerpen",26315
+51.21133,4.397267,"Geuzenstraat, Antwerpen",22190
+51.22025,4.416005,"Italielei, Antwerpen",21959
+51.213251,4.410244,"Frankrijklei, Antwerpen",21421
+51.22198,4.423935,"Delinstraat, Antwerpen",22170
+51.218294,4.418671,"Statiestraat, Antwerpen",20046
+51.18826,4.38489,"De Wittestraat, Antwerpen",27062
+51.221918,4.411038,"Prinsesstraat, Antwerpen",20712
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26815
+51.223955,4.40367,"Klapdorp, Antwerpen",20606
+51.20258,4.41796,"Werkstraat, Antwerpen",22369
+51.20898,4.43605,"Vandenpeereboomstraat, Antwerpen",26316
+51.210445,4.441275,"Fonteinstraat, Antwerpen",26294
+51.22025,4.416005,"Italielei, Antwerpen",21960
+51.213251,4.410244,"Frankrijklei, Antwerpen",21623
+51.229265,4.42124,"Dambruggestraat, Antwerpen",22171
+51.18826,4.38489,"De Wittestraat, Antwerpen",27063
+51.19577,4.41208,"Sint-Hubertusstraat, Antwerpen",27045
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26816
+51.22386,4.407945,"Lange Brilstraat, Antwerpen",20607
+51.201995,4.41496,"Zonnewijzerstraat, Antwerpen",22370
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22342
+51.210445,4.441275,"Fonteinstraat, Antwerpen",26295
+51.210735,4.40988,"Van Breestraat, Antwerpen",22920
+51.22025,4.416005,"Italielei, Antwerpen",21961
+51.2151,4.417475,"Lange Herentalsestraat, Antwerpen",21704
+51.229265,4.42124,"Dambruggestraat, Antwerpen",22172
+51.195365,4.413285,"Vijfhoekstraat, Antwerpen",27046
+51.225995,4.428015,"Nijverheidsstraat, Antwerpen",26818
+51.224425,4.405245,"Mutsaardstraat, Antwerpen",20608
+51.213075,4.4173,"Lange Kievitstraat, Antwerpen",22350
+51.209675,4.44087,"Luitenant Naeyaertplein, Antwerpen",26296
+51.22025,4.416005,"Italielei, Antwerpen",21962
+51.213251,4.410244,"Frankrijklei, Antwerpen",21619
+51.21942,4.424665,"Willem Linnigstraat, Antwerpen",22173
+51.194035,4.415265,"De Lescluzestraat, Antwerpen",27047
+51.2272,4.43089,"Stuivenbergplein, Antwerpen",26820
+51.224425,4.405245,"Mutsaardstraat, Antwerpen",20610
+51.213148,4.42428,"Leeuwerikstraat, Antwerpen",22351
+51.21066,4.44054,"Vaderlandstraat, Antwerpen",26297
+51.22025,4.416005,"Italielei, Antwerpen",21963
+51.238252,4.424285,"Bredabaan, Antwerpen",24116
+51.217097,4.424933,"Ommeganckstraat, Antwerpen",22174
+51.194035,4.415265,"De Lescluzestraat, Antwerpen",27048
+51.2272,4.43089,"Stuivenbergplein, Antwerpen",26822
+51.223925,4.406265,"Raapstraat, Antwerpen",20611
+51.213148,4.42428,"Leeuwerikstraat, Antwerpen",22352
+51.21066,4.44054,"Vaderlandstraat, Antwerpen",26298
+51.22025,4.416005,"Italielei, Antwerpen",21964
+51.224594,4.400523,"Kleine Kraaiwijk, Antwerpen",20114
+51.217097,4.424933,"Ommeganckstraat, Antwerpen",22175
+51.194035,4.415265,"De Lescluzestraat, Antwerpen",27049
+51.226635,4.42802,"Van Kerckhovenstraat, Antwerpen",26824
+51.224424,4.409086,"Venusstraat, Antwerpen",20613
+51.225075,4.42895,"Korte Scholiersstraat, Antwerpen",26801
+51.21287,4.42518,"Lentestraat, Antwerpen",22353
+51.210885,4.439905,"De Costerstraat, Antwerpen",26299
+51.209297,4.400817,"Tolstraat, Antwerpen",22001
+51.213251,4.410244,"Frankrijklei, Antwerpen",21622
+51.209895,4.425475,"Provinciestraat, Antwerpen",22176
+51.194035,4.415265,"De Lescluzestraat, Antwerpen",27050
+51.224424,4.409086,"Venusstraat, Antwerpen",20614
+51.224975,4.43027,"Lange Scholiersstraat, Antwerpen",26802
+51.21187,4.425325,"Somersstraat, Antwerpen",22354
+51.209675,4.44087,"Luitenant Naeyaertplein, Antwerpen",26300
+51.209895,4.425475,"Provinciestraat, Antwerpen",22177
+51.194255,4.41282,"Terlinckstraat, Antwerpen",23753
+51.224424,4.409086,"Venusstraat, Antwerpen",20615
+51.224975,4.43027,"Lange Scholiersstraat, Antwerpen",26803
+51.21187,4.425325,"Somersstraat, Antwerpen",22355
+51.21113,4.439185,"Delvastraat, Antwerpen",26302
+51.209895,4.425475,"Provinciestraat, Antwerpen",22178
+51.19587,4.41977,"Driekoningenstraat, Antwerpen",20032
+51.201605,4.43114,"Klokstraat, Antwerpen",20200
+51.194255,4.41282,"Terlinckstraat, Antwerpen",27051
+51.22247,4.40815,"Blindestraat, Antwerpen",20701
+51.221715,4.427895,"Lange Zavelstraat, Antwerpen",26804
+51.21113,4.424735,"Wipstraat, Antwerpen",22356
+51.210565,4.439095,"Koolstraat, Antwerpen",26304
+51.209895,4.425475,"Provinciestraat, Antwerpen",22179
+51.219245,4.433625,"Kerkstraat, Antwerpen",22160
+51.213251,4.410244,"Frankrijklei, Antwerpen",21620
+51.194255,4.41282,"Terlinckstraat, Antwerpen",27052
+51.22247,4.40815,"Blindestraat, Antwerpen",20702
+51.22342,4.4264,"Gasstraat, Antwerpen",26805
+51.211855,4.40491,"Louizastraat, Antwerpen",20534
+51.21113,4.424735,"Wipstraat, Antwerpen",22357
+51.211755,4.43751,"Maarschalk Montgomeryple, Antwerpen",26306
+51.212055,4.440905,"Godtsstraat, Antwerpen",26278
+51.204924,4.388379,"Jan van Gentstraat, Antwerpen",22000
+51.219245,4.433625,"Kerkstraat, Antwerpen",22161
+51.213251,4.410244,"Frankrijklei, Antwerpen",21616
+51.194255,4.41282,"Terlinckstraat, Antwerpen",27053
+51.197351,4.412648,"De Merodelei, Antwerpen",27035
+51.22342,4.4264,"Gasstraat, Antwerpen",26806
+51.211855,4.40491,"Louizastraat, Antwerpen",20535
+51.204054,4.414437,"Haringrodestraat, Antwerpen",22360
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22332
+51.21291,4.440628,"Appelstraat, Antwerpen",26279
+51.21864,4.428352,"Constitutiestraat, Antwerpen",22162
+51.193535,4.411981,"Generaal Lemanstraat, Antwerpen",23704
+51.197351,4.412648,"De Merodelei, Antwerpen",27036
+51.22471,4.42638,"Pioniersstraat, Antwerpen",26807
+51.226672,4.401716,"Kriekenstraat, Antwerpen",20590
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22333
+51.195976,4.418912,"Hogeweg, Antwerpen",26280
+51.21864,4.428352,"Constitutiestraat, Antwerpen",22163
+51.213251,4.410244,"Frankrijklei, Antwerpen",21420
+51.197195,4.415045,"Kardinaal Mercierlei, Antwerpen",27037
+51.223699,4.4258,"Van Campstraat, Antwerpen",26808
+51.226225,4.40136,"Lange Schipperskapelstra, Antwerpen",20592
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22334
+51.195976,4.418912,"Hogeweg, Antwerpen",26282
+51.218444,4.425838,"Congresstraat, Antwerpen",22164
+51.21546,4.402225,"Kleine Markt, Antwerpen",20504
+51.197195,4.415045,"Kardinaal Mercierlei, Antwerpen",27038
+51.224005,4.425105,"Lange Van Sterbeeckstraa, Antwerpen",26809
+51.225157,4.402412,"Keistraat, Antwerpen",20594
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22335
+51.21344,4.44327,"Zegelstraat, Antwerpen",26284
+51.218444,4.425838,"Congresstraat, Antwerpen",22165
+51.22668,4.405165,"Falconplein, Antwerpen",24312
+51.197195,4.415045,"Kardinaal Mercierlei, Antwerpen",27039
+51.22342,4.4264,"Gasstraat, Antwerpen",26810
+51.225199,4.403436,"Dries, Antwerpen",20596
+51.227085,4.43333,"Pompoenstraat, Antwerpen",26785
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22336
+51.210278,4.442058,"Engelselei, Antwerpen",26286
+51.219582,4.426047,"Bisschopstraat, Antwerpen",22166
+51.225055,4.407745,"Paardenmarkt, Antwerpen",20905
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24401
+51.197195,4.415045,"Kardinaal Mercierlei, Antwerpen",27040
+51.2251,4.404875,"Huikstraat, Antwerpen",20598
+51.2265,4.43291,"Veldstraat, Antwerpen",26787
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22337
+51.211205,4.45157,"Stenenbrug, Antwerpen",26288
+51.219582,4.426047,"Bisschopstraat, Antwerpen",22167
+51.212725,4.408965,"Blauwtorenplein, Antwerpen",20801
+51.197195,4.415045,"Kardinaal Mercierlei, Antwerpen",27041
+51.224475,4.407324,"Hoornstraat, Antwerpen",20602
+51.227805,4.43444,"Halenstraat, Antwerpen",26789
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22338
+51.210278,4.442058,"Engelselei, Antwerpen",26290
+51.22204,4.424825,"Greinstraat, Antwerpen",22168
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24403
+51.19577,4.41208,"Sint-Hubertusstraat, Antwerpen",27042
+51.223955,4.40367,"Klapdorp, Antwerpen",20604
+51.227805,4.43444,"Halenstraat, Antwerpen",26790
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22339
+51.210278,4.442058,"Engelselei, Antwerpen",26292
+51.22198,4.423935,"Delinstraat, Antwerpen",22169
+51.2199,4.422345,"Schaafstraat, Antwerpen",22150
+51.20681,4.39538,"Amerikalei, Antwerpen",22761
+51.19577,4.41208,"Sint-Hubertusstraat, Antwerpen",27043
+51.223955,4.40367,"Klapdorp, Antwerpen",20605
+51.21196,4.406385,"Begijnenvest, Antwerpen",20524
+51.2272,4.43089,"Stuivenbergplein, Antwerpen",26792
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22340
+51.210278,4.442058,"Engelselei, Antwerpen",26293
+51.211755,4.43751,"Maarschalk Montgomeryple, Antwerpen",26268
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22151
+51.221655,4.413695,"Ossenmarkt, Antwerpen",21011
+51.19577,4.41208,"Sint-Hubertusstraat, Antwerpen",27044
+51.181256,4.432045,"Grotesteenweg, Antwerpen",23727
+51.212028,4.402978,"Bervoetstraat, Antwerpen",20525
+51.224109,4.43199,"Lange Stuivenbergstraat, Antwerpen",26794
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22341
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22317
+51.211675,4.438925,"Oudstrijdersstraat, Antwerpen",26269
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22152
+51.213251,4.410244,"Frankrijklei, Antwerpen",21424
+51.181256,4.432045,"Grotesteenweg, Antwerpen",23728
+51.212028,4.402978,"Bervoetstraat, Antwerpen",20526
+51.225895,4.43118,"Selderstraat, Antwerpen",26796
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22318
+51.211675,4.438925,"Oudstrijdersstraat, Antwerpen",26270
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22153
+51.217545,4.41844,"De Keyserlei, Antwerpen",21405
+51.181256,4.432045,"Grotesteenweg, Antwerpen",23729
+51.211095,4.405445,"Brabantstraat, Antwerpen",20527
+51.2265,4.43291,"Veldstraat, Antwerpen",26797
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22319
+51.211675,4.438925,"Oudstrijdersstraat, Antwerpen",26271
+51.22054,4.434775,"Lange Van Bloerstraat, Antwerpen",26602
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22154
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24410
+51.19577,4.41208,"Sint-Hubertusstraat, Antwerpen",27028
+51.211205,4.40397,"Kapucinessenstraat, Antwerpen",20528
+51.2265,4.43291,"Veldstraat, Antwerpen",26799
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22320
+51.212425,4.39735,"Nationalestraat, Antwerpen",22804
+51.211675,4.438925,"Oudstrijdersstraat, Antwerpen",26272
+51.22054,4.434775,"Lange Van Bloerstraat, Antwerpen",26604
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22155
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24411
+51.19577,4.41208,"Sint-Hubertusstraat, Antwerpen",27029
+51.211205,4.40397,"Kapucinessenstraat, Antwerpen",20529
+51.22467,4.435885,"Boerhaavestraat, Antwerpen",26763
+51.224975,4.43027,"Lange Scholiersstraat, Antwerpen",26800
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22321
+51.212425,4.39735,"Nationalestraat, Antwerpen",22805
+51.210445,4.441275,"Fonteinstraat, Antwerpen",26273
+51.22054,4.434775,"Lange Van Bloerstraat, Antwerpen",26606
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22156
+51.214185,4.40993,"Nieuwstad, Antwerpen",21110
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24412
+51.19693,4.416135,"Frederik de Merodestraat, Antwerpen",27030
+51.211205,4.40397,"Kapucinessenstraat, Antwerpen",20530
+51.22467,4.435885,"Boerhaavestraat, Antwerpen",26764
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22322
+51.212425,4.39735,"Nationalestraat, Antwerpen",22806
+51.210445,4.441275,"Fonteinstraat, Antwerpen",26274
+51.22054,4.434775,"Lange Van Bloerstraat, Antwerpen",26608
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22157
+51.2222,4.40465,"Minderbroedersrui, Antwerpen",20104
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24413
+51.198245,4.414505,"Theophiel Roucourtstraat, Antwerpen",27031
+51.210895,4.407055,"Kiliaanstraat, Antwerpen",20531
+51.224755,4.435195,"Van Helmontstraat, Antwerpen",26765
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22324
+51.212425,4.39735,"Nationalestraat, Antwerpen",22807
+51.21159,4.44139,"Beukenstraat, Antwerpen",26275
+51.220965,4.430055,"Sint-Willibrordusstraat, Antwerpen",26610
+51.2222,4.435325,"Lange Beeldekensstraat, Antwerpen",22158
+51.213251,4.410244,"Frankrijklei, Antwerpen",21408
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24414
+51.198245,4.414505,"Theophiel Roucourtstraat, Antwerpen",27032
+51.211525,4.405555,"Koninginnestraat, Antwerpen",20532
+51.225085,4.433615,"Onderwijsstraat, Antwerpen",26766
+51.21451,4.43387,"Eliaertsstraat, Antwerpen",22325
+51.212425,4.39735,"Nationalestraat, Antwerpen",22808
+51.21159,4.44139,"Beukenstraat, Antwerpen",26276
+51.220965,4.430055,"Sint-Willibrordusstraat, Antwerpen",26612
+51.219245,4.433625,"Kerkstraat, Antwerpen",22159
+51.2075,4.40547,"Molenstraat, Antwerpen",22132
+51.2222,4.40465,"Minderbroedersrui, Antwerpen",20106
+51.222299,4.421323,"Muizenstraat, Antwerpen",24415
+51.198255,4.413145,"Le Grellelei, Antwerpen",27033
+51.211855,4.40491,"Louizastraat, Antwerpen",20533
+51.224815,4.43133,"Schoolstraat, Antwerpen",26773
+51.212095,4.40356,"Schermersstraat, Antwerpen",20514
+51.21017,4.423458,"Baron Joostensstraat, Antwerpen",22330
+51.212425,4.39735,"Nationalestraat, Antwerpen",22809
+51.21159,4.44139,"Beukenstraat, Antwerpen",26277
+51.21309,4.435385,"Bakkerstraat, Antwerpen",26254
+51.219475,4.431679,"Lovelingstraat, Antwerpen",26614
+51.206865,4.40924,"Aarschotstraat, Antwerpen",22133
+51.227845,4.409322,"Zeevaartstraat, Antwerpen",24325
+51.222685,4.42101,"Spoorstraat, Antwerpen",24416
+51.193402,4.419329,"Lange Pastoorstraat, Antwerpen",27022
+51.198255,4.413145,"Le Grellelei, Antwerpen",27034
+51.225365,4.43359,"Erwtenstraat, Antwerpen",26775
+51.21164,4.402045,"Terninckstraat, Antwerpen",20515
+51.20891,4.434445,"Plantin en Moretuslei, Antwerpen",22331
+51.21402,4.433515,"Moorkensplein, Antwerpen",22307
+51.212425,4.39735,"Nationalestraat, Antwerpen",22810
+51.219475,4.431679,"Lovelingstraat, Antwerpen",26616
+51.213665,4.43486,"Mellaertsstraat, Antwerpen",26258
+51.207615,4.40805,"Montebellostraat, Antwerpen",22134
+51.21672,4.412165,"Hopland, Antwerpen",21116
+51.22416,4.42071,"Richardstraat, Antwerpen",24417
+51.193402,4.419329,"Lange Pastoorstraat, Antwerpen",27023
+51.199805,4.41424,"Koning Albertparkweg, Antwerpen",23333
+51.226,4.433805,"Familiestraat, Antwerpen",26777
+51.214618,4.403233,"Vleminckveld, Antwerpen",20516
+51.215295,4.398505,"Franckenstraat, Antwerpen",22811
+51.21402,4.433515,"Moorkensplein, Antwerpen",22308
+51.220469,4.432743,"Pastorijstraat, Antwerpen",26618
+51.212335,4.436055,"Schoenstraat, Antwerpen",26260
+51.207615,4.40805,"Montebellostraat, Antwerpen",22135
+51.219005,4.396215,"Zand, Antwerpen",20309
+51.225463,4.420968,"Vliegenstraat, Antwerpen",24418
+51.193885,4.418175,"Klauwaardsstraat, Antwerpen",27071
+51.22641,4.434605,"Nikkelstraat, Antwerpen",26779
+51.214618,4.403233,"Vleminckveld, Antwerpen",20517
+51.21426,4.393835,"Kloosterstraat, Antwerpen",22812
+51.212335,4.436055,"Schoenstraat, Antwerpen",22309
+51.220469,4.432743,"Pastorijstraat, Antwerpen",26620
+51.212335,4.436055,"Schoenstraat, Antwerpen",26261
+51.21948,4.436905,"Kistemaeckersstraat, Antwerpen",26576
+51.209005,4.40961,"Hemelstraat, Antwerpen",22136
+51.22668,4.405165,"Falconplein, Antwerpen",24311
+51.22516,4.419495,"Oudesteenweg, Antwerpen",24419
+51.22774,4.403725,"Korte Zeevaartstraat, Antwerpen",24334
+51.193885,4.418175,"Klauwaardsstraat, Antwerpen",27072
+51.22676,4.435185,"August Sniedersstraat, Antwerpen",26781
+51.214618,4.403233,"Vleminckveld, Antwerpen",20518
+51.21426,4.393835,"Kloosterstraat, Antwerpen",22813
+51.20681,4.39538,"Amerikalei, Antwerpen",22758
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22310
+51.211566,4.433801,"Koxplein, Antwerpen",26262
+51.21948,4.436905,"Kistemaeckersstraat, Antwerpen",26578
+51.20056,4.3986,"Markgravelei, Antwerpen",22137
+51.213251,4.410244,"Frankrijklei, Antwerpen",21407
+51.22774,4.403725,"Korte Zeevaartstraat, Antwerpen",24335
+51.194824,4.416734,"Frans Van Hombeeckplein, Antwerpen",27024
+51.227805,4.43444,"Halenstraat, Antwerpen",26783
+51.212476,4.406856,"Sint-Jorispoort, Antwerpen",20519
+51.2235,4.430525,"Zetternamstraat, Antwerpen",26749
+51.20681,4.39538,"Amerikalei, Antwerpen",22759
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22311
+51.211566,4.433801,"Koxplein, Antwerpen",26263
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26580
+51.205504,4.424034,"Van Diepenbeeckstraat, Antwerpen",22140
+51.222085,4.39771,"Victor Roosensplein, Antwerpen",24121
+51.227575,4.404475,"Adriaan Brouwerstraat, Antwerpen",24336
+51.194824,4.416734,"Frans Van Hombeeckplein, Antwerpen",27025
+51.21196,4.406385,"Begijnenvest, Antwerpen",20520
+51.22419,4.43142,"Handelsstraat, Antwerpen",26750
+51.20681,4.39538,"Amerikalei, Antwerpen",22760
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22312
+51.212987,4.434065,"Mareestraat, Antwerpen",26264
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26581
+51.205504,4.424034,"Van Diepenbeeckstraat, Antwerpen",22141
+51.22793,4.40474,"Sint-Aldegondiskaai, Antwerpen",24337
+51.194824,4.416734,"Frans Van Hombeeckplein, Antwerpen",27026
+51.21196,4.406385,"Begijnenvest, Antwerpen",20521
+51.22362,4.43103,"Jan Palfijnstraat, Antwerpen",26751
+51.20681,4.39538,"Amerikalei, Antwerpen",22762
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22313
+51.212987,4.434065,"Mareestraat, Antwerpen",26265
+51.220525,4.4362,"Pothoekstraat, Antwerpen",26583
+51.204892,4.425418,"Zurenborgstraat, Antwerpen",22142
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24402
+51.19693,4.416135,"Frederik de Merodestraat, Antwerpen",27027
+51.21196,4.406385,"Begijnenvest, Antwerpen",20522
+51.22362,4.43103,"Jan Palfijnstraat, Antwerpen",26753
+51.20681,4.39538,"Amerikalei, Antwerpen",22763
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22314
+51.21176,4.43468,"s-Herenstraat, Antwerpen",26266
+51.219935,4.436275,"Lindeboomstraat, Antwerpen",26585
+51.204892,4.425418,"Zurenborgstraat, Antwerpen",22143
+51.20934,4.405805,"Mertens en Torfsstraat, Antwerpen",22122
+51.181256,4.432045,"Grotesteenweg, Antwerpen",23725
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24404
+51.21196,4.406385,"Begijnenvest, Antwerpen",20523
+51.21862,4.400325,"Kammenstraat, Antwerpen",20407
+51.22419,4.43142,"Handelsstraat, Antwerpen",26755
+51.20681,4.39538,"Amerikalei, Antwerpen",22764
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22315
+51.21176,4.43468,"s-Herenstraat, Antwerpen",26267
+51.21237,4.430935,"Langstraat, Antwerpen",26240
+51.22153,4.43623,"Lavendelstraat, Antwerpen",26586
+51.207725,4.40675,"De Moystraat, Antwerpen",22123
+51.181256,4.432045,"Grotesteenweg, Antwerpen",23726
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24405
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27012
+51.21194,4.400935,"Begijnenstraat, Antwerpen",20501
+51.223527,4.432081,"Korte Ypermanstraat, Antwerpen",26756
+51.20681,4.39538,"Amerikalei, Antwerpen",22766
+51.214659,4.424296,"Ploegstraat, Antwerpen",22206
+51.214535,4.436265,"Turnhoutsebaan, Antwerpen",22316
+51.2213,4.43483,"Violetstraat, Antwerpen",26590
+51.21237,4.430935,"Langstraat, Antwerpen",26242
+51.208215,4.405615,"Sanderusstraat, Antwerpen",22124
+51.229795,4.41347,"Ellermanstraat, Antwerpen",24406
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27013
+51.21194,4.400935,"Begijnenstraat, Antwerpen",20502
+51.223527,4.432081,"Korte Ypermanstraat, Antwerpen",26757
+51.20681,4.39538,"Amerikalei, Antwerpen",22767
+51.214659,4.424296,"Ploegstraat, Antwerpen",22207
+51.221595,4.433455,"Korte Beeldekensstraat, Antwerpen",26592
+51.212915,4.431044,"Van Daelstraat, Antwerpen",26243
+51.208215,4.405615,"Sanderusstraat, Antwerpen",22125
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24408
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27014
+51.214861,4.40217,"Bredestraat, Antwerpen",20503
+51.22286,4.43183,"Lange Ypermanstraat, Antwerpen",26758
+51.20681,4.39538,"Amerikalei, Antwerpen",22768
+51.21021,4.39303,"Verlatstraat, Antwerpen",22222
+51.22126,4.432585,"Pollepelstraat, Antwerpen",26594
+51.221188,4.437546,"Potgieterstraat, Antwerpen",26558
+51.212915,4.431044,"Van Daelstraat, Antwerpen",26244
+51.208215,4.405615,"Sanderusstraat, Antwerpen",22126
+51.229265,4.42124,"Dambruggestraat, Antwerpen",24409
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24323
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27015
+51.214464,4.40503,"Lange Gasthuisstraat, Antwerpen",20505
+51.223905,4.432995,"Pesthofstraat, Antwerpen",26759
+51.212425,4.39735,"Nationalestraat, Antwerpen",22803
+51.199918,4.411553,"Koningin Elisabethlei, Antwerpen",22283
+51.20681,4.39538,"Amerikalei, Antwerpen",22748
+51.22054,4.436965,"Eggestraat, Antwerpen",26559
+51.213605,4.4314,"Oedenkovenstraat, Antwerpen",26245
+51.208215,4.405615,"Sanderusstraat, Antwerpen",22127
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24324
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27016
+51.212276,4.403469,"Maarschalk Gerardstraat, Antwerpen",20507
+51.22198,4.423935,"Delinstraat, Antwerpen",26739
+51.223905,4.432995,"Pesthofstraat, Antwerpen",26761
+51.21309,4.435385,"Bakkerstraat, Antwerpen",22301
+51.20681,4.39538,"Amerikalei, Antwerpen",22749
+51.220275,4.437615,"Ooievaarsstraat, Antwerpen",26560
+51.213605,4.4314,"Oedenkovenstraat, Antwerpen",26246
+51.20803,4.404525,"De Damhouderestraat, Antwerpen",22128
+51.22776,4.405255,"Van Schoonbekeplein, Antwerpen",24326
+51.199945,4.43125,"Uitbreidingstraat, Antwerpen",27017
+51.212276,4.403469,"Maarschalk Gerardstraat, Antwerpen",20508
+51.222842,4.429059,"Herderinstraat, Antwerpen",26740
+51.21236,4.437535,"Blijde-Inkomststraat, Antwerpen",22302
+51.20681,4.39538,"Amerikalei, Antwerpen",22750
+51.220105,4.43795,"Groeningerplein, Antwerpen",26562
+51.214315,4.43161,"Zonstraat, Antwerpen",26247
+51.2075,4.40547,"Molenstraat, Antwerpen",22129
+51.225565,4.40945,"Falconrui, Antwerpen",24327
+51.19409,4.417575,"Kemmelbergstraat, Antwerpen",27018
+51.213945,4.403076,"Rosier, Antwerpen",20511
+51.222805,4.424125,"Sint-Elisabethstraat, Antwerpen",26741
+51.215275,4.43541,"Drink, Antwerpen",22303
+51.20681,4.39538,"Amerikalei, Antwerpen",22751
+51.219228,4.439395,"Drossaardstraat, Antwerpen",26564
+51.214315,4.43161,"Zonstraat, Antwerpen",26248
+51.2075,4.40547,"Molenstraat, Antwerpen",22130
+51.22701,4.41242,"Tunnelplaats, Antwerpen",24328
+51.19409,4.417575,"Kemmelbergstraat, Antwerpen",27019
+51.213945,4.403076,"Rosier, Antwerpen",20512
+51.222842,4.429059,"Herderinstraat, Antwerpen",26742
+51.225085,4.433615,"Onderwijsstraat, Antwerpen",26769
+51.215275,4.43541,"Drink, Antwerpen",22304
+51.20681,4.39538,"Amerikalei, Antwerpen",22752
+51.219869,4.437921,"Vercammenstraat, Antwerpen",26566
+51.215105,4.431225,"Sint-Erasmusstraat, Antwerpen",26250
+51.2075,4.40547,"Molenstraat, Antwerpen",22131
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22112
+51.227365,4.41172,"Entrepotplaats, Antwerpen",24329
+51.19409,4.417575,"Kemmelbergstraat, Antwerpen",27020
+51.212095,4.40356,"Schermersstraat, Antwerpen",20513
+51.222805,4.424125,"Sint-Elisabethstraat, Antwerpen",26743
+51.217895,4.398665,"Steenhouwersvest, Antwerpen",20306
+51.21451,4.43387,"Eliaertsstraat, Antwerpen",22305
+51.20681,4.39538,"Amerikalei, Antwerpen",22753
+51.218965,4.437595,"Van Montfortstraat, Antwerpen",26568
+51.213005,4.433161,"Sergeyselsstraat, Antwerpen",26252
+51.20606,4.42104,"Nerviersstraat, Antwerpen",22113
+51.228045,4.410405,"Godefriduskaai, Antwerpen",24330
+51.19255,4.41952,"Korte Pastoorstraat, Antwerpen",27021
+51.223445,4.429265,"Herderstraat, Antwerpen",26744
+51.21972,4.397495,"Vlasmarkt, Antwerpen",20307
+51.225085,4.433615,"Onderwijsstraat, Antwerpen",26768
+51.21487,4.43748,"Jaak De Braeckeleerstraa, Antwerpen",22306
+51.20681,4.39538,"Amerikalei, Antwerpen",22754
+51.194255,4.41282,"Terlinckstraat, Antwerpen",27073
+51.218675,4.436255,"Beekstraat, Antwerpen",26572
+51.20606,4.42104,"Nerviersstraat, Antwerpen",22114
+51.228045,4.410405,"Godefriduskaai, Antwerpen",24331
+51.223165,4.426925,"Korte Zavelstraat, Antwerpen",26745
+51.21842,4.398293,"Vrijdagmarkt, Antwerpen",20308
+51.20681,4.39538,"Amerikalei, Antwerpen",22755
+51.21937,4.435275,"Schapenstraat, Antwerpen",26574
+51.208895,4.418385,"Charlottalei, Antwerpen",22115
+51.228045,4.410405,"Godefriduskaai, Antwerpen",24332
+51.213251,4.410244,"Frankrijklei, Antwerpen",21605
+51.22419,4.43142,"Handelsstraat, Antwerpen",26746
+51.217618,4.396505,"Oever, Antwerpen",20310
+51.20681,4.39538,"Amerikalei, Antwerpen",22756
+51.21948,4.436905,"Kistemaeckersstraat, Antwerpen",26575
+51.22026,4.439265,"Kortrijkstraat, Antwerpen",26543
+51.208895,4.418385,"Charlottalei, Antwerpen",22116
+51.22793,4.40474,"Sint-Aldegondiskaai, Antwerpen",24333
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24308
+51.21154,4.409795,"Maria Henriettalei, Antwerpen",21606
+51.22419,4.43142,"Handelsstraat, Antwerpen",26747
+51.217618,4.396505,"Oever, Antwerpen",20311
+51.20681,4.39538,"Amerikalei, Antwerpen",22757
+51.203967,4.393431,"Dendermondestraat, Antwerpen",22729
+51.22026,4.439265,"Kortrijkstraat, Antwerpen",26545
+51.208895,4.418385,"Charlottalei, Antwerpen",22117
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24309
+51.21154,4.409795,"Maria Henriettalei, Antwerpen",21607
+51.224053,4.429929,"Handelsteeg, Antwerpen",26748
+51.217045,4.402485,"Lombardenstraat, Antwerpen",20401
+51.222815,4.4329,"Duinstraat, Antwerpen",26725
+51.203967,4.393431,"Dendermondestraat, Antwerpen",22730
+51.22026,4.439265,"Kortrijkstraat, Antwerpen",26546
+51.208895,4.418385,"Charlottalei, Antwerpen",22118
+51.226844,4.404335,"Brouwersvliet, Antwerpen",24310
+51.213251,4.410244,"Frankrijklei, Antwerpen",21608
+51.21573,4.402435,"Oudaan, Antwerpen",20403
+51.222015,4.431645,"Van Urselstraat, Antwerpen",26726
+51.20312,4.39279,"Broederminstraat, Antwerpen",22731
+51.22026,4.439265,"Kortrijkstraat, Antwerpen",26547
+51.208895,4.418385,"Charlottalei, Antwerpen",22119
+51.22643,4.40969,"Hessenplein, Antwerpen",24314
+51.213251,4.410244,"Frankrijklei, Antwerpen",21609
+51.21573,4.402435,"Oudaan, Antwerpen",20404
+51.22183,4.430235,"Perenstraat, Antwerpen",26729
+51.20234,4.39281,"Brederodestraat, Antwerpen",27000
+51.20681,4.39538,"Amerikalei, Antwerpen",22740
+51.22273,4.439415,"Korte Kongostraat, Antwerpen",26548
+51.20791,4.4176,"Consciencestraat, Antwerpen",22120
+51.22643,4.40969,"Hessenplein, Antwerpen",24315
+51.213251,4.410244,"Frankrijklei, Antwerpen",21610
+51.21573,4.402435,"Oudaan, Antwerpen",20405
+51.22183,4.430235,"Perenstraat, Antwerpen",26730
+51.20681,4.39538,"Amerikalei, Antwerpen",22741
+51.222465,4.437585,"Sommestraat, Antwerpen",26549
+51.20791,4.4176,"Consciencestraat, Antwerpen",22121
+51.202362,4.419234,"Isabellalei, Antwerpen",22102
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24317
+51.194824,4.416734,"Frans Van Hombeeckplein, Antwerpen",27000
+51.213251,4.410244,"Frankrijklei, Antwerpen",21611
+51.21862,4.400325,"Kammenstraat, Antwerpen",20406
+51.222815,4.4329,"Duinstraat, Antwerpen",26731
+51.21602,4.393465,"Sint-Michielskaai, Antwerpen",20159
+51.20681,4.39538,"Amerikalei, Antwerpen",22742
+51.222465,4.437585,"Sommestraat, Antwerpen",26550
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22103
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24318
+51.213251,4.410244,"Frankrijklei, Antwerpen",21612
+51.222815,4.4329,"Duinstraat, Antwerpen",26733
+51.221165,4.397475,"Suikerrui, Antwerpen",20205
+51.20681,4.39538,"Amerikalei, Antwerpen",22743
+51.222085,4.438715,"Turckstraat, Antwerpen",26553
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22104
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24319
+51.213251,4.410244,"Frankrijklei, Antwerpen",21613
+51.22171,4.42631,"Diepestraat, Antwerpen",26735
+51.21954,4.40471,"Beggaardenstraat, Antwerpen",20207
+51.20681,4.39538,"Amerikalei, Antwerpen",22745
+51.222085,4.438715,"Turckstraat, Antwerpen",26555
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22105
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24320
+51.213251,4.410244,"Frankrijklei, Antwerpen",21614
+51.213251,4.410244,"Frankrijklei, Antwerpen",21423
+51.221715,4.427895,"Lange Zavelstraat, Antwerpen",26736
+51.21954,4.40471,"Beggaardenstraat, Antwerpen",20208
+51.20681,4.39538,"Amerikalei, Antwerpen",22746
+51.221188,4.437546,"Potgieterstraat, Antwerpen",26557
+51.221705,4.442815,"Guldensporenstraat, Antwerpen",26524
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22106
+51.22707,4.40615,"Oude Leeuwenrui, Antwerpen",24322
+51.222085,4.39771,"Oudebareellei, Antwerpen",24204
+51.215245,4.41475,"Maria-Theresialei, Antwerpen",21501
+51.22204,4.424825,"Greinstraat, Antwerpen",26737
+51.219975,4.404415,"Sudermanstraat, Antwerpen",20209
+51.20681,4.39538,"Amerikalei, Antwerpen",22747
+51.20234,4.39281,"Brederodestraat, Antwerpen",22718
+51.221705,4.442815,"Guldensporenstraat, Antwerpen",26525
+51.20668,4.42307,"Lamorinierestraat, Antwerpen",22107

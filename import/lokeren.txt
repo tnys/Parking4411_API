@@ -1,0 +1,49 @@
+51.103773,3.987963,"Groentemarkt, Lokeren",916006 
+51.102383,3.993892,"Luikstraat, Lokeren",916025 
+51.10491,3.99581,"Poststraat, Lokeren",916015 
+51.10254,4.0004,"Brugstraat, Lokeren",916022 
+51.10341,3.994185,"Knokkestraat, Lokeren",916013 
+51.103935,3.99165,"Markt, Lokeren",916039 
+51.10744,3.9877,"Stationsplein, Lokeren",916034 
+51.103935,3.99165,"Markt, Lokeren",916001 
+51.102892,3.98778,"Roomstraat, Lokeren",916007 
+51.101905,3.98753,"Vrijheidsplein, Lokeren",916010 
+51.1061,3.98794,"Stationsstraat, Lokeren",916047 
+51.102845,3.99384,"Kerkstraat, Lokeren",916016 
+51.10408,3.986625,"Grote Dam, Lokeren",916048 
+51.102383,3.993892,"Luikstraat, Lokeren",916026 
+51.105872,3.98902,"Professor Thuysbaertlaan, Lokeren",916029 
+51.10254,4.0004,"Brugstraat, Lokeren",916023 
+51.101295,3.99969,"Lepelstraat, Lokeren",916020 
+51.103935,3.99165,"Markt, Lokeren",916041 
+51.1061,3.98794,"Stationsstraat, Lokeren",916044 
+51.103935,3.99165,"Markt, Lokeren",916002 
+51.102892,3.98778,"Roomstraat, Lokeren",916008 
+51.102404,3.994896,"Zand, Lokeren",916017 
+51.104121,3.987346,"Oude Vismijn, Lokeren",916035 
+51.107438,3.991731,"Grote Kaai, Lokeren",916032 
+51.102383,3.993892,"Luikstraat, Lokeren",916027 
+51.104735,3.9865,"Durmelaan, Lokeren",916036 
+51.100897,3.986206,"Lindestraat, Lokeren",916011 
+51.103935,3.99165,"Markt, Lokeren",916042 
+51.1061,3.98794,"Stationsstraat, Lokeren",916045 
+51.102845,3.99384,"Kerkstraat, Lokeren",916049 
+51.103935,3.99165,"Markt, Lokeren",916003 
+51.105665,3.990535,"Sint-Laurentiusplein, Lokeren",916040 
+51.101878,3.996533,"Zelestraat, Lokeren",916018 
+51.105872,3.98902,"Professor Thuysbaertlaan, Lokeren",916030 
+51.10254,4.0004,"Brugstraat, Lokeren",916021 
+51.104121,3.987346,"Oude Vismijn, Lokeren",916043 
+51.104405,3.992795,"Kerkplein, Lokeren",916004 
+51.102383,3.993892,"Luikstraat, Lokeren",916028 
+51.104735,3.9865,"Durmelaan, Lokeren",916037 
+51.102383,3.993892,"Luikstraat, Lokeren",916024 
+51.10491,3.99581,"Poststraat, Lokeren",916014 
+51.1061,3.98794,"Stationsstraat, Lokeren",916046 
+51.10341,3.994185,"Knokkestraat, Lokeren",916012 
+51.103935,3.99165,"Markt, Lokeren",916038 
+51.10744,3.9877,"Stationsplein, Lokeren",916033 
+51.101878,3.996533,"Zelestraat, Lokeren",916019 
+51.105872,3.98902,"Professor Thuysbaertlaan, Lokeren",916031 
+51.101905,3.98753,"Vrijheidsplein, Lokeren",916009 
+51.104405,3.992795,"Kerkplein, Lokeren",916005

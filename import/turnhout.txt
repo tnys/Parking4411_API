@@ -1,0 +1,240 @@
+51.31318,4.931919,"Meibloemstraat, Turnhout",230209 
+51.32759,4.94595,"Wouwerstraat, Turnhout",230115 
+51.31724,4.922785,"Gierledreef, Turnhout",230214 
+51.317647,4.955772,"Grimstedestraat, Turnhout",230085 
+51.328245,4.949715,"Patersstraat, Turnhout",230065 
+51.318275,4.93441,"Duinenstraat, Turnhout",230187 
+51.327431,4.944502,"Sint-Beggaplein, Turnhout",230116 
+51.317647,4.955772,"Grimstedestraat, Turnhout",230086 
+51.32484,4.93248,"Karel Oomsstraat, Turnhout",230165 
+51.330828,4.945427,"Sint-Pieterstraat, Turnhout",230132 
+51.317385,4.93251,"Bevrijdingstraat, Turnhout",230237 
+51.313441,4.932826,"Voldersstraat, Turnhout",230210 
+51.31724,4.922785,"Gierledreef, Turnhout",230215 
+51.330245,4.94599,"Driekuilenstraat, Turnhout",230133 
+51.319597,4.931665,"Tuinstraat, Turnhout",230188 
+51.32484,4.93248,"Karel Oomsstraat, Turnhout",230166 
+51.328573,4.947358,"Korte Albertstraat, Turnhout",230137 
+51.315798,4.926774,"Lotelingenstraat, Turnhout",230238 
+51.312885,4.932255,"Oud-Strijderslaan, Turnhout",230211 
+51.31724,4.922785,"Gierledreef, Turnhout",230216 
+51.329532,4.947418,"Gasstraat, Turnhout",230138 
+51.321695,4.937745,"De Merodelei, Turnhout",230189 
+51.3237,4.93294,"Kongoplein, Turnhout",230167 
+51.314311,4.926961,"Verbindingstraat, Turnhout",230239 
+51.321695,4.937745,"De Merodelei, Turnhout",230026 
+51.317555,4.95026,"Nieuwe Erven, Turnhout",230217 
+51.322943,4.943745,"Sint-Antoniusstraat, Turnhout",230027 
+51.321695,4.937745,"De Merodelei, Turnhout",230190 
+51.325588,4.94712,"Begijnenstraat, Turnhout",230028 
+51.323746,4.933697,"Diksmuidestraat, Turnhout",230168 
+51.319775,4.92403,"Steenweg op Antwerpen, Turnhout",230192 
+51.325588,4.94712,"Begijnenstraat, Turnhout",230029 
+51.327685,4.939875,"Hollandsestraat, Turnhout",230146 
+51.317555,4.95026,"Nieuwe Erven, Turnhout",230218 
+51.32155,4.943203,"Victoriestraat, Turnhout",230030 
+51.319941,4.956609,"Hofstraat, Turnhout",230127 
+51.321,4.95557,"Draaiboomstraat, Turnhout",230097 
+51.319775,4.92403,"Steenweg op Antwerpen, Turnhout",230191 
+51.325588,4.94712,"Begijnenstraat, Turnhout",230067 
+51.32155,4.943203,"Victoriestraat, Turnhout",230031 
+51.32759,4.94595,"Wouwerstraat, Turnhout",230128 
+51.32079,4.95718,"Lillokensstraat, Turnhout",230098 
+51.323746,4.933697,"Diksmuidestraat, Turnhout",230169 
+51.32243,4.944193,"Korte Gasthuisstraat, Turnhout",230068 
+51.31961,4.94457,"Dierckxstraat, Turnhout",230032 
+51.319775,4.92403,"Steenweg op Antwerpen, Turnhout",230193 
+51.32759,4.94595,"Wouwerstraat, Turnhout",230129 
+51.322569,4.956265,"Bentelstraat, Turnhout",230099 
+51.327685,4.939875,"Hollandsestraat, Turnhout",230147 
+51.320783,4.938843,"Vlamingenstraat, Turnhout",230069 
+51.328245,4.949715,"Patersstraat, Turnhout",230033 
+51.322451,4.947539,"Grote Markt, Turnhout",230001 
+51.32759,4.94595,"Wouwerstraat, Turnhout",230130 
+51.317555,4.95026,"Nieuwe Erven, Turnhout",230219 
+51.32315,4.955665,"Klinkstraat, Turnhout",230100 
+51.320661,4.939844,"Heilig Hartstraat, Turnhout",230070 
+51.328245,4.949715,"Patersstraat, Turnhout",230034 
+51.322451,4.947539,"Grote Markt, Turnhout",230002 
+51.32759,4.94595,"Wouwerstraat, Turnhout",230131 
+51.323551,4.954296,"Akkerpad, Turnhout",230101 
+51.320315,4.939925,"Jacob Smitsstraat, Turnhout",230071 
+51.328245,4.949715,"Patersstraat, Turnhout",230035 
+51.322451,4.947539,"Grote Markt, Turnhout",230003 
+51.328521,4.946419,"Oude Vaartstraat, Turnhout",230134 
+51.32128,4.93353,"Prinsenstraat, Turnhout",230170 
+51.324065,4.951466,"Baron Frans du Fourstraat, Turnhout",230102 
+51.319445,4.94083,"Kruishuisstraat, Turnhout",230072 
+51.300617,4.914641,"Steenweg op Gierle, Turnhout",230194 
+51.328521,4.946419,"Oude Vaartstraat, Turnhout",230135 
+51.327685,4.939875,"Hollandsestraat, Turnhout",230148 
+51.324065,4.951466,"Baron Frans du Fourstraat, Turnhout",230103 
+51.319445,4.94083,"Kruishuisstraat, Turnhout",230073 
+51.32263,4.931755,"Gildenstraat, Turnhout",230172 
+51.31837,4.927265,"Lokerenstraat, Turnhout",230220 
+51.328521,4.946419,"Oude Vaartstraat, Turnhout",230136 
+51.32453,4.95499,"Schoolstraat, Turnhout",230104 
+51.31936,4.940015,"Emiel Verreesstraat, Turnhout",230074 
+51.32518,4.95563,"Nieuwstad, Turnhout",230105 
+51.31837,4.927265,"Lokerenstraat, Turnhout",230222 
+51.320661,4.939844,"Heilig Hartstraat, Turnhout",230075 
+51.32128,4.93353,"Prinsenstraat, Turnhout",230171 
+51.32518,4.95563,"Nieuwstad, Turnhout",230106 
+51.300617,4.914641,"Steenweg op Gierle, Turnhout",230195 
+51.320661,4.939844,"Heilig Hartstraat, Turnhout",230076 
+51.327465,4.937869,"Jachthoornstraat, Turnhout",230149 
+51.32263,4.931755,"Gildenstraat, Turnhout",230173 
+51.31837,4.927265,"Lokerenstraat, Turnhout",230221 
+51.327267,4.934734,"Antoine Coppenslaan, Turnhout",230240 
+51.31837,4.927265,"Lokerenstraat, Turnhout",230223 
+51.300617,4.914641,"Steenweg op Gierle, Turnhout",230196 
+51.327465,4.937869,"Jachthoornstraat, Turnhout",230150 
+51.321435,4.93159,"Tramstraat, Turnhout",230174 
+51.317555,4.95026,"Nieuwe Erven, Turnhout",230241 
+51.32703,4.93699,"Veldekensstraat, Turnhout",230152 
+51.31837,4.927265,"Lokerenstraat, Turnhout",230224 
+51.300617,4.914641,"Steenweg op Gierle, Turnhout",230197 
+51.327005,4.93862,"Valkeniersstraat, Turnhout",230151 
+51.321435,4.93159,"Tramstraat, Turnhout",230175 
+51.321322,4.947446,"Driezenstraat, Turnhout",230242 
+51.32703,4.93699,"Veldekensstraat, Turnhout",230153 
+51.321165,4.937935,"Molenstraat, Turnhout",230046 
+51.320586,4.947318,"Deken Adamsstraat, Turnhout",230016 
+51.318415,4.929017,"Boomstraat, Turnhout",230225 
+51.321165,4.937935,"Molenstraat, Turnhout",230047 
+51.322382,4.950714,"Otterstraat, Turnhout",230017 
+51.300617,4.914641,"Steenweg op Gierle, Turnhout",230198 
+51.321165,4.937935,"Molenstraat, Turnhout",230048 
+51.322382,4.950714,"Otterstraat, Turnhout",230018 
+51.321435,4.93159,"Tramstraat, Turnhout",230176 
+51.321165,4.937935,"Molenstraat, Turnhout",230049 
+51.321394,4.950466,"Pieter De Nefstraat, Turnhout",230019 
+51.329142,4.937935,"Tichelarijstraat, Turnhout",230154 
+51.321215,4.94127,"Corbeelsstraat, Turnhout",230050 
+51.318415,4.929017,"Boomstraat, Turnhout",230226 
+51.32182,4.951776,"Beekstraat, Turnhout",230020 
+51.32741,4.944015,"Meirstraat, Turnhout",230117 
+51.318815,4.953912,"Korte Veldstraat, Turnhout",230087 
+51.3217,4.94207,"Kerkstraat, Turnhout",230051 
+51.3144,4.93085,"Jozef Simonslaan, Turnhout",230199 
+51.321695,4.937745,"De Merodelei, Turnhout",230021 
+51.322382,4.950714,"Otterstraat, Turnhout",230056 
+51.327705,4.94287,"Beukstraat, Turnhout",230118 
+51.318815,4.953912,"Korte Veldstraat, Turnhout",230088 
+51.32084,4.94275,"Kerkplein, Turnhout",230052 
+51.322382,4.950714,"Otterstraat, Turnhout",230057 
+51.321695,4.937745,"De Merodelei, Turnhout",230022 
+51.321095,4.93137,"Onze Lieve Vrouwstraat, Turnhout",230177 
+51.327765,4.943545,"Eikstraat, Turnhout",230119 
+51.3196,4.953395,"Mermansstraat, Turnhout",230089 
+51.324065,4.951466,"Baron Frans du Fourstraat, Turnhout",230053 
+51.329142,4.937935,"Tichelarijstraat, Turnhout",230155 
+51.321695,4.937745,"De Merodelei, Turnhout",230023 
+51.322382,4.950714,"Otterstraat, Turnhout",230058 
+51.327835,4.9424,"Begijnendreef, Turnhout",230120 
+51.319351,4.92972,"Bergstraat, Turnhout",230227 
+51.3196,4.953395,"Mermansstraat, Turnhout",230090 
+51.322382,4.950714,"Otterstraat, Turnhout",230054 
+51.322382,4.950714,"Otterstraat, Turnhout",230059 
+51.321695,4.937745,"De Merodelei, Turnhout",230024 
+51.325084,4.94016,"Hannuitstraat, Turnhout",230121 
+51.3144,4.93085,"Jozef Simonslaan, Turnhout",230200 
+51.31668,4.95433,"Korte Mermansstraat, Turnhout",230091 
+51.322382,4.950714,"Otterstraat, Turnhout",230055 
+51.328245,4.949715,"Patersstraat, Turnhout",230060 
+51.321695,4.937745,"De Merodelei, Turnhout",230025 
+51.325084,4.94016,"Hannuitstraat, Turnhout",230122 
+51.321095,4.93137,"Onze Lieve Vrouwstraat, Turnhout",230178 
+51.320315,4.95483,"Nonnenstraat, Turnhout",230092 
+51.317555,4.95026,"Graatakker, Turnhout",230061 
+51.314369,4.932674,"Boerenkrijglaan, Turnhout",230202 
+51.325084,4.94016,"Hannuitstraat, Turnhout",230123 
+51.326115,4.9346,"Guldensporenlei, Turnhout",230156 
+51.320075,4.952975,"Hendrik Consciencestraat, Turnhout",230093 
+51.323996,4.939276,"Stationstraat, Turnhout",230062 
+51.31926,4.930986,"Volksplein, Turnhout",230228 
+51.32226,4.93675,"Bareelstraat, Turnhout",230124 
+51.321527,4.95299,"Kwakkelstraat, Turnhout",230094 
+51.319972,4.950654,"Druivenstraat, Turnhout",230063 
+51.314369,4.932674,"Boerenkrijglaan, Turnhout",230201 
+51.32226,4.93675,"Bareelstraat, Turnhout",230125 
+51.321527,4.95299,"Kwakkelstraat, Turnhout",230095 
+51.317555,4.95026,"Graatakker, Turnhout",230064 
+51.319566,4.935978,"Kadasterstraat, Turnhout",230179 
+51.322065,4.935385,"Prinsessenstraat, Turnhout",230126 
+51.321527,4.95299,"Kwakkelstraat, Turnhout",230096 
+51.314842,4.933089,"Pater Verschuerenstraat, Turnhout",230203 
+51.321916,4.949075,"Herentalsstraat, Turnhout",230066 
+51.326115,4.9346,"Guldensporenlei, Turnhout",230157 
+51.319915,4.930555,"Zandstraat, Turnhout",230229 
+51.319566,4.935978,"Kadasterstraat, Turnhout",230180 
+51.314842,4.933089,"Pater Verschuerenstraat, Turnhout",230204 
+51.326115,4.9346,"Guldensporenlei, Turnhout",230158 
+51.319915,4.930555,"Zandstraat, Turnhout",230182 
+51.319915,4.930555,"Zandstraat, Turnhout",230230 
+51.319915,4.930555,"Zandstraat, Turnhout",230232 
+51.319915,4.930555,"Zandstraat, Turnhout",230181 
+51.314842,4.933089,"Pater Verschuerenstraat, Turnhout",230205 
+51.33093,4.947515,"Beirenmolenstraat, Turnhout",230139 
+51.326115,4.9346,"Guldensporenlei, Turnhout",230159 
+51.319915,4.930555,"Zandstraat, Turnhout",230183 
+51.319915,4.930555,"Zandstraat, Turnhout",230231 
+51.328245,4.949715,"Patersstraat, Turnhout",230036 
+51.330899,4.948712,"Koningin Elisabethlei, Turnhout",230140 
+51.324285,4.940195,"Renier Sniedersstraat, Turnhout",230004 
+51.317385,4.932243,"Kroonstraat, Turnhout",230233 
+51.328245,4.949715,"Patersstraat, Turnhout",230037 
+51.324285,4.940195,"Renier Sniedersstraat, Turnhout",230005 
+51.313782,4.929822,"Koningslaan, Turnhout",230206 
+51.326085,4.93235,"Nieuwe Kaai, Turnhout",230160 
+51.324165,4.941389,"Warandestraat, Turnhout",230038 
+51.330899,4.948712,"Koningin Elisabethlei, Turnhout",230141 
+51.323501,4.942966,"Gemeentestraat, Turnhout",230006 
+51.319155,4.93276,"Peter Benoitstraat, Turnhout",230184 
+51.324165,4.941389,"Warandestraat, Turnhout",230039 
+51.319972,4.950654,"Druivenstraat, Turnhout",230009 
+51.324995,4.934115,"Harmoniestraat, Turnhout",230162 
+51.330899,4.948712,"Koningin Elisabethlei, Turnhout",230142 
+51.324165,4.941389,"Warandestraat, Turnhout",230040 
+51.317385,4.932243,"Kroonstraat, Turnhout",230234 
+51.320672,4.952688,"Veldstraat, Turnhout",230010 
+51.325855,4.95347,"Nijverheidstraat, Turnhout",230107 
+51.320661,4.939844,"Heilig Hartstraat, Turnhout",230077 
+51.324165,4.941389,"Warandestraat, Turnhout",230041 
+51.313782,4.929822,"Koningslaan, Turnhout",230207 
+51.319972,4.950654,"Druivenstraat, Turnhout",230011 
+51.312885,4.932255,"Oud-Strijderslaan, Turnhout",230212 
+51.326003,4.951328,"Lindekensstraat, Turnhout",230108 
+51.324995,4.934115,"Harmoniestraat, Turnhout",230161 
+51.317734,4.943784,"Patriottenstraat, Turnhout",230078 
+51.330899,4.948712,"Koningin Elisabethlei, Turnhout",230143 
+51.324285,4.940195,"Renier Sniedersstraat, Turnhout",230042 
+51.319155,4.93276,"Peter Benoitstraat, Turnhout",230185 
+51.32243,4.944193,"Korte Gasthuisstraat, Turnhout",230012 
+51.328577,4.951166,"Vredestraat, Turnhout",230109 
+51.317734,4.943784,"Patriottenstraat, Turnhout",230079 
+51.323996,4.939276,"Stationstraat, Turnhout",230043 
+51.327267,4.934734,"Antoine Coppenslaan, Turnhout",230163 
+51.323781,4.947267,"Zegeplein, Turnhout",230013 
+51.330899,4.948712,"Koningin Elisabethlei, Turnhout",230144 
+51.328577,4.951166,"Vredestraat, Turnhout",230110 
+51.317385,4.93251,"Bevrijdingstraat, Turnhout",230235 
+51.318863,4.943441,"Korte Vianenstraat, Turnhout",230080 
+51.323996,4.939276,"Stationstraat, Turnhout",230044 
+51.320586,4.947318,"Deken Adamsstraat, Turnhout",230014 
+51.328577,4.951166,"Vredestraat, Turnhout",230111 
+51.313572,4.93081,"Klaproosstraat, Turnhout",230208 
+51.312885,4.932255,"Oud-Strijderslaan, Turnhout",230213 
+51.321695,4.937745,"De Merodelei, Turnhout",230045 
+51.31391,4.944135,"Rubensstraat, Turnhout",230081 
+51.320586,4.947318,"Deken Adamsstraat, Turnhout",230015 
+51.330899,4.948712,"Koningin Elisabethlei, Turnhout",230145 
+51.328577,4.951166,"Vredestraat, Turnhout",230112 
+51.318275,4.93441,"Duinenstraat, Turnhout",230186 
+51.318334,4.945887,"Eigenaarsstraat, Turnhout",230082 
+51.327677,4.94713,"Koning Albertstraat, Turnhout",230113 
+51.31742,4.945505,"Apostoliekenstraat, Turnhout",230083 
+51.327267,4.934734,"Antoine Coppenslaan, Turnhout",230164 
+51.317385,4.93251,"Bevrijdingstraat, Turnhout",230236 
+51.328521,4.946419,"Oude Vaartstraat, Turnhout",230114 
+51.31742,4.945505,"Apostoliekenstraat, Turnhout",230084

@@ -1,0 +1,490 @@
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS070
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS027
+51.230533,2.917843,"Lijnbaanstraat, Oostende",OOS087
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS009
+51.22372,2.9171,"Hospitaalstraat, Oostende",OOS071
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS028
+51.23095,2.915555,"Sint-Sebastiaansstraat, Oostende",OOS088
+51.229425,2.922345,"Sint-Petrus en-Paulusplein, Oostende",OOS010
+51.22372,2.9171,"Hospitaalstraat, Oostende",OOS072
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS012
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS073
+51.229281,2.920553,"Sint-Pietersstraat, Oostende",OOS013
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS074
+51.22898,2.92279,"Zuidstraat, Oostende",OOS014
+51.229425,2.922345,"Sint-Petrus en-Paulusplein, Oostende",OOS075
+51.229425,2.922345,"Sint-Petrus en-Paulusplein, Oostende",OOS058
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS015
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS076
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS059
+51.228785,2.92194,"Dekenijstraat, Oostende",OOS016
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS077
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS061
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS017
+51.230475,2.92188,"Sint-Paulusstraat, Oostende",OOS078
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS062
+51.231149,2.9242,"Sir Winston Churchillkaai, Oostende",OOS001
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS063
+51.231149,2.9242,"Sir Winston Churchillkaai, Oostende",OOS002
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS064
+51.231149,2.9242,"Sir Winston Churchillkaai, Oostende",OOS003
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS065
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS039
+51.233215,2.914425,"Christinastraat, Oostende",OOS004
+51.22399,2.91642,"Romestraat, Oostende",OOS066
+51.23374,2.915345,"Vlaanderenstraat, Oostende",OOS040
+51.233215,2.914425,"Christinastraat, Oostende",OOS005
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS067
+51.23374,2.915345,"Vlaanderenstraat, Oostende",OOS041
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS006
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS068
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS042
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS427
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS043
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS428
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS437
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS429
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS044
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS327
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS438
+51.234175,2.916075,"Louisastraat, Oostende",OOS099
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS447
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS430
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS328
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS439
+51.20679,2.858175,"Zeedijk, Oostende",OOS337
+51.21984,2.888335,"Troonstraat, Oostende",OOS448
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS431
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS046
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS329
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS440
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS45 
+51.20679,2.858175,"Zeedijk, Oostende",OOS338
+51.22737,2.91106,"Rogierlaan, Oostende",OOS190
+51.21984,2.888335,"Troonstraat, Oostende",OOS449
+51.222175,2.892685,"Luikstraat, Oostende",OOS347
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS432
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS029
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS330
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS441
+51.20679,2.858175,"Zeedijk, Oostende",OOS339
+51.227836,2.912479,"Leon Spilliaertstraat, Oostende",OOS191
+51.227823,2.907887,"Koningsstraat, Oostende",OOS200
+51.230274,2.915956,"Wittenonnenstraat, Oostende",OOS089
+51.22159,2.89137,"Henegouwenstraat, Oostende",OOS348
+51.20679,2.858175,"Zeedijk, Oostende",OOS357
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS048
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS433
+51.21984,2.888335,"Troonstraat, Oostende",OOS452
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS331
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS442
+51.20679,2.858175,"Zeedijk, Oostende",OOS340
+51.227836,2.912479,"Leon Spilliaertstraat, Oostende",OOS192
+51.22159,2.89137,"Henegouwenstraat, Oostende",OOS349
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS201
+51.230533,2.917843,"Lijnbaanstraat, Oostende",OOS87 
+51.228003,2.910626,"Leopold I-Plein, Oostende",OOS210
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS030
+51.20679,2.858175,"Zeedijk, Oostende",OOS358
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS434
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS367
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS332
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS443
+51.21984,2.888335,"Troonstraat, Oostende",OOS453
+51.20679,2.858175,"Zeedijk, Oostende",OOS341
+51.228003,2.910626,"Leopold I-Plein, Oostende",OOS193
+51.22103,2.89009,"Limburgstraat, Oostende",OOS350
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS202
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS090
+51.23095,2.915555,"Sint-Sebastiaansstraat, Oostende",OOS88 
+51.231025,2.913175,"Leopold II-Laan, Oostende",OOS056
+51.22747,2.909355,"Warschaustraat, Oostende",OOS211
+51.20679,2.858175,"Zeedijk, Oostende",OOS359
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS435
+51.225505,2.90815,"Edmond Laponstraat, Oostende",OOS220
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS333
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS368
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS444
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS377
+51.20679,2.858175,"Zeedijk, Oostende",OOS342
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS194
+51.233645,2.918705,"Langestraat, Oostende",OOS97 
+51.22103,2.89009,"Limburgstraat, Oostende",OOS351
+51.227823,2.907887,"Koningsstraat, Oostende",OOS203
+51.230274,2.915956,"Wittenonnenstraat, Oostende",OOS89 
+51.22747,2.909355,"Warschaustraat, Oostende",OOS212
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS031
+51.20679,2.858175,"Zeedijk, Oostende",OOS360
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS436
+51.230533,2.917843,"Lijnbaanstraat, Oostende",OOS107
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS334
+51.224315,2.90881,"Koninginnelaan, Oostende",OOS221
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS369
+51.223235,2.907295,"Renteniersstraat, Oostende",OOS230
+51.20679,2.858175,"Zeedijk, Oostende",OOS343
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS378
+51.227836,2.912479,"Leon Spilliaertstraat, Oostende",OOS195
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS387
+51.220455,2.888785,"Luxemburgstraat, Oostende",OOS352
+51.227823,2.907887,"Koningsstraat, Oostende",OOS204
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS091
+51.225195,2.91659,"Ieperstraat, Oostende",OOS057
+51.227823,2.907887,"Koningsstraat, Oostende",OOS213
+51.215654,2.877828,"Diksmuidestraat, Oostende",OOS361
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS445
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS90 
+51.230533,2.917843,"Lijnbaanstraat, Oostende",OOS108
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS335
+51.224315,2.90881,"Koninginnelaan, Oostende",OOS222
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS370
+51.22351,2.907935,"Toekomststraat, Oostende",OOS231
+51.2228,2.894115,"Zeventien Oktoberstraat, Oostende",OOS344
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS379
+51.230442,2.911336,"IJzerstraat, Oostende",OOS196
+51.22351,2.911045,"Prinses Stefanieplein, Oostende",OOS240
+51.220455,2.888785,"Luxemburgstraat, Oostende",OOS353
+51.21984,2.888335,"Troonstraat, Oostende",OOS388
+51.227823,2.907887,"Koningsstraat, Oostende",OOS205
+51.21984,2.888335,"Troonstraat, Oostende",OOS397
+51.215654,2.877828,"Diksmuidestraat, Oostende",OOS362
+51.232235,2.9182,"Wapenplein, Oostende",OOS100
+51.227823,2.907887,"Koningsstraat, Oostende",OOS214
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS032
+51.22425,2.914255,"Edith Cavellstraat, Oostende",OOS109
+51.219187,2.885931,"Namenstraat, Oostende",OOS336
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS223
+51.217336,2.881452,"Albertushelling, Oostende",OOS371
+51.23221,2.914335,"Hertstraat, Oostende",OOS118
+51.2228,2.894115,"Zeventien Oktoberstraat, Oostende",OOS345
+51.22299,2.908055,"Weeshuisstraat, Oostende",OOS232
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS380
+51.222967,2.909266,"Prinses Clementinaplein, Oostende",OOS241
+51.21868,2.8848,"Aarlenstraat, Oostende",OOS354
+51.21984,2.888335,"Troonstraat, Oostende",OOS389
+51.227823,2.907887,"Koningsstraat, Oostende",OOS206
+51.22305,2.91285,"Kairostraat, Oostende",OOS250
+51.215654,2.877828,"Diksmuidestraat, Oostende",OOS363
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS101
+51.21984,2.888335,"Troonstraat, Oostende",OOS398
+51.21984,2.888335,"Troonstraat, Oostende",OOS407
+51.23459,2.92218,"Montgomerykaai, Oostende",OOS110
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS224
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS215
+51.229865,2.91313,"Brusselstraat, Oostende",OOS197
+51.234795,2.918515,"Boekareststraat, Oostende",OOS119
+51.222175,2.892685,"Luikstraat, Oostende",OOS346
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS233
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS381
+51.222967,2.909266,"Prinses Clementinaplein, Oostende",OOS242
+51.20679,2.858175,"Zeedijk, Oostende",OOS355
+51.21984,2.888335,"Troonstraat, Oostende",OOS390
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS207
+51.227823,2.907887,"Koningsstraat, Oostende",OOS251
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS364
+51.228773,2.923463,"Vindictivelaan, Oostende",OOS102
+51.21984,2.888335,"Troonstraat, Oostende",OOS399
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS260
+51.233645,2.918705,"Langestraat, Oostende",OOS111
+51.21984,2.888335,"Troonstraat, Oostende",OOS408
+51.230442,2.911336,"IJzerstraat, Oostende",OOS225
+51.22591,2.90854,"Muscarstraat, Oostende",OOS216
+51.229295,2.92454,"Natienkaai, Oostende",OOS120
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS234
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS033
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS138
+51.22305,2.91285,"Kairostraat, Oostende",OOS243
+51.20679,2.858175,"Zeedijk, Oostende",OOS356
+51.21984,2.888335,"Troonstraat, Oostende",OOS391
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS208
+51.227205,2.90811,"Chaletstraat, Oostende",OOS252
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS365
+51.228773,2.923463,"Vindictivelaan, Oostende",OOS103
+51.228785,2.92194,"Dekenijstraat, Oostende",OOS16 
+51.22492,2.913118,"Antwerpenstraat, Oostende",OOS261
+51.216228,2.880036,"Meibloempjeslaan, Oostende",OOS374
+51.233645,2.918705,"Langestraat, Oostende",OOS112
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS226
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS307
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS121
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS235
+51.21984,2.888335,"Troonstraat, Oostende",OOS400
+51.22591,2.90854,"Muscarstraat, Oostende",OOS217
+51.22305,2.91285,"Kairostraat, Oostende",OOS244
+51.225195,2.91659,"Ieperstraat, Oostende",OOS148
+51.21984,2.888335,"Troonstraat, Oostende",OOS392
+51.2284,2.90991,"Kemmelbergstraat, Oostende",OOS209
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS253
+51.216789,2.880015,"Raversijdestraat, Oostende",OOS366
+51.228773,2.923463,"Vindictivelaan, Oostende",OOS104
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS17 
+51.229819,2.916426,"Poststraat, Oostende",OOS262
+51.216228,2.880036,"Meibloempjeslaan, Oostende",OOS375
+51.23462,2.919145,"Hofstraat, Oostende",OOS113
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS27 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS308
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS122
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS094
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS236
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS227
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS132
+51.22305,2.91285,"Kairostraat, Oostende",OOS245
+51.226092,2.910859,"Jules Peurquaetstraat, Oostende",OOS159
+51.21984,2.888335,"Troonstraat, Oostende",OOS401
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS254
+51.228773,2.923463,"Vindictivelaan, Oostende",OOS105
+51.23039,2.923075,"Sint-Franciscusstraat, Oostende",OOS18 
+51.21984,2.888335,"Troonstraat, Oostende",OOS402
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS300
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS376
+51.23462,2.919145,"Hofstraat, Oostende",OOS114
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS28 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS309
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS123
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS37 
+51.224315,2.90881,"Koninginnelaan, Oostende",OOS237
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS318
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS133
+51.22305,2.91285,"Kairostraat, Oostende",OOS246
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS170
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS228
+51.227205,2.90811,"Chaletstraat, Oostende",OOS255
+51.228773,2.923463,"Vindictivelaan, Oostende",OOS106
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS19 
+51.225035,2.914625,"Amsterdamstraat, Oostende",OOS160
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS301
+51.234255,2.917725,"Kapucijnenstraat, Oostende",OOS115
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS29 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS229
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS310
+51.23374,2.915345,"Vlaanderenstraat, Oostende",OOS095
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS124
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS38 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS319
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS134
+51.23039,2.923075,"Sint-Franciscusstraat, Oostende",OOS018
+51.22305,2.91285,"Kairostraat, Oostende",OOS247
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS180
+51.22747,2.909355,"Warschaustraat, Oostende",OOS256
+51.23039,2.923075,"Sint-Franciscusstraat, Oostende",OOS20 
+51.22351,2.911045,"Prinses Stefanieplein, Oostende",OOS238
+51.22715,2.916005,"Kanunnik Dokter Louis Colensstraat, Oostende",OOS171
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS302
+51.234175,2.916075,"Louisastraat, Oostende",OOS116
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS30 
+51.229425,2.922345,"Sint-Petrus en-Paulusplein, Oostende",OOS10 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS311
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS125
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS045
+51.230523,2.921321,"Kaaistraat, Oostende",OOS079
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS320
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS135
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS39 
+51.22305,2.91285,"Kairostraat, Oostende",OOS248
+51.22737,2.91106,"Rogierlaan, Oostende",OOS181
+51.227205,2.90811,"Chaletstraat, Oostende",OOS257
+51.23063,2.9227,"Pastoor Pypestraat, Oostende",OOS21 
+51.22351,2.911045,"Prinses Stefanieplein, Oostende",OOS239
+51.22715,2.916005,"Kanunnik Dokter Louis Colensstraat, Oostende",OOS172
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS303
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS31 
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS12 
+51.225505,2.90815,"Edmond Laponstraat, Oostende",OOS218
+51.233645,2.918705,"Langestraat, Oostende",OOS096
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS312
+51.22305,2.91285,"Kairostraat, Oostende",OOS127
+51.23374,2.915345,"Vlaanderenstraat, Oostende",OOS40 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS321
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS136
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS019
+51.22305,2.91285,"Kairostraat, Oostende",OOS249
+51.22737,2.91106,"Rogierlaan, Oostende",OOS182
+51.225035,2.914625,"Amsterdamstraat, Oostende",OOS145
+51.224485,2.903335,"Wellingtonstraat, Oostende",OOS258
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS23 
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS173
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS304
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS32 
+51.229281,2.920553,"Sint-Pietersstraat, Oostende",OOS13 
+51.226092,2.910859,"Jules Peurquaetstraat, Oostende",OOS161
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS313
+51.230523,2.921321,"Kaaistraat, Oostende",OOS080
+51.21984,2.888335,"Troonstraat, Oostende",OOS403
+51.225505,2.90815,"Edmond Laponstraat, Oostende",OOS219
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS037
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS322
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS137
+51.225195,2.91659,"Ieperstraat, Oostende",OOS174
+51.22737,2.91106,"Rogierlaan, Oostende",OOS183
+51.225195,2.91659,"Ieperstraat, Oostende",OOS146
+51.224485,2.903335,"Wellingtonstraat, Oostende",OOS259
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS24 
+51.22898,2.92279,"Zuidstraat, Oostende",OOS14 
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS305
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS33 
+51.226092,2.910859,"Jules Peurquaetstraat, Oostende",OOS162
+51.233645,2.918705,"Langestraat, Oostende",OOS097
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS314
+51.21984,2.888335,"Troonstraat, Oostende",OOS404
+51.231149,2.9242,"Sir Winston Churchillkaai, Oostende",OOS1 S
+51.22399,2.91642,"Romestraat, Oostende",OOS150
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS323
+51.23039,2.923075,"Sint-Franciscusstraat, Oostende",OOS020
+51.225195,2.91659,"Ieperstraat, Oostende",OOS175
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS15 
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS184
+51.225035,2.914625,"Amsterdamstraat, Oostende",OOS147
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS25 
+51.2236,2.91327,"Peter Benoitstraat, Oostende",OOS163
+51.21984,2.888335,"Troonstraat, Oostende",OOS405
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS306
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS34 
+51.231149,2.9242,"Sir Winston Churchillkaai, Oostende",OOS2 S
+51.232324,2.919301,"Groentemarkt, Oostende",OOS081
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS315
+51.22399,2.91642,"Romestraat, Oostende",OOS151
+51.225035,2.914625,"Amsterdamstraat, Oostende",OOS164
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS038
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS324
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS176
+51.21984,2.888335,"Troonstraat, Oostende",OOS393
+51.21984,2.888335,"Troonstraat, Oostende",OOS406
+51.226092,2.910859,"Jules Peurquaetstraat, Oostende",OOS185
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS26 
+51.231149,2.9242,"Sir Winston Churchillkaai, Oostende",OOS3 S
+51.225035,2.914625,"Amsterdamstraat, Oostende",OOS152
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS034
+51.22492,2.913118,"Antwerpenstraat, Oostende",OOS158
+51.234255,2.917725,"Kapucijnenstraat, Oostende",OOS35 
+51.233285,2.921345,"Nieuwstraat, Oostende",OOS098
+51.2236,2.91327,"Peter Benoitstraat, Oostende",OOS165
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS316
+51.21984,2.888335,"Troonstraat, Oostende",OOS394
+51.233215,2.914425,"Christinastraat, Oostende",OOS4 
+51.23063,2.9227,"Pastoor Pypestraat, Oostende",OOS021
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS325
+51.227836,2.912479,"Leon Spilliaertstraat, Oostende",OOS177
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS139
+51.225035,2.914625,"Amsterdamstraat, Oostende",OOS153
+51.226092,2.910859,"Jules Peurquaetstraat, Oostende",OOS186
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS382
+51.2236,2.91327,"Peter Benoitstraat, Oostende",OOS166
+51.21984,2.888335,"Troonstraat, Oostende",OOS395
+51.230442,2.911336,"IJzerstraat, Oostende",OOS198
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS36 
+51.21122,2.905635,"Torhoutsesteenweg, Oostende",OOS140
+51.23059,2.919765,"Kerkstraat, Oostende",OOS082
+51.22425,2.914255,"Edith Cavellstraat, Oostende",OOS154
+51.234255,2.917725,"Kapucijnenstraat, Oostende",OOS035
+51.2236,2.91327,"Peter Benoitstraat, Oostende",OOS167
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS383
+51.21984,2.888335,"Troonstraat, Oostende",OOS396
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS326
+51.227836,2.912479,"Leon Spilliaertstraat, Oostende",OOS178
+51.227823,2.907887,"Koningsstraat, Oostende",OOS199
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS128
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS187
+51.2256,2.9176,"Stockholmstraat, Oostende",OOS141
+51.224465,2.913719,"Filip Van Maestrichtplein, Oostende",OOS155
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS384
+51.227327,2.917163,"Canadaplein, Oostende",OOS168
+51.22305,2.91285,"Kairostraat, Oostende",OOS129
+51.2256,2.9176,"Stockholmstraat, Oostende",OOS142
+51.233485,2.919885,"Cirkelstraat, Oostende",OOS092
+51.216527,2.880936,"Vergeet-mij-nietjeslaan, Oostende",OOS372
+51.22515,2.913773,"Gentstraat, Oostende",OOS156
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS036
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS023
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS385
+51.228,2.917875,"Euphrosina Beernaertstraat, Oostende",OOS179
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS130
+51.2256,2.9176,"Stockholmstraat, Oostende",OOS143
+51.216527,2.880936,"Vergeet-mij-nietjeslaan, Oostende",OOS373
+51.22737,2.91106,"Rogierlaan, Oostende",OOS188
+51.22515,2.913773,"Gentstraat, Oostende",OOS157
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS386
+51.215665,2.889085,"Nieuwpoortsesteenweg, Oostende",OOS317
+51.233215,2.914425,"Christinastraat, Oostende",OOS117
+51.224821,2.909725,"Alfons Pieterslaan, Oostende",OOS131
+51.23126,2.9127,"tstraat, Oostende",OOS083
+51.22425,2.914255,"Edith Cavellstraat, Oostende",OOS093
+51.2256,2.9176,"Stockholmstraat, Oostende",OOS144
+51.21984,2.888335,"Troonstraat, Oostende",OOS409
+51.23374,2.915345,"Vlaanderenstraat, Oostende",OOS41 
+51.21984,2.888335,"Troonstraat, Oostende",OOS410
+51.21984,2.888335,"Troonstraat, Oostende",OOS411
+51.21984,2.888335,"Troonstraat, Oostende",OOS412
+51.21984,2.888335,"Troonstraat, Oostende",OOS413
+51.21984,2.888335,"Troonstraat, Oostende",OOS414
+51.21984,2.888335,"Troonstraat, Oostende",OOS415
+51.22737,2.91106,"Rogierlaan, Oostende",OOS189
+51.21984,2.888335,"Troonstraat, Oostende",OOS416
+51.21984,2.888335,"Troonstraat, Oostende",OOS417
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS418
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS419
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS42 
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS420
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS421
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS422
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS423
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS024
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS424
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS425
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS426
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS43 
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS44 
+51.224686,2.898495,"Koningin Astridlaan, Oostende",OOS446
+51.21984,2.888335,"Troonstraat, Oostende",OOS450
+51.21984,2.888335,"Troonstraat, Oostende",OOS451
+51.231555,2.913,"Van Iseghemlaan, Oostende",OOS46 
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS48 
+51.233215,2.914425,"Christinastraat, Oostende",OOS5 
+51.23059,2.919765,"Kerkstraat, Oostende",OOS084
+51.231025,2.913175,"Leopold II-Laan, Oostende",OOS56 
+51.225195,2.91659,"Ieperstraat, Oostende",OOS57 
+51.229425,2.922345,"Sint-Petrus en-Paulusplein, Oostende",OOS58 
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS59 
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS6 
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS61 
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS62 
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS63 
+51.228342,2.911204,"Karel Janssenslaan, Oostende",OOS64 
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS65 
+51.22399,2.91642,"Romestraat, Oostende",OOS66 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS67 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS68 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS69 
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS7 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS70 
+51.22372,2.9171,"Hospitaalstraat, Oostende",OOS71 
+51.22372,2.9171,"Hospitaalstraat, Oostende",OOS72 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS73 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS74 
+51.23126,2.9127,"Albert I-Promenade, Oostende",OOS025
+51.229425,2.922345,"Sint-Petrus en-Paulusplein, Oostende",OOS75 
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS76 
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS77 
+51.230475,2.92188,"Sint-Paulusstraat, Oostende",OOS78 
+51.230523,2.921321,"Kaaistraat, Oostende",OOS79 
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS8 
+51.230523,2.921321,"Kaaistraat, Oostende",OOS80 
+51.232324,2.919301,"Groentemarkt, Oostende",OOS81 
+51.23059,2.919765,"Kerkstraat, Oostende",OOS82 
+51.23126,2.9127,"tstraat, Oostende",OOS83 
+51.23059,2.919765,"Kerkstraat, Oostende",OOS84 
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS085
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS85 
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS86 
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS9 
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS91 
+51.230278,2.916822,"Aartshertoginnestraat, Oostende",OOS007
+51.233485,2.919885,"Cirkelstraat, Oostende",OOS92 
+51.22425,2.914255,"Edith Cavellstraat, Oostende",OOS93 
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS94 
+51.23374,2.915345,"Vlaanderenstraat, Oostende",OOS95 
+51.233645,2.918705,"Langestraat, Oostende",OOS96 
+51.233285,2.921345,"Nieuwstraat, Oostende",OOS98 
+51.234175,2.916075,"Louisastraat, Oostende",OOS99 
+51.23126,2.9127,"Jozef II-Straat, Oostende",OOS069
+51.222781,2.916885,"Spoorwegstraat, Oostende",OOS026
+51.22983,2.921731,"Prins Boudewijnstraat, Oostende",OOS086
+51.227644,2.917931,"Hendrik Serruyslaan, Oostende",OOS00

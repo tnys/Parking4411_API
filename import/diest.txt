@@ -1,0 +1,73 @@
+50.982925,5.05346,"Wolvenstraat, Diest",DIE11
+50.987596,5.056214,"Koning Albertstraat, Diest",DIE18
+50.98098,5.056,"Nicolas Welterstraat, Diest",DIE56
+50.983334,5.049863,"Egide Alenusstraat, Diest",DIE6 
+50.980875,5.0549,"Sint-Annastraat, Diest",DIE63
+50.98705,5.05918,"Grauwzustersstraat, Diest",DIE70
+50.984585,5.05113,"Fonteynstraat, Diest",DIE49
+50.98264,5.050435,"Leuvensestraat, Diest",DIE44
+50.98357,5.05466,"Graanmarkt, Diest",DIE12
+50.987596,5.056214,"Koning Albertstraat, Diest",DIE19
+50.98498,5.047745,"Vissersstraat, Diest",DIE7 
+50.983201,5.052276,"Botermarkt, Diest",DIE8 
+50.984455,5.054415,"Henri Verstappenplein, Diest",DIE13
+50.98235,5.05277,"Hasseltsestraat, Diest",DIE2 
+50.983334,5.049863,"Egide Alenusstraat, Diest",DIE9 
+50.98355,5.05386,"Guido Gezellestraat, Diest",DIE14
+50.987596,5.056214,"Koning Albertstraat, Diest",DIE20
+50.988133,5.055693,"Michel Theysstraat, Diest",DIE27
+50.982755,5.054885,"Peetersstraat, Diest",DIE53
+50.98017,5.053185,"Kautershoek, Diest",DIE60
+50.986095,5.057785,"Zeven Weeenstraat, Diest",DIE67
+50.988588,5.053917,"Verversgracht, Diest",DIE50
+50.988133,5.055693,"Michel Theysstraat, Diest",DIE28
+50.986253,5.054727,"Overstraat, Diest",DIE15
+50.987596,5.056214,"Koning Albertstraat, Diest",DIE21
+50.981495,5.051805,"Engelandstraat, Diest",DIE64
+50.984785,5.0496,"Kaai, Diest",DIE71
+50.988133,5.055693,"Michel Theysstraat, Diest",DIE29
+50.986253,5.054727,"Overstraat, Diest",DIE16
+50.98498,5.05085,"Cleynaertsstraat, Diest",DIE22
+50.984785,5.0496,"Kaai, Diest",DIE23
+50.98235,5.05277,"Hasseltsestraat, Diest",DIE3 
+50.989052,5.051073,"Statiestraat, Diest",DIE36
+50.986253,5.054727,"Overstraat, Diest",DIE17
+50.98098,5.056,"Nicolas Welterstraat, Diest",DIE57
+50.982714,5.056366,"Mariendaalstraat, Diest",DIE54
+50.98492,5.05168,"Grote Markt, Diest",DIE24
+50.98762,5.057389,"Begijnenstraat, Diest",DIE30
+50.985055,5.055,"Veemarkt, Diest",DIE37
+50.979747,5.053869,"Arthur van Ooststraat, Diest",DIE61
+50.988588,5.053917,"Verversgracht, Diest",DIE51
+50.981495,5.051805,"Engelandstraat, Diest",DIE65
+50.98632,5.06142,"Pesthuizenstraat, Diest",DIE68
+50.988022,5.048309,"Demerstraat, Diest",DIE72
+50.98492,5.05168,"Grote Markt, Diest",DIE25
+50.98762,5.057389,"Begijnenstraat, Diest",DIE31
+50.984347,5.054957,"Koestraat, Diest",DIE38
+50.987481,5.044631,"Boudewijnvest, Diest",DIE45
+50.988133,5.055693,"Michel Theysstraat, Diest",DIE26
+50.99045,5.056265,"Schaffensestraat, Diest",DIE32
+50.986478,5.049927,"Refugiestraat, Diest",DIE39
+50.98235,5.05277,"Hasseltsestraat, Diest",DIE4 
+50.98235,5.05277,"Hasseltsestraat, Diest",DIE46
+50.988022,5.048309,"Demerstraat, Diest",DIE33
+50.983005,5.05754,"Sint-Janstraat, Diest",DIE58
+50.982714,5.056366,"Mariendaalstraat, Diest",DIE55
+50.979747,5.053869,"Arthur van Ooststraat, Diest",DIE62
+50.98705,5.05918,"Grauwzustersstraat, Diest",DIE69
+50.986478,5.049927,"Refugiestraat, Diest",DIE40
+50.984347,5.054957,"Koestraat, Diest",DIE47
+50.988588,5.053917,"Verversgracht, Diest",DIE52
+50.989052,5.051073,"Statiestraat, Diest",DIE34
+50.981495,5.051805,"Engelandstraat, Diest",DIE66
+50.988022,5.048309,"Demerstraat, Diest",DIE73
+50.989052,5.051073,"Statiestraat, Diest",DIE35
+50.99045,5.056265,"Schaffensestraat, Diest",DIE41
+50.986095,5.057785,"Zeven Weeenstraat, Diest",DIE48
+50.98235,5.05277,"Hasseltsestraat, Diest",DIE1 
+50.988133,5.055693,"Michel Theysstraat, Diest",DIE42
+50.982607,5.051613,"Kardinaal Mercierstraat, Diest",DIE10
+50.98235,5.05277,"Hasseltsestraat, Diest",DIE5 
+50.98017,5.053185,"Kautershoek, Diest",DIE59
+50.986478,5.049927,"Refugiestraat, Diest",DIE4

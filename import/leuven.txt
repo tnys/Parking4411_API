@@ -1,0 +1,218 @@
+50.863155,4.695163,"Lodewijk Engelbertus van Arenbergplein, Leuven",37216 
+50.8904,4.70886,"Koning Leopold I-Straat, Leuven",34116 
+50.863155,4.695163,"Lodewijk Engelbertus van Arenbergplein, Leuven",37210 
+50.863155,4.695163,"Lodewijk Engelbertus van Arenbergplein, Leuven",37217 
+50.884554,4.702943,"Sint-Maartenstraat, Leuven",32104 
+50.880408,4.681776,"Herestraat, Leuven",38402 
+50.878706,4.695501,"Onze-Lieve-Vrouwstraat, Leuven",33103 
+50.870015,4.713315,"Pleinstraat, Leuven",36105 
+50.875144,4.68381,"Groenveldstraat, Leuven",38401 
+50.880249,4.698397,"Amerikalaan, Leuven",31110 
+50.876832,4.705722,"Tiensestraat, Leuven",34208 
+50.87746,4.697875,"Minderbroedersstraat, Leuven",33104 
+50.883585,4.71039,"Vanden Tymplestraat, Leuven",32118 
+50.87333,4.71172,"Tomveldstraat, Leuven",34232 
+50.8718,4.71664,"Bierbeekstraat, Leuven",36204 
+50.884075,4.7014,"Lombaardenstraat, Leuven",32225 
+50.883515,4.709125,"Jean-Baptiste Van Monsstraat, Leuven",32239 
+50.87758,4.701645,"Hogeschoolplein, Leuven",34101 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37206 
+50.8904,4.70886,"Koning Leopold I-Straat, Leuven",34110 
+50.884524,4.715125,"Diestsesteenweg, Leuven",35206 
+50.876095,4.703079,"Charles Deberiotstraat, Leuven",34201 
+50.87878,4.709555,"Ravenstraat, Leuven",34118 
+50.883289,4.709759,"Weidestraat, Leuven",32240 
+50.873265,4.71051,"Schepenenstraat, Leuven",34225 
+50.873696,4.710497,"Windmolenstraat, Leuven",34224 
+50.881845,4.69421,"Zevenslapersstraat, Leuven",31204 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37207 
+50.872018,4.718069,"Tivolistraat, Leuven",36208 
+50.880937,4.701999,"Vaartstraat, Leuven",32201 
+50.8757,4.71507,"Tiensevest, Leuven",34271 
+50.882795,4.709815,"Nerviersstraat, Leuven",32116 
+50.881685,4.69984,"Vismarkt, Leuven",31222 
+50.885362,4.710489,"Diestsevest, Leuven",32247 
+50.878025,4.71145,"Maria Theresiastraat, Leuven",34249 
+50.876832,4.705722,"Tiensestraat, Leuven",34104 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32209 
+50.871051,4.707488,"Brabanconnestraat, Leuven",34221 
+50.876832,4.705722,"Tiensestraat, Leuven",34105 
+50.878025,4.71145,"Maria Theresiastraat, Leuven",34108 
+50.882795,4.709815,"Nerviersstraat, Leuven",32117 
+50.8757,4.71507,"Tiensevest, Leuven",34270 
+50.869785,4.699225,"Naamsestraat, Leuven",33206 
+50.884524,4.715125,"Diestsesteenweg, Leuven",35202 
+50.869785,4.699225,"Naamsestraat, Leuven",33205 
+50.876995,4.7084,"Blijde Inkomststraat, Leuven",34240 
+50.883709,4.70412,"Rijdende Artillerielaan, Leuven",32231 
+50.86941,4.708048,"Geldenaaksevest, Leuven",34235 
+50.876832,4.705722,"Tiensestraat, Leuven",34209 
+50.888109,4.694914,"Mechelsestraat, Leuven",31219 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32218 
+50.87788,4.71394,"Arnould Nobelstraat, Leuven",34264 
+50.881355,4.69346,"Fonteinstraat, Leuven",31202 
+50.874385,4.701515,"Vlamingenstraat, Leuven",34203 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37204 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37208 
+50.86728,4.74195,"Tiensesteenweg, Leuven",36210 
+50.87384,4.71173,"Windmolenveldstraat, Leuven",34231 
+50.876832,4.705722,"Tiensestraat, Leuven",34210 
+50.873775,4.709215,"Dekenstraat, Leuven",34217 
+50.880762,4.696361,"Lei, Leuven",31105 
+50.878025,4.71145,"Maria Theresiastraat, Leuven",34247 
+50.883425,4.693215,"Petermannenstraat, Leuven",31207 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32206 
+50.880325,4.699415,"Dirk Boutslaan, Leuven",31107 
+50.88466,4.70507,"Tweewaterstraat, Leuven",32235 
+50.8794,4.71203,"Justus Lipsiusstraat, Leuven",34120 
+50.883605,4.690175,"Brouwersstraat, Leuven",31210 
+50.870015,4.713315,"Pleinstraat, Leuven",36106 
+50.879402,4.705991,"Vital Decosterstraat, Leuven",32108 
+50.878706,4.695501,"Onze-Lieve-Vrouwstraat, Leuven",33101 
+50.87878,4.709555,"Ravenstraat, Leuven",34119 
+50.873775,4.709215,"Dekenstraat, Leuven",34219 
+50.88105,4.694365,"Pieter Coutereelstraat, Leuven",31203 
+50.883605,4.690175,"Brouwersstraat, Leuven",31208 
+50.879195,4.70981,"Willemsstraat, Leuven",34117 
+50.876025,4.711545,"Burgemeestersstraat, Leuven",34250 
+50.8718,4.71664,"Bierbeekstraat, Leuven",36206 
+50.876995,4.7084,"Blijde Inkomststraat, Leuven",34238 
+50.8794,4.71203,"Justus Lipsiusstraat, Leuven",34255 
+50.882795,4.709815,"Nerviersstraat, Leuven",32110 
+50.883025,4.70919,"Strijdersstraat, Leuven",32237 
+50.884524,4.715125,"Diestsesteenweg, Leuven",35204 
+50.881685,4.69984,"Vismarkt, Leuven",31221 
+50.885362,4.710489,"Diestsevest, Leuven",32251 
+50.875736,4.713931,"Dagobertstraat, Leuven",34266 
+50.8757,4.71507,"Tiensevest, Leuven",34269 
+50.8757,4.71507,"Tiensevest, Leuven",36221 
+50.87617,4.69721,"Pater Damiaanplein, Leuven",33204 
+50.876832,4.705722,"Tiensestraat, Leuven",34207 
+50.880937,4.701999,"Vaartstraat, Leuven",32202 
+50.885334,4.718446,"Baron August de Becker Remyplein, Leuven",35210 
+50.87154,4.712595,"Leon Schreursvest, Leuven",36203 
+50.880442,4.708017,"Lepelstraat, Leuven",32109 
+50.878025,4.71145,"Maria Theresiastraat, Leuven",34248 
+50.87788,4.71394,"Arnould Nobelstraat, Leuven",34265 
+50.881145,4.690662,"Brusselsestraat, Leuven",31102 
+50.8757,4.71507,"Tiensevest, Leuven",34276 
+50.880937,4.701999,"Vaartstraat, Leuven",32205 
+50.879402,4.705991,"Vital Decosterstraat, Leuven",32233 
+50.874385,4.701515,"Vlamingenstraat, Leuven",34204 
+50.879055,4.7104,"Mussenstraat, Leuven",34252 
+50.87533,4.690915,"Kapucijnenvoer, Leuven",33201 
+50.876995,4.7084,"Blijde Inkomststraat, Leuven",34236 
+50.87746,4.697875,"Minderbroedersstraat, Leuven",33105 
+50.882463,4.699733,"Karel van Lotharingenstraat, Leuven",31223 
+50.884554,4.702943,"Sint-Maartenstraat, Leuven",32224 
+50.885334,4.718446,"Baron August de Becker Remyplein, Leuven",35209 
+50.885362,4.710489,"Diestsevest, Leuven",32249 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32207 
+50.8794,4.71203,"Justus Lipsiusstraat, Leuven",34254 
+50.881355,4.69346,"Fonteinstraat, Leuven",31201 
+50.880614,4.690676,"Kruisstraat, Leuven",31405 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32219 
+50.879402,4.705991,"Vital Decosterstraat, Leuven",32232 
+50.877445,4.70598,"Herbert Hooverplein, Leuven",34106 
+50.873696,4.710497,"Windmolenstraat, Leuven",34223 
+50.884554,4.702943,"Sint-Maartenstraat, Leuven",32222 
+50.883515,4.709125,"Jean-Baptiste Van Monsstraat, Leuven",32238 
+50.879164,4.707395,"Bogaardenstraat, Leuven",34262 
+50.880937,4.701999,"Vaartstraat, Leuven",32204 
+50.881145,4.690662,"Brusselsestraat, Leuven",31103 
+50.86941,4.708048,"Geldenaaksevest, Leuven",34233 
+50.883025,4.70919,"Strijdersstraat, Leuven",32236 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32208 
+50.876995,4.7084,"Blijde Inkomststraat, Leuven",34239 
+50.883585,4.71039,"Vanden Tymplestraat, Leuven",32246 
+50.885362,4.710489,"Diestsevest, Leuven",32250 
+50.879402,4.705991,"Vital Decosterstraat, Leuven",32107 
+50.880937,4.701999,"Vaartstraat, Leuven",32203 
+50.880325,4.699415,"Dirk Boutslaan, Leuven",31108 
+50.876832,4.705722,"Tiensestraat, Leuven",34102 
+50.885362,4.710489,"Diestsevest, Leuven",32248 
+50.87997,4.69157,"Sint-Jacobsplein, Leuven",31404 
+50.876575,4.71207,"Quinten Metsysplein, Leuven",34263 
+50.881145,4.690662,"Brusselsestraat, Leuven",31101 
+50.880454,4.691602,"Pelgrimstraat, Leuven",31406 
+50.8816,4.694105,"Predikherinnenstraat, Leuven",31205 
+50.86941,4.708048,"Geldenaaksevest, Leuven",34234 
+50.876995,4.7084,"Blijde Inkomststraat, Leuven",34246 
+50.8757,4.71507,"Tiensevest, Leuven",34277 
+50.888109,4.694914,"Mechelsestraat, Leuven",31218 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32210 
+50.876832,4.705722,"Tiensestraat, Leuven",34206 
+50.884524,4.715125,"Diestsesteenweg, Leuven",35201 
+50.879164,4.707395,"Bogaardenstraat, Leuven",34261 
+50.885334,4.718446,"Baron August de Becker Remyplein, Leuven",35208 
+50.873775,4.709215,"Dekenstraat, Leuven",34220 
+50.87997,4.69157,"Sint-Jacobsplein, Leuven",31407 
+50.87084,4.71143,"Nieuwe Kerkhofdreef, Leuven",36101 
+50.876715,4.69792,"Parijsstraat, Leuven",33203 
+50.875265,4.707845,"Andreas Vesaliusstraat, Leuven",34216 
+50.884554,4.702943,"Sint-Maartenstraat, Leuven",32223 
+50.87821,4.70856,"Erasmusplein, Leuven",34109 
+50.876832,4.705722,"Tiensestraat, Leuven",34103 
+50.87084,4.71143,"Nieuwe Kerkhofdreef, Leuven",36102 
+50.880762,4.696361,"Lei, Leuven",31106 
+50.86801,4.71191,"Philipssite, Leuven",36107 
+50.86941,4.708048,"Geldenaaksevest, Leuven",36201 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32216 
+50.873775,4.709215,"Dekenstraat, Leuven",34218 
+50.880762,4.696361,"Lei, Leuven",31220 
+50.8757,4.71507,"Tiensevest, Leuven",34268 
+50.87084,4.71143,"Nieuwe Kerkhofdreef, Leuven",36103 
+50.881618,4.698647,"Craenendonck, Leuven",31224 
+50.875822,4.698404,"Ramberg, Leuven",33207 
+50.884524,4.715125,"Diestsesteenweg, Leuven",35203 
+50.8718,4.71664,"Bierbeekstraat, Leuven",36205 
+50.874385,4.701515,"Vlamingenstraat, Leuven",34205 
+50.87533,4.690915,"Kapucijnenvoer, Leuven",33202 
+50.8725,4.71666,"Alfred Delaunoislaan, Leuven",36207 
+50.877966,4.698163,"Sint-Barbarastraat, Leuven",33106 
+50.86728,4.74195,"Tiensesteenweg, Leuven",36216 
+50.86728,4.74195,"Tiensesteenweg, Leuven",36217 
+50.8757,4.71507,"Tiensevest, Leuven",34267 
+50.863886,4.707978,"IJzerenwegstraat, Leuven",35207 
+50.86728,4.74195,"Tiensesteenweg, Leuven",36218 
+50.87997,4.69157,"Sint-Jacobsplein, Leuven",31402 
+50.878706,4.695501,"Onze-Lieve-Vrouwstraat, Leuven",33102 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32103 
+50.881145,4.690662,"Brusselsestraat, Leuven",31104 
+50.879555,4.69171,"Wagenweg, Leuven",31408 
+50.86728,4.74195,"Tiensesteenweg, Leuven",36219 
+50.883957,4.693696,"Balsembloemhof, Leuven",31206 
+50.879055,4.7104,"Mussenstraat, Leuven",34251 
+50.87154,4.712595,"Leon Schreursvest, Leuven",36202 
+50.88389,4.705425,"Jan-Pieter Minckelersstraat, Leuven",32217 
+50.880279,4.701203,"Ferdinand Smoldersplein, Leuven",32101 
+50.8757,4.71507,"Tiensevest, Leuven",36222 
+50.884554,4.702943,"Sint-Maartenstraat, Leuven",32220 
+50.8812,4.703124,"Rijschoolstraat, Leuven",32106 
+50.873465,4.71981,"Martelarenlaan, Leuven",36223 
+50.883644,4.697601,"Halvestraat, Leuven",31216 
+50.880279,4.701203,"Ferdinand Smoldersplein, Leuven",32102 
+50.8794,4.71203,"Justus Lipsiusstraat, Leuven",34121 
+50.879402,4.705991,"Vital Decosterstraat, Leuven",32234 
+50.884524,4.715125,"Diestsesteenweg, Leuven",35205 
+50.873465,4.71981,"Martelarenlaan, Leuven",36224 
+50.884554,4.702943,"Sint-Maartenstraat, Leuven",32221 
+50.879385,4.70367,"Jozef II-Straat, Leuven",34253 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37201 
+50.873967,4.709927,"Gildenstraat, Leuven",34222 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37202 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37203 
+50.87997,4.69157,"Sint-Jacobsplein, Leuven",31403 
+50.87997,4.69157,"Sint-Jacobsplein, Leuven",31401 
+50.86728,4.74195,"Tiensesteenweg, Leuven",36209 
+50.8812,4.703124,"Rijschoolstraat, Leuven",32105 
+50.865945,4.69613,"Naamsesteenweg, Leuven",37205 
+50.876995,4.7084,"Blijde Inkomststraat, Leuven",34237 
+50.876095,4.703079,"Charles Deberiotstraat, Leuven",34202 
+50.877445,4.70598,"Herbert Hooverplein, Leuven",34107 
+50.87084,4.71143,"Kerkhofdreef, Leuven",36104 
+50.8757,4.71507,"Tiensevest, Leuven",36220 
+50.883605,4.690175,"Brouwersstraat, Leuven",31209 
+50.880249,4.698397,"Amerikalaan, Leuven",31109 
+50.88351,4.696733,"Raoul Claesstraat, Leuven",31217 
+50.866357,4.700564,"Erasme Ruelenspark, Leuven",37209

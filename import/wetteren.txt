@@ -1,0 +1,18 @@
+51.005695,3.8819,"Korte Bergstraat, Wetteren, Belgie",WET12
+51.002705,3.880708,"Nieuwstraat, Wetteren, Belgie",WET17
+51.003784,3.882047,"Hoenderstraat, Wetteren, Belgie",WET09
+51.009915,3.899257,"Wegvoeringstraat, Wetteren, Belgie",WET04
+51.00415,3.8835,"Stationsstraat, Wetteren, Belgie",WET15
+51.00282,3.879105,"Felix Beernaertsplein, Wetteren, Belgie",WET18
+51.005985,3.88765,"Molenstraat, Wetteren, Belgie",WET01
+51.005985,3.88765,"Molenstraat, Wetteren, Belgie",WET02
+51.003835,3.891329,"Hekkerstraat, Wetteren, Belgie",WET07
+51.001892,3.882598,"Stationsplein, Wetteren, Belgie",WET13
+51.006455,3.88459,"Florimond Leirensstraat, Wetteren, Belgie",WET10
+51.006799,3.885911,"Markt, Wetteren, Belgie",WET05
+51.00415,3.8835,"Stationsstraat, Wetteren, Belgie",WET16
+51.003784,3.882047,"Hoenderstraat, Wetteren, Belgie",WET08
+51.009915,3.899257,"Wegvoeringstraat, Wetteren, Belgie",WET03
+51.00415,3.8835,"Stationsstraat, Wetteren, Belgie",WET14
+51.005695,3.8819,"Korte Bergstraat, Wetteren, Belgie",WET11
+51.006799,3.885911,"Markt, Wetteren, Belgie",WET0

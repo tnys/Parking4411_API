@@ -1,0 +1,38 @@
+50.811196,4.9314,"Kliniekstraat, Tienen",TIE37 
+50.806451,4.940238,"Hennemarkt, Tienen",TIE16 
+50.809244,4.935956,"Oude Vestenstraat, Tienen",TIE916
+50.80787,4.93883,"Alexianenweg, Tienen",TIE905
+51.75,5.5167,"Grote Bergstraat, Tienen",TIE31 
+50.809716,4.931059,"Oude Leuvensestraat, Tienen",TIE32 
+50.808205,4.93806,"Gilainstraat, Tienen",TIE908
+50.809244,4.935956,"Oude Vestenstraat, Tienen",TIE07 
+50.805436,4.939565,"Wolmarkt, Tienen",TIE913
+50.809716,4.931059,"Oude Leuvensestraat, Tienen",TIE33 
+50.806522,4.937554,"Peperstraat, Tienen",TIE38 
+50.808205,4.93806,"Gilainstraat, Tienen",TIE909
+50.80703,4.94159,"Onze-Lieve-Vrouw Broedersstraat, Tienen",TIE917
+50.846668,4.35209,"Grote Markt, Tienen",TIE20 
+50.804819,4.94205,"Beauduinstraat, Tienen",TIE04 
+50.808205,4.93806,"Gilainstraat, Tienen",TIE910
+50.804815,4.9424,"Kapucijnenplein, Tienen",TIE05 
+50.846668,4.35209,"Grote Markt, Tienen",TIE901
+50.804819,4.94205,"Beauduinstraat, Tienen",TIE914
+50.806904,4.938891,"Nieuwstraat, Tienen",TIE906
+50.808205,4.93806,"Gilainstraat, Tienen",TIE911
+50.80382,4.9392,"Torsinplein, Tienen",TIE918
+50.80786,4.93962,"Academiestraat, Tienen",TIE21 
+50.80407,4.938331,"Minderbroedersstraat, Tienen",TIE28 
+50.806904,4.938891,"Nieuwstraat, Tienen",TIE907
+50.808205,4.93806,"Gilainstraat, Tienen",TIE912
+52.881908,9.7293,"Vierde Lansierslaan, Tienen",TIE915
+50.80382,4.9392,"Torsinplein, Tienen",TIE29 
+50.80553,4.940257,"Veemarkt, Tienen",TIE902
+50.80407,4.938331,"Minderbroedersstraat, Tienen",TIE27 
+50.809716,4.931059,"Leuvensestraat, Tienen",TIE14 
+50.808835,4.93093,"Violetstraat, Tienen",TIE35 
+50.80407,4.938331,"Minderbroedersstraat, Tienen",TIE919
+50.80787,4.93883,"Alexianenweg, Tienen",TIE903
+50.811196,4.9314,"Kliniekstraat, Tienen",TIE36 
+50.809716,4.931059,"Leuvensestraat, Tienen",TIE19 
+50.807621,4.934276,"Dokter J. Geensstraat, Tienen",TIE26 
+50.80787,4.93883,"Alexianenweg, Tienen",TIE90

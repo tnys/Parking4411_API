@@ -1,0 +1,69 @@
+50.814114,5.188452,"Luikerstraat, Sint-Truiden",STR107 
+50.818729,5.187244,"Gasthuisstraat, Sint-Truiden",STR248 
+50.815243,5.183176,"Stapelstraat, Sint-Truiden",STR112 
+50.815777,5.185935,"Grote Markt, Sint-Truiden",STR111 
+50.813855,5.184621,"Clockemstraat, Sint-Truiden",STR116 
+50.818895,5.184765,"Sint-Apolloniastraat, Sint-Truiden",STR205 
+50.818575,5.18382,"Sint-Gangulfusplein, Sint-Truiden",STR202 
+50.8188,5.1879,"Abdijstraat, Sint-Truiden",STR209 
+50.816144,5.190631,"Schepen Dejonghstraat, Sint-Truiden",STR216 
+50.815563,5.189532,"Ridderstraat, Sint-Truiden",STR213 
+50.814058,5.190408,"Tichelrijlaan, Sint-Truiden",STR220 
+50.813879,5.187612,"Minderbroedersstraat, Sint-Truiden",STR227 
+50.814017,5.180317,"Spaansebrugstraat, Sint-Truiden",STR234 
+50.81296,5.18481,"Naamsevest, Sint-Truiden",STR231 
+50.818112,5.181285,"Rijschoolstraat, Sint-Truiden",STR238 
+50.815175,5.18379,"Beekstraat, Sint-Truiden",STR245 
+50.815777,5.185935,"Grote Markt, Sint-Truiden",STR104 
+50.81642,5.182839,"Breendonkstraat, Sint-Truiden",STR242 
+50.813627,5.186539,"Capucienessenstraat, Sint-Truiden",STR303 
+50.818539,5.182467,"Diesterstraat, Sint-Truiden",STR101 
+50.815777,5.185935,"Grote Markt, Sint-Truiden",STR108 
+50.81574,5.182714,"Sint-Martenplein, Sint-Truiden",STR113 
+50.814059,5.185299,"Minderbroedersplein, Sint-Truiden",STR117 
+50.818435,5.187168,"Sint-Trudostraat, Sint-Truiden",STR206 
+50.816144,5.190631,"Schepen Dejonghstraat, Sint-Truiden",STR224 
+50.818575,5.18382,"Sint-Gangulfusplein, Sint-Truiden",STR203 
+50.818321,5.190065,"Clement Cartuyvelsstraat, Sint-Truiden",STR210 
+50.817223,5.189558,"Houtmarkt, Sint-Truiden",STR217 
+50.814058,5.190408,"Tichelrijlaan, Sint-Truiden",STR221 
+50.81296,5.18481,"Naamsevest, Sint-Truiden",STR228 
+50.814497,5.168123,"Tiensesteenweg, Sint-Truiden",STR235 
+50.814017,5.180317,"Spaansebrugstraat, Sint-Truiden",STR232 
+50.816114,5.180748,"Kazernevest, Sint-Truiden",STR239 
+50.815175,5.18379,"Beekstraat, Sint-Truiden",STR246 
+50.815777,5.185935,"Grote Markt, Sint-Truiden",STR105 
+50.81642,5.182839,"Breendonkstraat, Sint-Truiden",STR243 
+50.816156,5.181966,"Kazernestraat, Sint-Truiden",STR247 
+50.815777,5.185935,"Grote Markt, Sint-Truiden",STR109 
+50.81574,5.182714,"Sint-Martenplein, Sint-Truiden",STR114 
+50.814059,5.185299,"Minderbroedersplein, Sint-Truiden",STR118 
+50.818729,5.187244,"Gasthuisstraat, Sint-Truiden",STR207 
+50.815563,5.189532,"Ridderstraat, Sint-Truiden",STR214 
+50.818321,5.190065,"Clement Cartuyvelsstraat, Sint-Truiden",STR211 
+50.817141,5.191931,"Tichelrijstraat, Sint-Truiden",STR218 
+50.81296,5.18481,"Naamsevest, Sint-Truiden",STR225 
+50.814058,5.190408,"Tichelrijlaan, Sint-Truiden",STR222 
+50.81296,5.18481,"Naamsevest, Sint-Truiden",STR229 
+50.81462,5.181802,"Gootstraat, Sint-Truiden",STR236 
+50.814017,5.180317,"Spaansebrugstraat, Sint-Truiden",STR233 
+50.818539,5.182467,"Diesterstraat, Sint-Truiden",STR102 
+50.818112,5.181285,"Rijschoolstraat, Sint-Truiden",STR240 
+50.812732,5.189974,"Casinostraat, Sint-Truiden",STR301 
+50.814114,5.188452,"Luikerstraat, Sint-Truiden",STR106 
+50.815777,5.185935,"Grote Markt, Sint-Truiden",STR110 
+50.815243,5.183176,"Stapelstraat, Sint-Truiden",STR115 
+50.81892,5.184175,"Adelardusstraat, Sint-Truiden",STR204 
+50.81636,5.189387,"Hamelstraat, Sint-Truiden",STR215 
+50.818539,5.182467,"Diesterstraat, Sint-Truiden",STR201 
+50.8188,5.1879,"Abdijstraat, Sint-Truiden",STR208 
+50.816414,5.188208,"Plankstraat, Sint-Truiden",STR212 
+50.817253,5.190791,"Nieuwpoort, Sint-Truiden",STR219 
+50.813627,5.186539,"Capucienessenstraat, Sint-Truiden",STR226 
+50.816144,5.190631,"Schepen Dejonghstraat, Sint-Truiden",STR223 
+50.81296,5.18481,"Naamsevest, Sint-Truiden",STR230 
+50.816156,5.181966,"Kazernestraat, Sint-Truiden",STR237 
+50.817072,5.182601,"Zoutstraat, Sint-Truiden",STR244 
+50.817072,5.182601,"Zoutstraat, Sint-Truiden",STR103 
+50.817072,5.182601,"Zoutstraat, Sint-Truiden",STR241 
+50.812732,5.189974,"Casinostraat, Sint-Truiden",STR302

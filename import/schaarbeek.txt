@@ -1,0 +1,712 @@
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH047 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH084 
+50.84867,4.401375,"Avenue de Roodebeek, Schaarbeek",SCH174 
+50.871635,4.3762,"Place Eugene Verboekhoven, Schaarbeek",SCH568 
+50.852605,4.38153,"Rue Verbist, Schaarbeek",SCH554 
+50.85631,4.392085,"Place de la Patrie, Schaarbeek",SCH136 
+50.878055,4.38114,"Place Princesse Elisabeth, Schaarbeek",SCH389 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH375 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH048 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH361 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH469 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH085 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH455 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH441 
+50.86429,4.37082,"Rue de la Poste, Schaarbeek",SCH688 
+50.85631,4.392085,"Place de la Patrie, Schaarbeek",SCH137 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH674 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH086 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH569 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH555 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH541 
+50.85795,4.38485,"Place des Bienfaiteurs, Schaarbeek",SCH138 
+50.878055,4.38114,"Place Princesse Elisabeth, Schaarbeek",SCH390 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH376 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH362 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH470 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH087 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH456 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH442 
+50.86429,4.37082,"Rue de la Poste, Schaarbeek",SCH689 
+50.85795,4.38485,"Place des Bienfaiteurs, Schaarbeek",SCH139 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH675 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH661 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH088 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH570 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH556 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH542 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH164 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH377 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH363 
+50.870585,4.373715,"Rue Van Oost, Schaarbeek",SCH457 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH089 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH443 
+50.86429,4.37082,"Rue de la Poste, Schaarbeek",SCH690 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH676 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH165 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH662 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH090 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH120 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH557 
+50.863145,4.378745,"Rue Edouard Fiers, Schaarbeek",SCH543 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH166 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH378 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH364 
+50.870585,4.373715,"Rue Van Oost, Schaarbeek",SCH458 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH091 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH444 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH121 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH677 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH663 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH167 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH109 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH558 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH122 
+50.863145,4.378745,"Rue Edouard Fiers, Schaarbeek",SCH544 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH379 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH365 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH351 
+50.870585,4.373715,"Rue Van Oost, Schaarbeek",SCH459 
+50.868145,4.369055,"Rue de Moerkerke, Schaarbeek",SCH445 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH123 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH678 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH664 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH559 
+50.863145,4.378745,"Rue Edouard Fiers, Schaarbeek",SCH545 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH124 
+50.86697,4.37749,"Rue de Jerusalem, Schaarbeek",SCH290 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH380 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH366 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH352 
+50.870585,4.373715,"Rue Van Oost, Schaarbeek",SCH460 
+50.868145,4.369055,"Rue de Moerkerke, Schaarbeek",SCH446 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH125 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH679 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH665 
+50.86697,4.37749,"Rue de Jerusalem, Schaarbeek",SCH291 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH651 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH560 
+50.853504,4.379653,"Rue Andre Van Hasselt, Schaarbeek",SCH546 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH126 
+50.86697,4.37749,"Rue de Jerusalem, Schaarbeek",SCH292 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH367 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH353 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH447 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH680 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH127 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH666 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH652 
+50.86697,4.37749,"Rue de Jerusalem, Schaarbeek",SCH293 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH002 
+50.853504,4.379653,"Rue Andre Van Hasselt, Schaarbeek",SCH547 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH128 
+50.86697,4.37749,"Rue de Jerusalem, Schaarbeek",SCH294 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH368 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH354 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH448 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH003 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH667 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH129 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH653 
+50.855749,4.38356,"Place Colonel Bremer, Schaarbeek",SCH140 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH006 
+50.853715,4.380695,"Rue Gustave Fuss, Schaarbeek",SCH548 
+50.868,4.374935,"Boulevard Albert II, Schaarbeek",SCH099 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH369 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH355 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH449 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH007 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH668 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH654 
+50.868,4.374935,"Boulevard Albert II, Schaarbeek",SCH100 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH225 
+50.853715,4.380695,"Rue Gustave Fuss, Schaarbeek",SCH549 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH009 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH370 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH215 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH356 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH450 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH226 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH010 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH669 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH655 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH641 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH216 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH227 
+50.853715,4.380695,"Rue Gustave Fuss, Schaarbeek",SCH550 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH011 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH357 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH228 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH012 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH670 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH656 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH141 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH642 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH229 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH064 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH142 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH358 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH343 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH230 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH065 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH657 
+50.852133,4.387864,"Place Dailly, Schaarbeek",SCH074 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH643 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH231 
+50.868636,4.389859,"Avenue Docteur Dejase, Schaarbeek",SCH184 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH359 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH276 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH345 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH232 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH073 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH658 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH644 
+50.868636,4.389859,"Avenue Docteur Dejase, Schaarbeek",SCH185 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH277 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH233 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH101 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH360 
+50.868636,4.389859,"Avenue Docteur Dejase, Schaarbeek",SCH186 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH346 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH070 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH234 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH102 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH659 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH645 
+50.868636,4.389859,"Avenue Docteur Dejase, Schaarbeek",SCH187 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH196 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH103 
+50.866745,4.378775,"Rue Ernest Laude, Schaarbeek",SCH190 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH347 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH197 
+50.86049,4.36899,"Rue de la Constitution, Schaarbeek",SCH243 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH104 
+50.85221,4.408305,"Rue Colonel Bourg, Schaarbeek",SCH660 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH646 
+50.866745,4.378775,"Rue Ernest Laude, Schaarbeek",SCH191 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH198 
+50.86049,4.36899,"Rue de la Constitution, Schaarbeek",SCH244 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH105 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH348 
+50.851211,4.396143,"Square Eugene Plasky, Schaarbeek",SCH028 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH199 
+50.863725,4.365105,"Rue de Potter, Schaarbeek",SCH431 
+50.86049,4.36899,"Rue de la Constitution, Schaarbeek",SCH245 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH106 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH647 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH200 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH020 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH531 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH145 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH107 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH318 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH349 
+50.863725,4.365105,"Rue de Potter, Schaarbeek",SCH432 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH201 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH021 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH146 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH631 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH648 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH108 
+50.864685,4.36684,"Place Liedts, Schaarbeek",SCH018 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH202 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH022 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH532 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH147 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH195 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH350 
+50.864685,4.36684,"Place Liedts, Schaarbeek",SCH069 
+50.864416,4.365194,"Rue Liedts, Schaarbeek",SCH433 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH072 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH148 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH632 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH649 
+50.864685,4.36684,"Place Liedts, Schaarbeek",SCH071 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH533 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH295 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH149 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH342 
+50.864685,4.36684,"Place Liedts, Schaarbeek",SCH095 
+50.864416,4.365194,"Rue Liedts, Schaarbeek",SCH434 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH296 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH150 
+50.86403,4.373275,"Rue Hancart, Schaarbeek",SCH251 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH633 
+50.85323,4.391495,"Avenue du Diamant, Schaarbeek",SCH650 
+50.844145,4.39944,"Rue de Linthout, Schaarbeek",SCH178 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH534 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH297 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH151 
+50.86403,4.373275,"Rue Hancart, Schaarbeek",SCH252 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH435 
+50.844145,4.39944,"Rue de Linthout, Schaarbeek",SCH179 
+50.85936,4.364365,"Rue Linne, Schaarbeek",SCH421 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH152 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH634 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH031 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH278 
+50.844145,4.39944,"Rue de Linthout, Schaarbeek",SCH180 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH535 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH266 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH521 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH153 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH032 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH279 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH436 
+50.859555,4.36351,"Rue des Plantes, Schaarbeek",SCH422 
+50.844145,4.39944,"Rue de Linthout, Schaarbeek",SCH181 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH267 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH154 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH635 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH033 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH621 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH280 
+50.844145,4.39944,"Rue de Linthout, Schaarbeek",SCH182 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH536 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH268 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH522 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH034 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH281 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH437 
+50.860295,4.36367,"Rue de la Fraternite, Schaarbeek",SCH423 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH269 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH636 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH622 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH035 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH282 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH329 
+50.86328,4.3773,"Rue Kessels, Schaarbeek",SCH537 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH523 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH270 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH036 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH283 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH438 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH330 
+50.860295,4.36367,"Rue de la Fraternite, Schaarbeek",SCH424 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH271 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH637 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH623 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH037 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH284 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH331 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH538 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH524 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH272 
+50.84867,4.401375,"Avenue de Roodebeek, Schaarbeek",SCH175 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH439 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH285 
+50.860988,4.364897,"Rue de Quatrecht, Schaarbeek",SCH425 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH332 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH411 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH050 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH273 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH638 
+50.84867,4.401375,"Avenue de Roodebeek, Schaarbeek",SCH176 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH624 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH286 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH333 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH094 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH539 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH525 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH511 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH274 
+50.84867,4.401375,"Avenue de Roodebeek, Schaarbeek",SCH177 
+50.870224,4.370395,"Rue Vanderlinden, Schaarbeek",SCH440 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH287 
+50.860988,4.364897,"Rue de Quatrecht, Schaarbeek",SCH426 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH334 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH412 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH075 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH275 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH639 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH625 
+50.86033,4.357635,"Place Solvay, Schaarbeek",SCH052 
+50.853115,4.381445,"Rue Thomas Vincotte, Schaarbeek",SCH611 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH335 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH540 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH076 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH526 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH512 
+50.86033,4.357635,"Place Solvay, Schaarbeek",SCH053 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH427 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH413 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH336 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH077 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH640 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH626 
+50.868636,4.389859,"Place Terdelt, Schaarbeek",SCH188 
+50.853115,4.381445,"Rue Thomas Vincotte, Schaarbeek",SCH612 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH337 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH078 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH527 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH513 
+50.868636,4.389859,"Place Terdelt, Schaarbeek",SCH189 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH428 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH414 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH338 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH079 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH627 
+50.853115,4.381445,"Rue Thomas Vincotte, Schaarbeek",SCH613 
+50.856805,4.376075,"Rue de la Consolation, Schaarbeek",SCH192 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH168 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH528 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH080 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH514 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH110 
+50.85631,4.392085,"Place de la Patrie, Schaarbeek",SCH132 
+50.863093,4.364696,"Rue d Hoogvorst, Schaarbeek",SCH429 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH169 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH415 
+50.86429,4.37082,"Rue de la Poste, Schaarbeek",SCH401 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH081 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH111 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH628 
+50.853115,4.381445,"Rue Thomas Vincotte, Schaarbeek",SCH614 
+50.85631,4.392085,"Place de la Patrie, Schaarbeek",SCH133 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH170 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH529 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH082 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH515 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH501 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH112 
+50.863093,4.364696,"Rue d Hoogvorst, Schaarbeek",SCH430 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH416 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH171 
+50.86429,4.37082,"Rue de la Poste, Schaarbeek",SCH402 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH629 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH113 
+50.853115,4.381445,"Rue Thomas Vincotte, Schaarbeek",SCH615 
+50.858955,4.37246,"Rue Seutin, Schaarbeek",SCH601 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH172 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH530 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH516 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH502 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH114 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH339 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH417 
+50.862105,4.37922,"Rue des Coteaux, Schaarbeek",SCH173 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH403 
+50.85314,4.397325,"Avenue Eugene Plasky, Schaarbeek",SCH630 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH115 
+50.853115,4.381445,"Rue Thomas Vincotte, Schaarbeek",SCH616 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH340 
+50.858955,4.37246,"Rue Seutin, Schaarbeek",SCH602 
+50.859065,4.379175,"Square Emile Duploye, Schaarbeek",SCH194 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH517 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH503 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH116 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH341 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH418 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH404 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH117 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH617 
+50.858955,4.37246,"Rue Seutin, Schaarbeek",SCH603 
+50.86548,4.378135,"Place de Houffalize, Schaarbeek",SCH019 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH518 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH060 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH504 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH118 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH096 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH419 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH405 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH061 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH618 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH119 
+50.858595,4.371595,"Rue L Olivier, Schaarbeek",SCH604 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH097 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH519 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH505 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH098 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH491 
+50.855665,4.403785,"Rue Jules Lebrun, Schaarbeek",SCH319 
+50.862713,4.366235,"Rue Verte, Schaarbeek",SCH420 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH406 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH222 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH619 
+50.858595,4.371595,"Rue L Olivier, Schaarbeek",SCH605 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH591 
+50.855665,4.403785,"Rue Jules Lebrun, Schaarbeek",SCH320 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH217 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH520 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH506 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH223 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH492 
+50.855665,4.403785,"Rue Jules Lebrun, Schaarbeek",SCH321 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH711 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH407 
+50.855375,4.376915,"Rue Vonck, Schaarbeek",SCH393 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH218 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH224 
+50.87714,4.38157,"Avenue Huart Hamoir, Schaarbeek",SCH620 
+50.858595,4.371595,"Rue L Olivier, Schaarbeek",SCH606 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH592 
+50.855665,4.403785,"Rue Jules Lebrun, Schaarbeek",SCH322 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH219 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH507 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH493 
+50.872145,4.392255,"Square Apollo, Schaarbeek",SCH049 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH712 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH408 
+50.855375,4.376915,"Rue Vonck, Schaarbeek",SCH394 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH220 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH092 
+50.8577,4.371581,"Rue Van Dyck, Schaarbeek",SCH607 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH593 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH066 
+50.869325,4.36241,"Avenue de la Reine, Schaarbeek",SCH221 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH508 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH494 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH093 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH067 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH409 
+50.855825,4.376075,"Rue Verboeckhaven, Schaarbeek",SCH395 
+50.859404,4.369121,"Place de la Reine, Schaarbeek",SCH023 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH001 
+50.8577,4.371581,"Rue Van Dyck, Schaarbeek",SCH608 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH594 
+50.863685,4.36622,"Rue de Brabant, Schaarbeek",SCH068 
+50.859404,4.369121,"Place de la Reine, Schaarbeek",SCH024 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH509 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH495 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH481 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH143 
+50.85965,4.36315,"Rue Dupont, Schaarbeek",SCH410 
+50.855825,4.376075,"Rue Verboeckhaven, Schaarbeek",SCH396 
+50.859404,4.369121,"Place de la Reine, Schaarbeek",SCH025 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH235 
+50.8577,4.371581,"Rue Van Dyck, Schaarbeek",SCH609 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH595 
+50.857315,4.376705,"Rue Roelandts, Schaarbeek",SCH581 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH144 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH213 
+50.87346,4.373595,"Rue Francois-Joseph Navez, Schaarbeek",SCH510 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH496 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH482 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH236 
+50.86812,4.3737,"Place Colignon, Schaarbeek",SCH015 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH701 
+50.855825,4.376075,"Rue Verboeckhaven, Schaarbeek",SCH397 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH214 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH237 
+50.858263,4.369239,"Rue de Beughem, Schaarbeek",SCH610 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH596 
+50.857299,4.371324,"Rue Philomene, Schaarbeek",SCH582 
+50.86812,4.3737,"Place Colignon, Schaarbeek",SCH016 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH497 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH483 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH238 
+50.86812,4.3737,"Place Colignon, Schaarbeek",SCH017 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH702 
+50.855825,4.376075,"Rue Verboeckhaven, Schaarbeek",SCH398 
+50.851211,4.396143,"Square Eugene Plasky, Schaarbeek",SCH029 
+50.86645,4.372935,"Rue Royale Sainte-Marie, Schaarbeek",SCH239 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH597 
+50.857299,4.371324,"Rue Philomene, Schaarbeek",SCH583 
+50.86812,4.3737,"Place Colignon, Schaarbeek",SCH240 
+50.851211,4.396143,"Square Eugene Plasky, Schaarbeek",SCH030 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH498 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH484 
+50.860988,4.364897,"Rue de Quatrecht, Schaarbeek",SCH008 
+50.86812,4.3737,"Place Colignon, Schaarbeek",SCH241 
+50.856325,4.37387,"Rue Potagere, Schaarbeek",SCH399 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH703 
+50.86442,4.373495,"Rue Francois Degreef, Schaarbeek",SCH253 
+50.860988,4.364897,"Rue de Quatrecht, Schaarbeek",SCH062 
+50.858893,4.377711,"Rue Thiefry, Schaarbeek",SCH598 
+50.857299,4.371324,"Rue Philomene, Schaarbeek",SCH584 
+50.86442,4.373495,"Rue Francois Degreef, Schaarbeek",SCH254 
+50.878055,4.38114,"Place Princesse Elisabeth, Schaarbeek",SCH391 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH499 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH203 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH485 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH471 
+50.860988,4.364897,"Rue de Quatrecht, Schaarbeek",SCH063 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH308 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH704 
+50.856325,4.37387,"Rue Potagere, Schaarbeek",SCH400 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH013 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH204 
+50.858955,4.37246,"Rue Seutin, Schaarbeek",SCH599 
+50.864615,4.37101,"Place Lehon, Schaarbeek",SCH255 
+50.857299,4.371324,"Rue Philomene, Schaarbeek",SCH585 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH054 
+50.856805,4.376075,"Rue de la Consolation, Schaarbeek",SCH571 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH309 
+50.878055,4.38114,"Place Princesse Elisabeth, Schaarbeek",SCH392 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH500 
+50.869225,4.37104,"Rue Gallait, Schaarbeek",SCH014 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH486 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH205 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH472 
+50.864615,4.37101,"Place Lehon, Schaarbeek",SCH256 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH055 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH310 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH705 
+50.871095,4.37158,"Rue Joseph Jacquet, Schaarbeek",SCH691 
+50.85517,4.397919,"Place General Meiser, Schaarbeek",SCH026 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH206 
+50.858955,4.37246,"Rue Seutin, Schaarbeek",SCH600 
+50.857299,4.371324,"Rue Philomene, Schaarbeek",SCH586 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH056 
+50.856805,4.376075,"Rue de la Consolation, Schaarbeek",SCH572 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH311 
+50.85517,4.397919,"Place General Meiser, Schaarbeek",SCH027 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH487 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH207 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH473 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH298 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH057 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH706 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH312 
+50.871095,4.37158,"Rue Joseph Jacquet, Schaarbeek",SCH692 
+50.85517,4.397919,"Place General Meiser, Schaarbeek",SCH051 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH208 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH299 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH587 
+50.856805,4.376075,"Rue de la Consolation, Schaarbeek",SCH573 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH058 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH313 
+50.86049,4.36899,"Rue de la Constitution, Schaarbeek",SCH242 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH488 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH209 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH474 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH300 
+50.865185,4.364675,"Rue d Aerschot, Schaarbeek",SCH059 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH707 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH314 
+50.87075,4.37054,"Rue James Watt, Schaarbeek",SCH693 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH210 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH301 
+50.85695,4.374435,"Rue Massaux, Schaarbeek",SCH588 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH155 
+50.856805,4.376075,"Rue de la Consolation, Schaarbeek",SCH574 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH315 
+50.844145,4.39944,"Rue de Linthout, Schaarbeek",SCH183 
+50.878621,4.381975,"Avenue Georges Rodenbach, Schaarbeek",SCH381 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH489 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH475 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH211 
+50.870585,4.373715,"Rue Van Oost, Schaarbeek",SCH461 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH302 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH156 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH708 
+50.87075,4.37054,"Rue James Watt, Schaarbeek",SCH694 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH316 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH257 
+50.87,4.36495,"Rue des Palais, Schaarbeek",SCH212 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH303 
+50.85762,4.37457,"Rue Geefs, Schaarbeek",SCH589 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH157 
+50.856805,4.376075,"Rue de la Consolation, Schaarbeek",SCH575 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH561 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH317 
+50.878621,4.381975,"Avenue Georges Rodenbach, Schaarbeek",SCH382 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH490 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH258 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH476 
+50.870585,4.373715,"Rue Van Oost, Schaarbeek",SCH462 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH304 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH158 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH709 
+50.87075,4.37054,"Rue James Watt, Schaarbeek",SCH695 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH681 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH259 
+50.85762,4.37457,"Rue Geefs, Schaarbeek",SCH590 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH305 
+50.85733,4.378047,"Rue Van Hove, Schaarbeek",SCH576 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH159 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH040 
+50.858605,4.36569,"Rue de la Chaumiere, Schaarbeek",SCH562 
+50.878621,4.381975,"Avenue Georges Rodenbach, Schaarbeek",SCH383 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH260 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH477 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH463 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH306 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH160 
+50.85408,4.39964,"Boulevard Auguste Reyers, Schaarbeek",SCH710 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH041 
+50.871051,4.36972,"Place Stephenson, Schaarbeek",SCH696 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH682 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH261 
+50.86628,4.375175,"Chaussee de Haecht, Schaarbeek",SCH307 
+50.85733,4.378047,"Rue Van Hove, Schaarbeek",SCH577 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH161 
+50.858605,4.36569,"Rue de la Chaumiere, Schaarbeek",SCH563 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH042 
+50.878621,4.381975,"Avenue Georges Rodenbach, Schaarbeek",SCH384 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH262 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH478 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH464 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH130 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH162 
+50.871051,4.36972,"Place Stephenson, Schaarbeek",SCH697 
+50.875755,4.392085,"Chaussee de Helmet, Schaarbeek",SCH043 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH683 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH288 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH263 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH131 
+50.85733,4.378047,"Rue Van Hove, Schaarbeek",SCH578 
+50.858605,4.36569,"Rue de la Chaumiere, Schaarbeek",SCH564 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH163 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH323 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH289 
+50.878621,4.381975,"Avenue Georges Rodenbach, Schaarbeek",SCH385 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH371 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH479 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH264 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH465 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH004 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH451 
+50.854065,4.37776,"Avenue Paul Deschanel, Schaarbeek",SCH193 
+50.871051,4.36972,"Place Stephenson, Schaarbeek",SCH698 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH324 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH684 
+50.86252,4.376195,"Rue Josaphat, Schaarbeek",SCH344 
+50.8649,4.38158,"Avenue Louis Bertrand, Schaarbeek",SCH265 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH005 
+50.857315,4.376705,"Rue Roelandts, Schaarbeek",SCH579 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH565 
+50.852105,4.382645,"Rue de la Cible, Schaarbeek",SCH551 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH325 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH038 
+50.878621,4.381975,"Avenue Georges Rodenbach, Schaarbeek",SCH386 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH372 
+50.869865,4.375945,"Avenue Voltaire, Schaarbeek",SCH480 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH466 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH452 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH246 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH699 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH685 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH326 
+50.871051,4.36972,"Rue Stephenson, Schaarbeek",SCH671 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH039 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH247 
+50.857315,4.376705,"Rue Roelandts, Schaarbeek",SCH580 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH566 
+50.852105,4.382645,"Rue de la Cible, Schaarbeek",SCH552 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH327 
+50.878055,4.38114,"Place Princesse Elisabeth, Schaarbeek",SCH387 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH044 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH373 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH467 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH453 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH248 
+50.858487,4.380847,"Avenue Dailly, Schaarbeek",SCH700 
+50.86008,4.391765,"Avenue Chazal, Schaarbeek",SCH686 
+50.854698,4.402871,"Rue Henri Evenepoel, Schaarbeek",SCH328 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH672 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH045 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH249 
+50.851595,4.384655,"Chaussee de Louvain, Schaarbeek",SCH567 
+50.85631,4.392085,"Place de la Patrie, Schaarbeek",SCH134 
+50.852605,4.38153,"Rue Verbist, Schaarbeek",SCH553 
+50.878055,4.38114,"Place Princesse Elisabeth, Schaarbeek",SCH388 
+50.872145,4.392255,"Rue Richard Vandevelde, Schaarbeek",SCH046 
+50.876535,4.37886,"Avenue Princesse Elisabeth, Schaarbeek",SCH374 
+50.871071,4.377646,"Rue Waelhem, Schaarbeek",SCH468 
+50.859065,4.379175,"Avenue Rogier, Schaarbeek",SCH083 
+50.868701,4.365841,"Rue du Pavillon, Schaarbeek",SCH454 
+50.86238,4.364225,"Rue Rogier, Schaarbeek",SCH250 
+50.85631,4.392085,"Place de la Patrie, Schaarbeek",SCH135 
+50.86429,4.37082,"Rue de la Poste, Schaarbeek",SCH687 
+50.870184,4.368821,"Rue Van Schoor, Schaarbeek",SCH673

@@ -1,0 +1,104 @@
+50.58924,5.857315,"Rue du Palais, Verviers",VER031
+50.59192,5.86428,"Rue Laoureux, Verviers",VER091
+50.59193,5.855345,"Pont du Chene, Verviers",VER010
+50.591767,5.859451,"Rue Xhavee, Verviers",VER070
+50.591415,5.857965,"Rue Chapuis, Verviers",VER049
+50.58683,5.85441,"Rue de Bruxelles, Verviers",VER039
+50.59193,5.855345,"Pont du Chene, Verviers",VER099
+50.58466,5.84952,"Rue d Ensival, Verviers",VER018
+50.595466,5.842111,"Rue de Hodimont, Verviers",VER055
+50.59175,5.862845,"Rue des Martyrs, Verviers",VER078
+50.588515,5.858325,"Rue des Minieres, Verviers",VER045
+50.591767,5.859451,"Rue Spintay, Verviers",VER057
+50.58924,5.857315,"Rue du Palais, Verviers",VER024
+50.594405,5.864235,"Rue du College, Verviers",VER084
+50.58924,5.857315,"Rue du Palais, Verviers",VER026
+50.59283,5.866485,"Crapaurue, Verviers",VER063
+50.593261,5.860508,"Place du Martyr, Verviers",VER003
+50.592296,5.856316,"Rue Henri Hurard, Verviers",VER086
+50.58924,5.857315,"Rue du Palais, Verviers",VER032
+50.59192,5.86428,"Rue Laoureux, Verviers",VER092
+50.592409,5.858954,"Rue du Brou, Verviers",VER011
+50.5933,5.86749,"Place du Marche, Verviers",VER071
+50.591415,5.857965,"Rue Chapuis, Verviers",VER050
+50.58683,5.85441,"Rue de Bruxelles, Verviers",VER040
+50.592295,5.86616,"Rue des Carmes, Verviers",VER100
+50.58466,5.84952,"Rue d Ensival, Verviers",VER019
+50.59175,5.862845,"Rue des Martyrs, Verviers",VER079
+50.589885,5.85705,"Rue du Theatre, Verviers",VER058
+50.590935,5.861825,"Rue de Rome, Verviers",VER025
+50.592296,5.856316,"Rue Henri Hurard, Verviers",VER085
+50.58924,5.857315,"Rue du Palais, Verviers",VER027
+50.59283,5.866485,"Crapaurue, Verviers",VER064
+50.591767,5.859451,"Quai des Macons, Verviers",VER004
+50.594405,5.864235,"Rue du College, Verviers",VER087
+50.593249,5.858892,"Rue du Marteau, Verviers",VER006
+50.59283,5.866485,"Crapaurue, Verviers",VER066
+50.58924,5.857315,"Rue du Palais, Verviers",VER033
+50.59192,5.86428,"Rue Laoureux, Verviers",VER093
+50.591,5.85732,"Rue Jardon, Verviers",VER012
+50.58924,5.857315,"Rue du Palais, Verviers",VER072
+50.6155,5.841835,"Rue des Jardins, Verviers",VER051
+50.58683,5.85441,"Rue de Bruxelles, Verviers",VER041
+50.592295,5.86616,"Rue des Carmes, Verviers",VER101
+50.58466,5.84952,"Rue d Ensival, Verviers",VER020
+50.590935,5.861825,"Rue de Rome, Verviers",VER080
+50.591767,5.859451,"Rue Spintay, Verviers",VER059
+50.593249,5.858892,"Rue du Marteau, Verviers",VER005
+50.59283,5.866485,"Crapaurue, Verviers",VER065
+50.58924,5.857315,"Rue du Palais, Verviers",VER028
+50.590985,5.86402,"Rue de la Banque, Verviers",VER088
+50.590985,5.86402,"Rue de la Banque, Verviers",VER007
+50.5933,5.86749,"Place du Marche, Verviers",VER067
+50.593249,5.858892,"Rue du Marteau, Verviers",VER034
+50.590985,5.86402,"Rue de la Banque, Verviers",VER094
+50.591767,5.859451,"Rue Xhavee, Verviers",VER046
+50.594405,5.864235,"Rue du College, Verviers",VER036
+50.59428,5.865265,"Rue Ortmans-Hauzeur, Verviers",VER073
+50.591826,5.856295,"Rue de l Harmonie, Verviers",VER013
+50.59517,5.864782,"Rue des Sottais, Verviers",VER096
+50.590155,5.856738,"Rue du Manege, Verviers",VER052
+50.58683,5.85441,"Rue de Bruxelles, Verviers",VER042
+50.592295,5.86616,"Rue des Carmes, Verviers",VER102
+50.58924,5.857315,"Rue du Palais, Verviers",VER021
+50.590935,5.861825,"Rue de Rome, Verviers",VER081
+50.591767,5.859451,"Rue Spintay, Verviers",VER060
+50.58924,5.857315,"Rue du Palais, Verviers",VER029
+50.590724,5.861812,"Rue des Ploquettes, Verviers",VER089
+50.592296,5.856316,"Rue Henri Hurard, Verviers",VER008
+50.59247,5.852669,"Rue Lucien Defays, Verviers",VER068
+50.59084,5.85585,"Rue de la Concorde, Verviers",VER035
+50.590985,5.86402,"Rue de la Banque, Verviers",VER095
+50.592409,5.858954,"Rue du Brou, Verviers",VER047
+50.594405,5.864235,"Rue du College, Verviers",VER037
+50.59428,5.865265,"Rue Ortmans-Hauzeur, Verviers",VER074
+50.591767,5.859451,"Rue Xhavee, Verviers",VER014
+50.59517,5.864782,"Rue des Sottais, Verviers",VER097
+50.59084,5.85585,"Rue de la Concorde, Verviers",VER016
+50.59134,5.865461,"Rue Paul Janson, Verviers",VER076
+50.590155,5.856738,"Rue du Manege, Verviers",VER053
+50.58831,5.85718,"Rue Renkin, Verviers",VER043
+50.591345,5.8672,"Rue de Heusy, Verviers",VER103
+50.58924,5.857315,"Rue du Palais, Verviers",VER022
+50.591767,5.859451,"Rue Xhavee, Verviers",VER082
+50.594405,5.864235,"Rue du College, Verviers",VER001
+50.591767,5.859451,"Rue Spintay, Verviers",VER061
+50.58924,5.857315,"Rue du Palais, Verviers",VER030
+50.59428,5.865265,"Rue Ortmans-Hauzeur, Verviers",VER090
+50.592296,5.856316,"Rue Henri Hurard, Verviers",VER009
+50.5933,5.86749,"Place du Marche, Verviers",VER069
+50.591767,5.859451,"Rue Xhavee, Verviers",VER048
+50.59084,5.85585,"Rue de la Concorde, Verviers",VER015
+50.593261,5.860508,"Place du Martyr, Verviers",VER038
+50.59134,5.865461,"Rue Paul Janson, Verviers",VER075
+50.59517,5.864782,"Rue des Sottais, Verviers",VER098
+50.59283,5.866485,"Crapaurue, Verviers",VER017
+50.591767,5.859451,"Rue de Dison, Verviers",VER054
+50.59175,5.862845,"Rue des Martyrs, Verviers",VER077
+50.588515,5.858325,"Rue des Minieres, Verviers",VER044
+50.59247,5.852669,"Rue Lucien Defays, Verviers",VER104
+50.595466,5.842111,"Rue de Hodimont, Verviers",VER056
+50.58924,5.857315,"Rue du Palais, Verviers",VER023
+50.588932,5.855793,"Place de la Victoire, Verviers",VER083
+50.593261,5.860508,"Place du Martyr, Verviers",VER002
+50.591826,5.856295,"Rue de l Harmonie, Verviers",VER06

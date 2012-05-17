@@ -1,0 +1,17 @@
+51.214869,4.252196,"Donkvijverstraat, Beveren",BEV9
+51.216585,4.25597,"Kasteeldreef, Beveren",BEV4
+51.211248,4.251975,"Oude Zandstraat, Beveren",BEV1
+51.216013,4.251732,"Yzerhand, Beveren",BEV11
+51.211248,4.251975,"Oude Zandstraat, Beveren",BEV15
+51.213661,4.257805,"Grote Markt, Beveren",BEV7
+51.211248,4.251975,"Oude Zandstraat, Beveren",BEV16
+51.211248,4.251975,"Oude Zandstraat, Beveren",BEV14
+51.216585,4.25597,"Kasteeldreef, Beveren",BEV5
+51.213661,4.257805,"Grote Markt, Beveren",BEV8
+51.216585,4.25597,"Kasteeldreef, Beveren",BEV3
+51.211248,4.251975,"Oude Zandstraat, Beveren",BEV13
+51.216013,4.251732,"Yzerhand, Beveren",BEV10
+51.211248,4.251975,"Oude Zandstraat, Beveren",BEV17
+51.213661,4.257805,"Grote Markt, Beveren",BEV6
+51.214592,4.258864,"Kloosterstraat, Beveren",BEV2
+51.216013,4.251732,"Yzerhand, Beveren",BEV12

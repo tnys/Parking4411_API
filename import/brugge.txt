@@ -1,0 +1,149 @@
+51.211389,3.227908,"Engelsestraat, Brugge",BRG113 
+51.210675,3.228405,"Riddersstraat, Brugge",BRG170 
+51.214815,3.21653,"Ezelstraat, Brugge",BRG117 
+51.210665,3.22599,"Sint-Jansplein, Brugge",BRG173 
+51.20717,3.21538,"Lane, Brugge",BRG220 
+51.214815,3.21653,"Ezelstraat, Brugge",BRG118 
+51.210675,3.228405,"Riddersstraat, Brugge",BRG171 
+51.20717,3.21538,"Lane, Brugge",BRG221 
+51.204519,3.214551,"Sint-Maartensbilk, Brugge",BRG228 
+51.204894,3.229572,"Garenmarkt, Brugge",BRG119 
+51.20785,3.214005,"Schouwvegersstraat, Brugge",BRG227 
+51.204519,3.214551,"Sint-Maartensbilk, Brugge",BRG229 
+51.209892,3.23436,"Langestraat, Brugge",BRG503 
+51.208461,3.22131,"Geldmuntstraat, Brugge",BRG124 
+51.210905,3.22908,"Sint-Maartensplein, Brugge",BRG174 
+51.204894,3.229572,"Garenmarkt, Brugge",BRG120 
+51.209892,3.23436,"Langestraat, Brugge",BRG504 
+51.201295,3.220445,"Garsoenstraat, Brugge",BRG121 
+51.210905,3.22908,"Sint-Maartensplein, Brugge",BRG175 
+51.208461,3.22131,"Geldmuntstraat, Brugge",BRG125 
+51.209892,3.23436,"Langestraat, Brugge",BRG505 
+51.208461,3.22131,"Geldmuntstraat, Brugge",BRG122 
+51.207265,3.224445,"Sint-Niklaasstraat, Brugge",BRG176 
+51.204435,3.220145,"Goezeputstraat, Brugge",BRG126 
+51.210279,3.227834,"Sint-Walburgastraat, Brugge",BRG180 
+51.209892,3.23436,"Langestraat, Brugge",BRG506 
+51.208461,3.22131,"Geldmuntstraat, Brugge",BRG123 
+51.20307,3.220309,"Sint-Obrechtsstraat, Brugge",BRG177 
+51.204435,3.220145,"Goezeputstraat, Brugge",BRG127 
+51.20569,3.216155,"Smedenstraat, Brugge",BRG301 
+51.209892,3.23436,"Langestraat, Brugge",BRG507 
+51.206651,3.213663,"Greinschuurstraat, Brugge",BRG206 
+51.20506,3.22125,"Sint-Salvatorskerkhof, Brugge",BRG178 
+51.205397,3.213786,"Leemputstraat, Brugge",BRG222 
+51.20569,3.216155,"Smedenstraat, Brugge",BRG302 
+51.209279,3.231536,"Groenerei, Brugge",BRG128 
+51.20506,3.22125,"Sint-Salvatorskerkhof, Brugge",BRG179 
+51.202305,3.215465,"Maagdenstraat, Brugge",BRG223 
+51.20569,3.216155,"Smedenstraat, Brugge",BRG303 
+51.20728,3.213511,"Guido Gezellelaan, Brugge",BRG207 
+51.205164,3.223436,"Mariastraat, Brugge",BRG144 
+51.20728,3.213511,"Guido Gezellelaan, Brugge",BRG211 
+51.202305,3.215465,"Maagdenstraat, Brugge",BRG224 
+51.20569,3.216155,"Smedenstraat, Brugge",BRG304 
+51.20728,3.213511,"Guido Gezellelaan, Brugge",BRG208 
+51.21131,3.222745,"Naaldenstraat, Brugge",BRG145 
+51.204975,3.224,"Guido Gezelleplein, Brugge",BRG129 
+51.202305,3.215465,"Maagdenstraat, Brugge",BRG225 
+51.20569,3.216155,"Smedenstraat, Brugge",BRG305 
+51.20436,3.216666,"Hauwerstraat, Brugge",BRG212 
+51.20728,3.213511,"Guido Gezellelaan, Brugge",BRG209 
+51.20691,3.222465,"Steenstraat, Brugge",BRG181 
+51.205968,3.224322,"Nieuwstraat, Brugge",BRG146 
+51.202305,3.215465,"Maagdenstraat, Brugge",BRG226 
+51.202015,3.21517,"Van Voldenstraat, Brugge",BRG230 
+51.20436,3.216666,"Hauwerstraat, Brugge",BRG213 
+51.210465,3.231244,"Verversdijk, Brugge",BRG185 
+51.20728,3.213511,"Guido Gezellelaan, Brugge",BRG210 
+51.20691,3.222465,"Steenstraat, Brugge",BRG182 
+51.209899,3.223771,"Niklaas Desparsstraat, Brugge",BRG147 
+51.205164,3.223436,"Mariastraat, Brugge",BRG143 
+51.20446,3.213248,"Hendrik Consciencelaan, Brugge",BRG214 
+51.210465,3.231244,"Verversdijk, Brugge",BRG186 
+51.200456,3.227088,"Sulferbergstraat, Brugge",BRG183 
+51.201837,3.225419,"Noordstraat, Brugge",BRG148 
+51.201837,3.225419,"Noordstraat, Brugge",BRG149 
+51.210465,3.231244,"Verversdijk, Brugge",BRG187 
+51.200456,3.227088,"Sulferbergstraat, Brugge",BRG184 
+51.20446,3.213248,"Hendrik Consciencelaan, Brugge",BRG215 
+51.201275,3.22687,"Arsenaalstraat, Brugge",BRG101 
+51.202755,3.22089,"Oostmeers, Brugge",BRG154 
+51.207795,3.228135,"Vismarkt, Brugge",BRG188 
+51.20675,3.21934,"Noordzandstraat, Brugge",BRG150 
+51.20446,3.213248,"Hendrik Consciencelaan, Brugge",BRG216 
+51.207415,3.216035,"Hoefijzerlaan, Brugge",BRG231 
+51.201275,3.22687,"Arsenaalstraat, Brugge",BRG102 
+51.202755,3.22089,"Oostmeers, Brugge",BRG155 
+51.210997,3.224131,"Vlamingstraat, Brugge",BRG189 
+51.20675,3.21934,"Noordzandstraat, Brugge",BRG151 
+51.20446,3.213248,"Hendrik Consciencelaan, Brugge",BRG217 
+51.207415,3.216035,"Hoefijzerlaan, Brugge",BRG232 
+51.211248,3.225856,"Biskajersplein, Brugge",BRG104 
+51.202755,3.22089,"Oostmeers, Brugge",BRG156 
+51.20379,3.21979,"Westmeers, Brugge",BRG194 
+51.210997,3.224131,"Vlamingstraat, Brugge",BRG190 
+51.202755,3.22089,"Oostmeers, Brugge",BRG152 
+51.20446,3.213248,"Hendrik Consciencelaan, Brugge",BRG218 
+51.209855,3.230712,"Hoogstraat, Brugge",BRG501 
+51.20287,3.216145,"Boeveriestraat, Brugge",BRG201 
+51.208309,3.226861,"Oude Burg, Brugge",BRG157 
+51.20379,3.21979,"Westmeers, Brugge",BRG195 
+51.210997,3.224131,"Vlamingstraat, Brugge",BRG191 
+51.202755,3.22089,"Oostmeers, Brugge",BRG153 
+51.20446,3.213248,"Hendrik Consciencelaan, Brugge",BRG219 
+51.209855,3.230712,"Hoogstraat, Brugge",BRG502 
+51.210115,3.23005,"Boomgaardstraat, Brugge",BRG105 
+51.211495,3.22601,"Jan van Eyckplein, Brugge",BRG130 
+51.20379,3.21979,"Westmeers, Brugge",BRG196 
+51.210997,3.224131,"Vlamingstraat, Brugge",BRG192 
+51.20287,3.216145,"Boeveriestraat, Brugge",BRG202 
+51.208309,3.226861,"Oude Burg, Brugge",BRG158 
+51.206026,3.22736,"Eekhoutpoort, Brugge",BRG1103
+51.207455,3.228165,"Braambergstraat, Brugge",BRG106 
+51.200125,3.228831,"Katelijnestraat, Brugge",BRG131 
+51.200822,3.224107,"Wijngaardplein, Brugge",BRG197 
+51.20213,3.22482,"Walplein, Brugge",BRG193 
+51.20287,3.216145,"Boeveriestraat, Brugge",BRG203 
+51.2071,3.22819,"Pandreitje, Brugge",BRG159 
+51.20287,3.216145,"Boeveriestraat, Brugge",BRG204 
+51.199252,3.227844,"Katelijnevest, Brugge",BRG136 
+51.200125,3.228831,"Katelijnestraat, Brugge",BRG132 
+51.212432,3.225946,"Woensdagmarkt, Brugge",BRG198 
+51.205338,3.222951,"Pijpersstraat, Brugge",BRG163 
+51.2071,3.22819,"Pandreitje, Brugge",BRG160 
+51.208309,3.226861,"Burg, Brugge",BRG401 
+51.199728,3.227381,"Colettijnenhof, Brugge",BRG107 
+51.199252,3.227844,"Katelijnevest, Brugge",BRG137 
+51.200125,3.228831,"Katelijnestraat, Brugge",BRG133 
+51.20748,3.21829,"Wulfhagestraat, Brugge",BRG199 
+51.209445,3.232247,"Predikherenstraat, Brugge",BRG164 
+51.20287,3.216145,"Boeveriestraat, Brugge",BRG205 
+51.20698,3.22992,"Park, Brugge",BRG103 
+51.210144,3.225909,"Cordoeaniersstraat, Brugge",BRG108 
+51.209409,3.225105,"Philipstockstraat, Brugge",BRG161 
+51.20963,3.228285,"Kelkstraat, Brugge",BRG138 
+51.200125,3.228831,"Katelijnestraat, Brugge",BRG134 
+51.207428,3.222088,"Zilverstraat, Brugge",BRG1100
+51.211712,3.237014,"Vuldersreitje, Brugge",BRG1104
+51.200946,3.222549,"Professor Dokter J. Sebrechtsstraat, Brugge",BRG165 
+51.210144,3.225909,"Cordoeaniersstraat, Brugge",BRG109 
+51.209409,3.225105,"Philipstockstraat, Brugge",BRG162 
+51.211505,3.228346,"Koningstraat, Brugge",BRG139 
+51.200125,3.228831,"Katelijnestraat, Brugge",BRG135 
+51.205322,3.219119,"Zuidzandstraat, Brugge",BRG1101
+51.200946,3.222549,"Professor Dokter J. Sebrechtsstraat, Brugge",BRG166 
+51.214815,3.21653,"Ezelstraat, Brugge",BRG114 
+51.204849,3.219213,"Korte Vuldersstraat, Brugge",BRG140 
+51.205322,3.219119,"Zuidzandstraat, Brugge",BRG1102
+51.20568,3.225325,"Dijver, Brugge",BRG110 
+51.200946,3.222549,"Professor Dokter J. Sebrechtsstraat, Brugge",BRG167 
+51.214815,3.21653,"Ezelstraat, Brugge",BRG115 
+51.204849,3.219213,"Korte Vuldersstraat, Brugge",BRG141 
+51.20568,3.225325,"Dijver, Brugge",BRG111 
+51.200946,3.222549,"Professor Dokter J. Sebrechtsstraat, Brugge",BRG168 
+51.214815,3.21653,"Ezelstraat, Brugge",BRG116 
+51.200946,3.222549,"Professor Dokter J. Sebrechtsstraat, Brugge",BRG169 
+51.210483,3.224781,"Kraanplein, Brugge",BRG142 
+51.210665,3.22599,"Sint-Jansplein, Brugge",BRG172 
+51.206654,3.227563,"Eekhoutstraat, Brugge",BRG112 

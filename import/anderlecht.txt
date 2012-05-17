@@ -1,0 +1,662 @@
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND514
+50.835096,4.330522,"Rue Bara, Anderlecht",AND259
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND370
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND597
+50.8405,4.331165,"Rue Jorez, Anderlecht",AND231
+50.839785,4.32418,"Square Albert I, Anderlecht",AND342
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND309
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND198
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND069
+50.84675,4.315975,"Rue General Ruquoy, Anderlecht",AND420
+50.836185,4.32349,"Rue Emile Carpentier, Anderlecht",AND354
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND465
+50.834647,4.308688,"Rue des Deportes Anderlechtois, Anderlecht",AND647
+50.847045,4.334845,"Rue de la Bougie, Anderlecht",AND137
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND002
+50.839519,4.327314,"Rue Van Lint, Anderlecht",AND248
+50.836205,4.3116,"Place de la Resistance, Anderlecht",AND581
+50.829913,4.305524,"Rue Theodore Bekaert, Anderlecht",AND659
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND053
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND404
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND293
+50.84286,4.334175,"Rue Gheude, Anderlecht",AND182
+50.835096,4.330522,"Rue Bara, Anderlecht",AND260
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND515
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND631
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND598
+50.8405,4.331165,"Rue Jorez, Anderlecht",AND232
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND117
+50.839785,4.32418,"Square Albert I, Anderlecht",AND343
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND310
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND199
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND070
+50.836185,4.32349,"Rue Emile Carpentier, Anderlecht",AND355
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND466
+50.833655,4.31114,"Rue de la Gaite, Anderlecht",AND648
+50.847045,4.334845,"Rue de la Bougie, Anderlecht",AND138
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND003
+50.839519,4.327314,"Rue Van Lint, Anderlecht",AND249
+50.83758,4.312235,"Rue de la Conciliation, Anderlecht",AND582
+50.829913,4.305524,"Rue Theodore Bekaert, Anderlecht",AND660
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND054
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND405
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND294
+50.84286,4.334175,"Rue Gheude, Anderlecht",AND183
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND516
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND632
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND599
+50.8405,4.331165,"Rue Jorez, Anderlecht",AND233
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND118
+50.839184,4.320792,"Rue du Collecteur, Anderlecht",AND344
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND071
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND200
+50.836185,4.32349,"Rue Emile Carpentier, Anderlecht",AND356
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND467
+50.833655,4.31114,"Rue de la Gaite, Anderlecht",AND649
+50.84646,4.33455,"Rue du Chimiste, Anderlecht",AND139
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND004
+50.839519,4.327314,"Rue Van Lint, Anderlecht",AND250
+50.83758,4.312235,"Rue de la Conciliation, Anderlecht",AND583
+50.84286,4.334175,"Rue Gheude, Anderlecht",AND184
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND055
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND406
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND295
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND517
+50.839845,4.31414,"Rue de l Aiguille, Anderlecht",AND451
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND633
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND600
+50.8405,4.331165,"Rue Jorez, Anderlecht",AND234
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND119
+50.839184,4.320792,"Rue du Collecteur, Anderlecht",AND345
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND072
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND501
+50.84402,4.327495,"Rue Leon Delacroix, Anderlecht",AND357
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND468
+50.833655,4.31114,"Rue de la Gaite, Anderlecht",AND650
+50.84646,4.33455,"Rue du Chimiste, Anderlecht",AND140
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND005
+50.83758,4.312235,"Rue de la Conciliation, Anderlecht",AND584
+50.84286,4.334175,"Rue Gheude, Anderlecht",AND185
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND056
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND407
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND296
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND518
+50.839845,4.31414,"Rue de l Aiguille, Anderlecht",AND452
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND634
+50.8405,4.331165,"Rue Jorez, Anderlecht",AND235
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND120
+50.84011,4.321285,"Rue du Constructeur, Anderlecht",AND346
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND391
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND502
+50.84402,4.327495,"Rue Leon Delacroix, Anderlecht",AND358
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND469
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND006
+50.841996,4.312942,"Rue de l Agrafe, Anderlecht",AND441
+50.837485,4.311415,"Rue du Pretoire, Anderlecht",AND585
+50.842475,4.333415,"Rue Bisse, Anderlecht",AND186
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND057
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND408
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND297
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND519
+50.839845,4.31414,"Rue de l Aiguille, Anderlecht",AND453
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND635
+50.84011,4.321285,"Rue du Constructeur, Anderlecht",AND347
+50.839072,4.331589,"Rue de Fiennes, Anderlecht",AND236
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND121
+50.83925,4.329945,"Place du Conseil, Anderlecht",AND281
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND392
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND503
+50.84402,4.327495,"Rue Leon Delacroix, Anderlecht",AND359
+50.838285,4.309405,"Rue Joseph Pavez, Anderlecht",AND470
+50.837485,4.311415,"Rue du Pretoire, Anderlecht",AND586
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND331
+50.841996,4.312942,"Rue de l Agrafe, Anderlecht",AND442
+50.842475,4.333415,"Rue Bisse, Anderlecht",AND187
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND058
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND409
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND298
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND520
+50.839345,4.31341,"Rue de Sebastopol, Anderlecht",AND454
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND636
+50.84073,4.321805,"Rue des Materiaux, Anderlecht",AND348
+50.839072,4.331589,"Rue de Fiennes, Anderlecht",AND237
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND122
+50.838695,4.33027,"Rue Rossini, Anderlecht",AND696
+50.83925,4.329945,"Place du Conseil, Anderlecht",AND282
+50.843445,4.334795,"Rue Docteur De Meersman, Anderlecht",AND171
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND393
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND504
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND360
+50.837485,4.311415,"Rue du Pretoire, Anderlecht",AND587
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND332
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND221
+50.838705,4.31577,"Avenue Francois Malherbe, Anderlecht",AND443
+50.84121,4.334635,"Rue Memling, Anderlecht",AND188
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND059
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND410
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND299
+50.839345,4.31341,"Rue de Sebastopol, Anderlecht",AND455
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND637
+50.84073,4.321805,"Rue des Materiaux, Anderlecht",AND349
+50.839072,4.331589,"Rue de Fiennes, Anderlecht",AND238
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND123
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND571
+50.838695,4.33027,"Rue Rossini, Anderlecht",AND697
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND283
+50.843445,4.334795,"Rue Docteur De Meersman, Anderlecht",AND172
+50.834115,4.331885,"Rue de France, Anderlecht",AND039
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND394
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND505
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND621
+50.837255,4.310725,"Rue du Greffe, Anderlecht",AND588
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND333
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND222
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND107
+50.838705,4.31577,"Avenue Francois Malherbe, Anderlecht",AND444
+50.84121,4.334635,"Rue Memling, Anderlecht",AND189
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND060
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND300
+50.838885,4.313815,"Rue du Libre Examen, Anderlecht",AND456
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND638
+50.837317,4.321717,"Rue du Transvaal, Anderlecht",AND350
+50.839072,4.331589,"Rue de Fiennes, Anderlecht",AND239
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND124
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND572
+50.838695,4.33027,"Rue Rossini, Anderlecht",AND698
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND284
+50.843445,4.334795,"Rue Docteur De Meersman, Anderlecht",AND173
+50.825355,4.298555,"Place Bizet, Anderlecht",AND041
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND395
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND506
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND622
+50.837255,4.310725,"Rue du Greffe, Anderlecht",AND589
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND108
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND334
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND223
+50.838705,4.31577,"Avenue Francois Malherbe, Anderlecht",AND445
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND190
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND061
+50.83905,4.312685,"Square Emile Vander Bruggen, Anderlecht",AND457
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND639
+50.839072,4.331589,"Rue de Fiennes, Anderlecht",AND240
+50.844,4.33722,"Rue Plantin, Anderlecht",AND129
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND573
+50.838695,4.33027,"Rue Rossini, Anderlecht",AND699
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND396
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND285
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND174
+50.825355,4.298555,"Place Bizet, Anderlecht",AND042
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND507
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND623
+50.837255,4.310725,"Rue du Greffe, Anderlecht",AND590
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND109
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND335
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND224
+50.838705,4.31577,"Avenue Francois Malherbe, Anderlecht",AND446
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND062
+50.84071,4.308375,"Rue des Parfums, Anderlecht",AND491
+50.83905,4.312685,"Square Emile Vander Bruggen, Anderlecht",AND458
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND640
+50.844,4.33722,"Rue Plantin, Anderlecht",AND130
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND541
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND574
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND700
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND397
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND286
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND175
+50.817499,4.296181,"Rue de la Tranquillite, Anderlecht",AND045
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND508
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND624
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND110
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND336
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND225
+50.84727,4.309065,"Rue Scheutveld, Anderlecht",AND447
+50.84605,4.31694,"Rue Verheyden, Anderlecht",AND381
+50.838145,4.307835,"Rue Erasme, Anderlecht",AND492
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND459
+50.83584,4.31559,"Rue du Bronze, Anderlecht",AND575
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND431
+50.835775,4.304185,"Rue Saint-Guidon, Anderlecht",AND542
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND701
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND398
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND287
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND176
+50.817499,4.296181,"Rue de la Tranquillite, Anderlecht",AND046
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND509
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND625
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND111
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND337
+50.841085,4.331645,"Rue Sergent De Bruyne, Anderlecht",AND226
+50.840425,4.315015,"Rue Louis Mascre, Anderlecht",AND448
+50.847645,4.31584,"Rue Sylvain Denayer, Anderlecht",AND382
+50.83212,4.32507,"Rue des Deux Gares, Anderlecht",AND271
+50.838145,4.307835,"Rue Erasme, Anderlecht",AND493
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND460
+50.84727,4.309065,"Rue Scheutveld, Anderlecht",AND576
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND321
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND432
+50.835775,4.304185,"Rue Saint-Guidon, Anderlecht",AND543
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND048
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND399
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND288
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND177
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND510
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND626
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND112
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND338
+50.841085,4.331645,"Rue Sergent De Bruyne, Anderlecht",AND227
+50.840615,4.316015,"Rue James Ensor, Anderlecht",AND449
+50.832395,4.304125,"Avenue Limbourg, Anderlecht",AND671
+50.847645,4.31584,"Rue Sylvain Denayer, Anderlecht",AND383
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND272
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND161
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND494
+50.84727,4.309065,"Rue Scheutveld, Anderlecht",AND577
+50.84019,4.33782,"Rue de l Autonomie, Anderlecht",AND211
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND322
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND433
+50.835775,4.304185,"Rue Saint-Guidon, Anderlecht",AND544
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND049
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND400
+50.8377,4.3252,"Rue des Goujons, Anderlecht",AND289
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND178
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND627
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND113
+50.839785,4.32418,"Square Albert I, Anderlecht",AND339
+50.841085,4.331645,"Rue Sergent De Bruyne, Anderlecht",AND228
+50.839845,4.31414,"Rue de l Aiguille, Anderlecht",AND450
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND561
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND162
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND027
+50.847645,4.31584,"Rue Sylvain Denayer, Anderlecht",AND384
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND273
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND495
+50.832395,4.304125,"Avenue Limbourg, Anderlecht",AND672
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND611
+50.836495,4.31314,"Rue de la Justice, Anderlecht",AND578
+50.84019,4.33782,"Rue de l Autonomie, Anderlecht",AND212
+50.828876,4.302229,"Boulevard Briand Aristide, Anderlecht",AND083
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND323
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND434
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND050
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND290
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND179
+50.833585,4.303825,"Avenue Paul Janson, Anderlecht",AND545
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND628
+50.841085,4.331645,"Rue Sergent De Bruyne, Anderlecht",AND229
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND114
+50.839785,4.32418,"Square Albert I, Anderlecht",AND340
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND562
+50.832395,4.304125,"Avenue Limbourg, Anderlecht",AND673
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND163
+50.816775,4.291885,"Avenue Marc-Henri Van Laer, Anderlecht",AND028
+50.847385,4.313975,"Rue Denis Verdonck, Anderlecht",AND385
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND274
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND496
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND612
+50.836205,4.3116,"Place de la Resistance, Anderlecht",AND579
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND324
+50.840303,4.336477,"Rue Limnander, Anderlecht",AND213
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND084
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND435
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND051
+50.842575,4.335005,"Rue de la Clinique, Anderlecht",AND180
+50.833585,4.303825,"Avenue Paul Janson, Anderlecht",AND546
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND629
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND017
+50.841085,4.331645,"Rue Sergent De Bruyne, Anderlecht",AND230
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND115
+50.83872,4.31131,"Avenue Auber, Anderlecht",AND563
+50.83232,4.301935,"Rond-Point du Meir, Anderlecht",AND674
+50.84518,4.32997,"Rue Heyvaert, Anderlecht",AND164
+50.816775,4.291885,"Avenue Marc-Henri Van Laer, Anderlecht",AND029
+50.847385,4.313975,"Rue Denis Verdonck, Anderlecht",AND386
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND275
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND497
+50.83558,4.309025,"Rue du Village, Anderlecht",AND613
+50.836205,4.3116,"Place de la Resistance, Anderlecht",AND580
+50.83904,4.32511,"Rue Chome Wyns, Anderlecht",AND325
+50.840303,4.336477,"Rue Limnander, Anderlecht",AND214
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND085
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND436
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND052
+50.83976,4.310905,"Rue de la Verite, Anderlecht",AND481
+50.833585,4.303825,"Avenue Paul Janson, Anderlecht",AND547
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND630
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND018
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND116
+50.83538,4.303515,"Rue Docteur Jacobs, Anderlecht",AND531
+50.83872,4.31131,"Avenue Auber, Anderlecht",AND564
+50.83175,4.302935,"Rue Lieutenant Liedel, Anderlecht",AND675
+50.84518,4.32997,"Rue Heyvaert, Anderlecht",AND165
+50.816775,4.291885,"Avenue Marc-Henri Van Laer, Anderlecht",AND030
+50.847385,4.313975,"Rue Denis Verdonck, Anderlecht",AND387
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND276
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND498
+50.83558,4.309025,"Rue du Village, Anderlecht",AND614
+50.838287,4.324819,"Square Jules et Edmond Miesse, Anderlecht",AND326
+50.839596,4.336399,"Place Bara, Anderlecht",AND215
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND086
+50.84727,4.309065,"Avenue de Scheut, Anderlecht",AND437
+50.837855,4.3032,"Rue Jean Morjau, Anderlecht",AND548
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND371
+50.83976,4.310905,"Rue de la Verite, Anderlecht",AND482
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND019
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND565
+50.84675,4.315975,"Rue General Ruquoy, Anderlecht",AND421
+50.83538,4.303515,"Rue Docteur Jacobs, Anderlecht",AND532
+50.83175,4.302935,"Rue Lieutenant Liedel, Anderlecht",AND676
+50.84363,4.330677,"Rue du Compas, Anderlecht",AND166
+50.816775,4.291885,"Avenue Marc-Henri Van Laer, Anderlecht",AND031
+50.847615,4.31476,"Rue du Bivouac, Anderlecht",AND388
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND277
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND499
+50.83558,4.309025,"Rue du Village, Anderlecht",AND615
+50.83651,4.325246,"Rue Joseph Dujardin, Anderlecht",AND327
+50.839596,4.336399,"Place Bara, Anderlecht",AND216
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND087
+50.841996,4.312942,"Rue de l Agrafe, Anderlecht",AND438
+50.837855,4.3032,"Rue Jean Morjau, Anderlecht",AND549
+50.835096,4.330522,"Rue Bara, Anderlecht",AND261
+50.844445,4.315945,"Boulevard Jules Graindor, Anderlecht",AND372
+50.83976,4.310905,"Rue de la Verite, Anderlecht",AND483
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND020
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND566
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND311
+50.84675,4.315975,"Rue General Ruquoy, Anderlecht",AND422
+50.83538,4.303515,"Rue Docteur Jacobs, Anderlecht",AND533
+50.83175,4.302935,"Rue Lieutenant Liedel, Anderlecht",AND677
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND278
+50.84363,4.330677,"Rue du Compas, Anderlecht",AND167
+50.816775,4.291885,"Avenue Marc-Henri Van Laer, Anderlecht",AND032
+50.848265,4.314965,"Place Henri De Smet, Anderlecht",AND389
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND500
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND616
+50.83706,4.32526,"Rue Ecole Moderne, Anderlecht",AND328
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND217
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND088
+50.841996,4.312942,"Rue de l Agrafe, Anderlecht",AND439
+50.836985,4.30427,"Rue Gustaaf Vanden Berghe, Anderlecht",AND550
+50.835096,4.330522,"Rue Bara, Anderlecht",AND262
+50.844925,4.3355,"Rue Haberman, Anderlecht",AND151
+50.844445,4.315945,"Boulevard Jules Graindor, Anderlecht",AND373
+50.838525,4.30776,"Rue du Serment, Anderlecht",AND484
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND661
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND021
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND567
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND312
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND201
+50.84468,4.31341,"Avenue Leon Debatty, Anderlecht",AND423
+50.83538,4.303515,"Rue Docteur Jacobs, Anderlecht",AND534
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND279
+50.84363,4.330677,"Rue du Compas, Anderlecht",AND168
+50.816205,4.29227,"Rue Raymond Ebrant, Anderlecht",AND033
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND390
+50.83175,4.302935,"Rue Lieutenant Liedel, Anderlecht",AND678
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND617
+50.83706,4.32526,"Rue Ecole Moderne, Anderlecht",AND329
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND218
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND089
+50.841996,4.312942,"Rue de l Agrafe, Anderlecht",AND440
+50.83824,4.302595,"Rue du Broeck, Anderlecht",AND551
+50.844445,4.315945,"Boulevard Jules Graindor, Anderlecht",AND374
+50.835096,4.330522,"Rue Bara, Anderlecht",AND263
+50.844255,4.33483,"Rue Broyere, Anderlecht",AND152
+50.83972,4.309175,"Rue de la Sincerite, Anderlecht",AND485
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND662
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND022
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND601
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND568
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND073
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND313
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND202
+50.84468,4.31341,"Avenue Leon Debatty, Anderlecht",AND424
+50.834565,4.32654,"Rue des Veterinaires, Anderlecht",AND280
+50.843105,4.336135,"Rue Otlet, Anderlecht",AND169
+50.817005,4.29329,"Rue des Fraises, Anderlecht",AND034
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND535
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND694
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND618
+50.84646,4.33455,"Rue du Chimiste, Anderlecht",AND141
+50.8363,4.328855,"Boulevard de la Revision, Anderlecht",AND330
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND219
+50.827665,4.295965,"Boulevard Theo Lambert, Anderlecht",AND090
+50.83824,4.302595,"Rue du Broeck, Anderlecht",AND552
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND663
+50.844445,4.315945,"Boulevard Jules Graindor, Anderlecht",AND375
+50.835096,4.330522,"Rue Bara, Anderlecht",AND264
+50.84563,4.33174,"Rue de Liverpool, Anderlecht",AND153
+50.83972,4.309175,"Rue de la Sincerite, Anderlecht",AND486
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND023
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND602
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND569
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND074
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND314
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND203
+50.84501,4.31418,"Avenue Norbert Gille, Anderlecht",AND425
+50.843445,4.334795,"Rue Docteur De Meersman, Anderlecht",AND170
+50.817005,4.29329,"Rue des Fraises, Anderlecht",AND035
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND536
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND695
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND619
+50.846735,4.33344,"Rue des Megissiers, Anderlecht",AND142
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND007
+50.841715,4.331875,"Avenue Clemenceau, Anderlecht",AND220
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND105
+50.83726,4.305635,"Rue de l Institut, Anderlecht",AND553
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND664
+50.844445,4.315945,"Boulevard Jules Graindor, Anderlecht",AND376
+50.833845,4.33024,"Rue Charles Parente, Anderlecht",AND265
+50.84563,4.33174,"Rue de Liverpool, Anderlecht",AND154
+50.840555,4.307735,"Rue du Souvenir, Anderlecht",AND487
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND024
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND603
+50.836265,4.31368,"Rue de Douvres, Anderlecht",AND570
+50.82656,4.302325,"Rue Walcourt, Anderlecht",AND075
+50.836287,4.330599,"Rue Eloy, Anderlecht",AND315
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND204
+50.84501,4.31418,"Avenue Norbert Gille, Anderlecht",AND426
+50.834115,4.331885,"Rue de France, Anderlecht",AND038
+50.8385,4.3089,"Place du Droit, Anderlecht",AND471
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND537
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND620
+50.846735,4.33344,"Rue des Megissiers, Anderlecht",AND143
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND008
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND106
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND521
+50.8368,4.305655,"Place de la Vaillance, Anderlecht",AND554
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND665
+50.844445,4.315945,"Boulevard Jules Graindor, Anderlecht",AND377
+50.833845,4.33024,"Rue Charles Parente, Anderlecht",AND266
+50.84563,4.33174,"Rue de Liverpool, Anderlecht",AND155
+50.840555,4.307735,"Rue du Souvenir, Anderlecht",AND488
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND025
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND604
+50.82656,4.302325,"Rue Walcourt, Anderlecht",AND076
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND316
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND205
+50.84501,4.31418,"Avenue Norbert Gille, Anderlecht",AND427
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND538
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND361
+50.838055,4.308595,"Rue du Devoir, Anderlecht",AND472
+50.846735,4.33344,"Rue des Megissiers, Anderlecht",AND144
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND009
+50.8368,4.305655,"Place de la Vaillance, Anderlecht",AND555
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND411
+50.839967,4.287458,"Rue Adolphe Willemyns, Anderlecht",AND522
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND666
+50.84605,4.31694,"Rue Verheyden, Anderlecht",AND378
+50.834115,4.331885,"Rue de France, Anderlecht",AND267
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND156
+50.839936,4.311687,"Place du Repos, Anderlecht",AND489
+50.81194,4.260248,"Rue Meylemeersch, Anderlecht",AND026
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND605
+50.82656,4.302325,"Rue Walcourt, Anderlecht",AND077
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND317
+50.841155,4.33676,"Square Robert Pequeur, Anderlecht",AND206
+50.84501,4.31418,"Avenue Norbert Gille, Anderlecht",AND428
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND539
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND362
+50.839519,4.327314,"Rue Van Lint, Anderlecht",AND251
+50.837675,4.30799,"Rue Kinet, Anderlecht",AND473
+50.84521,4.33396,"Rue Odon, Anderlecht",AND145
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND010
+50.8368,4.305655,"Place de la Vaillance, Anderlecht",AND556
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND412
+50.83721,4.32727,"Rue Pasteur, Anderlecht",AND301
+50.83659,4.29433,"Rue Adolphe Prins, Anderlecht",AND523
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND667
+50.84605,4.31694,"Rue Verheyden, Anderlecht",AND379
+50.834115,4.331885,"Rue de France, Anderlecht",AND268
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND157
+50.84071,4.308375,"Rue des Parfums, Anderlecht",AND490
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND606
+50.841155,4.33676,"Square Robert Pequeur, Anderlecht",AND207
+50.827131,4.303313,"Rue Felix De Cuyper, Anderlecht",AND078
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND318
+50.84501,4.31418,"Avenue Norbert Gille, Anderlecht",AND429
+50.83406,4.305885,"Rue de la Procession, Anderlecht",AND540
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND363
+50.83834,4.33326,"Rue Grisar, Anderlecht",AND252
+50.83896,4.30695,"Rue Edmond Delcourt, Anderlecht",AND474
+50.83314,4.309305,"Allee de la Villa Romaine, Anderlecht",AND651
+50.84521,4.33396,"Rue Odon, Anderlecht",AND146
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND011
+50.8368,4.305655,"Place de la Vaillance, Anderlecht",AND557
+50.83721,4.32727,"Rue Pasteur, Anderlecht",AND302
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND191
+50.84511,4.291735,"Rue Van Soust, Anderlecht",AND413
+50.83824,4.302595,"Rue du Broeck, Anderlecht",AND524
+50.84605,4.31694,"Rue Verheyden, Anderlecht",AND380
+50.83212,4.32507,"Rue des Deux Gares, Anderlecht",AND269
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND158
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND668
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND607
+50.840955,4.329685,"Rue du Chapeau, Anderlecht",AND241
+50.840821,4.337901,"Rue Lambert Crickx, Anderlecht",AND208
+50.82804,4.301035,"Avenue de Saio, Anderlecht",AND079
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND319
+50.84314,4.31554,"Rue de l Emulation, Anderlecht",AND430
+50.833405,4.3074,"Rue de la Democratie, Anderlecht",AND652
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND364
+50.83834,4.33326,"Rue Grisar, Anderlecht",AND253
+50.83896,4.30695,"Rue Edmond Delcourt, Anderlecht",AND475
+50.84487,4.334445,"Rue Abbe Cuylits, Anderlecht",AND147
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND012
+50.837375,4.30974,"Rue du Drapeau, Anderlecht",AND591
+50.83668,4.307615,"Rue du Chapitre, Anderlecht",AND558
+50.83721,4.32727,"Rue Pasteur, Anderlecht",AND303
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND192
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND063
+50.84511,4.291735,"Rue Van Soust, Anderlecht",AND414
+50.83212,4.32507,"Rue des Deux Gares, Anderlecht",AND270
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND159
+50.838869,4.291809,"Clos Hof te Ophem, Anderlecht",AND525
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND641
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND669
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND608
+50.840955,4.329685,"Rue du Chapeau, Anderlecht",AND242
+50.84379,4.33814,"Rue Moretus, Anderlecht",AND131
+50.840821,4.337901,"Rue Lambert Crickx, Anderlecht",AND209
+50.82804,4.301035,"Avenue de Saio, Anderlecht",AND080
+50.839345,4.325775,"Rue de l Instruction, Anderlecht",AND320
+50.833405,4.3074,"Rue de la Democratie, Anderlecht",AND653
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND365
+50.83834,4.33326,"Rue Grisar, Anderlecht",AND254
+50.83896,4.30695,"Rue Edmond Delcourt, Anderlecht",AND476
+50.84487,4.334445,"Rue Abbe Cuylits, Anderlecht",AND148
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND013
+50.837375,4.30974,"Rue du Drapeau, Anderlecht",AND592
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND559
+50.838085,4.329955,"Rue Auguste Gevaert, Anderlecht",AND304
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND193
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND064
+50.84511,4.291735,"Rue Van Soust, Anderlecht",AND415
+50.84402,4.327495,"Rue Ropsy Chaudron, Anderlecht",AND160
+50.838869,4.291809,"Clos Hof te Ophem, Anderlecht",AND526
+50.83308,4.306544,"Rue de Veeweyde, Anderlecht",AND670
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND642
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND609
+50.83977,4.32928,"Rue Ruysdael, Anderlecht",AND243
+50.845531,4.337462,"Rue de la Poterie, Anderlecht",AND132
+50.84019,4.33782,"Rue de l Autonomie, Anderlecht",AND210
+50.828876,4.302229,"Boulevard Briand Aristide, Anderlecht",AND081
+50.833405,4.3074,"Rue de la Democratie, Anderlecht",AND654
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND366
+50.835096,4.330522,"Rue Bara, Anderlecht",AND255
+50.8394,4.30696,"Place de la Beaute, Anderlecht",AND477
+50.84581,4.33506,"Place Alphonse Lemmens, Anderlecht",AND149
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND014
+50.836555,4.30797,"Rue Brune, Anderlecht",AND593
+50.838265,4.310055,"Rue d Aumale, Anderlecht",AND560
+50.838085,4.329955,"Rue Auguste Gevaert, Anderlecht",AND305
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND194
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND065
+50.84511,4.291735,"Rue Van Soust, Anderlecht",AND416
+50.838869,4.291809,"Clos Hof te Ophem, Anderlecht",AND527
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND461
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND643
+50.835345,4.309715,"Rue Wayez, Anderlecht",AND610
+50.83977,4.32928,"Rue Ruysdael, Anderlecht",AND244
+50.846055,4.33747,"Rue Foppens, Anderlecht",AND133
+50.828876,4.302229,"Boulevard Briand Aristide, Anderlecht",AND082
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND511
+50.833405,4.3074,"Rue de la Democratie, Anderlecht",AND655
+50.835096,4.330522,"Rue Bara, Anderlecht",AND256
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND367
+50.839205,4.308255,"Rue Jules Broeren, Anderlecht",AND478
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND015
+50.844925,4.3355,"Rue Haberman, Anderlecht",AND150
+50.835691,4.307729,"Rue de Formanoir, Anderlecht",AND594
+50.838085,4.329955,"Rue Auguste Gevaert, Anderlecht",AND306
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND195
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND066
+50.845685,4.31295,"Rue Leopold De Swaef, Anderlecht",AND417
+50.834734,4.300318,"Avenue Victor et Jules Bertaux, Anderlecht",AND528
+50.837317,4.321717,"Rue du Transvaal, Anderlecht",AND351
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND462
+50.834924,4.310491,"Rue Victor Rauter, Anderlecht",AND644
+50.8402,4.328345,"Rue Raphael, Anderlecht",AND245
+50.84646,4.337275,"Rue de la Rosee, Anderlecht",AND134
+50.833405,4.3074,"Rue de la Democratie, Anderlecht",AND656
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND401
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND512
+50.835096,4.330522,"Rue Bara, Anderlecht",AND257
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND368
+50.839205,4.308255,"Rue Jules Broeren, Anderlecht",AND479
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND016
+50.835691,4.307729,"Rue de Formanoir, Anderlecht",AND595
+50.838085,4.329955,"Rue Auguste Gevaert, Anderlecht",AND307
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND196
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND067
+50.845685,4.31295,"Rue Leopold De Swaef, Anderlecht",AND418
+50.834734,4.300318,"Avenue Victor et Jules Bertaux, Anderlecht",AND529
+50.836185,4.32349,"Rue Emile Carpentier, Anderlecht",AND352
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND463
+50.835395,4.31157,"Rue Francois Janssens, Anderlecht",AND645
+50.84646,4.337275,"Rue de la Rosee, Anderlecht",AND135
+50.8402,4.328345,"Rue Raphael, Anderlecht",AND246
+50.8315,4.30847,"Rue Pierre Biddaer, Anderlecht",AND657
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND402
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND291
+50.83787,4.284985,"Boulevard Sylvain Dupuis, Anderlecht",AND513
+50.835096,4.330522,"Rue Bara, Anderlecht",AND258
+50.845366,4.322333,"Rue de Birmingham, Anderlecht",AND369
+50.839205,4.308255,"Rue Jules Broeren, Anderlecht",AND480
+50.835691,4.307729,"Rue de Formanoir, Anderlecht",AND596
+50.839785,4.32418,"Square Albert I, Anderlecht",AND341
+50.838085,4.329955,"Rue Auguste Gevaert, Anderlecht",AND308
+50.8428,4.33874,"Rue Brogniez, Anderlecht",AND197
+50.80819,4.288978,"Chaussee de Mons, Anderlecht",AND068
+50.845475,4.30946,"Rue Edmond Rostand, Anderlecht",AND419
+50.834734,4.300318,"Avenue Victor et Jules Bertaux, Anderlecht",AND530
+50.836185,4.32349,"Rue Emile Carpentier, Anderlecht",AND353
+50.838089,4.313907,"Avenue Raymond Vander Bruggen, Anderlecht",AND464
+50.834647,4.308688,"Rue des Deportes Anderlechtois, Anderlecht",AND646
+50.847045,4.334845,"Rue de la Bougie, Anderlecht",AND136
+50.817106,4.248795,"Route de Lennik, Anderlecht",AND001
+50.839519,4.327314,"Rue Van Lint, Anderlecht",AND247
+50.8315,4.30847,"Rue Pierre Biddaer, Anderlecht",AND658
+50.848265,4.314965,"Chaussee Ninove, Anderlecht",AND403
+50.838485,4.32878,"Rue Georges Moreau, Anderlecht",AND292
+50.842575,4.335005,"Rue de la Clinique,Anderlecht",AND18

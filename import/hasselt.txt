@@ -1,0 +1,36 @@
+50.931571,5.333329,"Thonissenlaan, Hasselt",HAS18 
+50.932019,5.337101,"Minderbroedersstraat, Hasselt",HAS42 
+50.928788,5.335638,"Cellebroedersstraat, Hasselt",HAS05 
+50.93057,5.3297,"Bampslaan, Hasselt",HAS24 
+50.931571,5.333329,"Thonissenlaan, Hasselt",HAS19 
+50.932785,5.339766,"Bonnefantenstraat, Hasselt",HAS06 
+50.931179,5.327092,"Monseigneur Broekxplein, Hasselt",HAS25 
+50.927162,5.336462,"Guffenslaan, Hasselt",HAS12 
+50.931571,5.333329,"Thonissenlaan, Hasselt",HAS20 
+50.93035,5.336665,"Aldestraat, Hasselt",HAS07 
+50.92978,5.33688,"Kapelstraat, Hasselt",HAS26 
+50.927162,5.336462,"Guffenslaan, Hasselt",HAS13 
+50.929186,5.332753,"De Schiervellaan, Hasselt",HAS21 
+50.92927,5.334815,"Havermarkt, Hasselt",HAS37 
+50.93095,5.33487,"Lombaardstraat, Hasselt",HAS08 
+50.930226,5.342524,"Maastrichterstraat, Hasselt",HAS27 
+50.933735,5.340424,"Martelarenlaan, Hasselt",HAS14 
+50.929538,5.342294,"Guido Gezellestraat, Hasselt",HAS38 
+50.930353,5.334068,"Dokter Willemsstraat, Hasselt",HAS09 
+50.929538,5.342294,"Guido Gezellestraat, Hasselt",HAS33 
+50.933735,5.340424,"Martelarenlaan, Hasselt",HAS15 
+50.931461,5.340159,"Zuivelmarkt, Hasselt",HAS39 
+50.928591,5.33898,"Sint-Jozefsstraat, Hasselt",HAS01 
+50.927162,5.336462,"Guffenslaan, Hasselt",HAS10 
+50.931461,5.340159,"Zuivelmarkt, Hasselt",HAS34 
+50.92927,5.334815,"Havermarkt, Hasselt",HAS16 
+50.92945,5.341315,"Capucienenstraat, Hasselt",HAS40 
+50.92945,5.341315,"Capucienenstraat, Hasselt",HAS02 
+50.927162,5.336462,"Guffenslaan, Hasselt",HAS11 
+50.928211,5.334459,"Leopoldplein, Hasselt",HAS22 
+50.925051,5.333796,"Sint-Truidersteenweg, Hasselt",HAS35 
+50.931571,5.333329,"Thonissenlaan, Hasselt",HAS17 
+50.932949,5.336223,"Isabellastraat, Hasselt",HAS41 
+50.931209,5.341996,"Meldertstraat, Hasselt",HAS04 
+50.93057,5.3297,"Bampslaan, Hasselt",HAS23 
+50.929735,5.333799,"Maagdendries, Hasselt",HAS36

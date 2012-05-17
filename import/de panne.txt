@@ -1,0 +1,71 @@
+51.103085,2.590285,"Zeelaan, De Panne",DPA25 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA32 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA36 
+51.10447,2.59615,"Kunstenaarslaan, De Panne",DPA41 
+51.10138,2.588435,"Halmenstraat, De Panne",DPA48 
+51.10399,2.59332,"Mijnstraat, De Panne",DPA45 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA52 
+51.100261,2.584265,"Vuurtorenplein, De Panne",DPA59 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA56 
+51.09919,2.583325,"Pierre Bortierplein, De Panne",DPA63 
+51.097212,2.578493,"Dynastielaan, De Panne",DPA70 
+51.09852,2.592565,"Markt, De Panne",DPA4 
+51.103085,2.590285,"Zeelaan, De Panne",DPA11 
+51.103085,2.590285,"Zeelaan, De Panne",DPA18 
+51.097212,2.578493,"Dynastielaan, De Panne",DPA67 
+51.103085,2.590285,"Zeelaan, De Panne",DPA15 
+51.103085,2.590285,"Zeelaan, De Panne",DPA22 
+51.10059,2.594855,"J. Demolderlaan, De Panne",DPA29 
+51.103085,2.590285,"Zeelaan, De Panne",DPA26 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA33 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA38 
+51.105945,2.598591,"Canadezenplein, De Panne",DPA37 
+51.103085,2.590285,"Zeelaan, De Panne",DPA71 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA42 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA49 
+51.102465,2.58911,"Zeilweg, De Panne",DPA46 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA53 
+51.09919,2.583325,"Pierre Bortierplein, De Panne",DPA60 
+51.097835,2.591835,"Kasteelstraat, De Panne",DPA1 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA57 
+51.09925,2.582185,"Kapellelaan, De Panne",DPA64 
+51.09671,2.587179,"Wilgenpad, De Panne",DPA8 
+51.103085,2.590285,"Zeelaan, De Panne",DPA19 
+51.09852,2.592565,"Markt, De Panne",DPA5 
+51.103085,2.590285,"Zeelaan, De Panne",DPA12 
+51.103085,2.590285,"Zeelaan, De Panne",DPA16 
+51.103085,2.590285,"Zeelaan, De Panne",DPA23 
+51.098525,2.582705,"Bortierlaan, De Panne",DPA30 
+51.102118,2.591854,"Sloepenlaan, De Panne",DPA27 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA34 
+51.10552,2.596835,"Golfstraat, De Panne",DPA39 
+51.103825,2.595115,"Dokter A. Depagelaan, De Panne",DPA43 
+51.101785,2.587195,"Suzanneweg, De Panne",DPA50 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA54 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA47 
+51.09919,2.583325,"Pierre Bortierplein, De Panne",DPA61 
+51.097212,2.578493,"Dynastielaan, De Panne",DPA68 
+51.097835,2.591835,"Kasteelstraat, De Panne",DPA2 
+51.098405,2.579125,"Hendrik Consciencelaan, De Panne",DPA65 
+51.103085,2.590285,"Zeelaan, De Panne",DPA9 
+51.103085,2.590285,"Zeelaan, De Panne",DPA13 
+51.103085,2.590285,"Zeelaan, De Panne",DPA20 
+51.09607,2.586794,"Lindelaan, De Panne",DPA6 
+51.103085,2.590285,"Zeelaan, De Panne",DPA17 
+51.103085,2.590285,"Zeelaan, De Panne",DPA24 
+51.099415,2.588065,"A. Dumontlaan, De Panne",DPA31 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA35 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA40 
+51.10341,2.59197,"Nieuwpoortlaan, De Panne",DPA44 
+51.099897,2.589749,"Visserslaan, De Panne",DPA51 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA58 
+51.10191,2.5883,"Duinkerkelaan, De Panne",DPA55 
+51.09919,2.583325,"Pierre Bortierplein, De Panne",DPA62 
+51.097212,2.578493,"Dynastielaan, De Panne",DPA69 
+51.103085,2.590285,"Zeelaan, De Panne",DPA10 
+51.097835,2.591835,"Kasteelstraat, De Panne",DPA3 
+51.098405,2.579125,"Hendrik Consciencelaan, De Panne",DPA66 
+51.103085,2.590285,"Zeelaan, De Panne",DPA14 
+51.103085,2.590285,"Zeelaan, De Panne",DPA21 
+51.102118,2.591854,"Sloepenlaan, De Panne",DPA28 
+51.09607,2.586794,"Lindelaan,  De Panne",DPA7

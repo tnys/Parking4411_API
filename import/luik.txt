@@ -1,0 +1,200 @@
+50.630335,5.56426,"Rue de Selys, Liege",LIE608 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE534 
+50.6456,5.578885,"Potierue, Liege",LIE054 
+50.64353,5.577385,"Rue Nagelmackers, Liege",LIE024 
+50.631365,5.570695,"Boulevard Frere Orban, Liege",LIE656 
+50.64199,5.581746,"Boulevard de l Est, Liege",LIE600 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE520 
+50.643045,5.56793,"Place Xavier Neujean, Liege",LIE043 
+50.630015,5.56846,"Rue des Guillemins, Liege",LIE004 
+50.637544,5.574596,"Rue des Premontres, Liege",LIE648 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE145 
+50.640285,5.56656,"Rue Carlier, Liege",LIE617 
+50.636673,5.574121,"Quai Paul Van Hoegaerden, Liege",LIE554 
+50.637405,5.578564,"Rue Gretry, Liege",LIE071 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE034 
+50.62831,5.569605,"Rue des Vingt-Deux, Liege",LIE640 
+50.646655,5.576625,"Rue hors Chateau, Liege",LIE114 
+50.62963,5.56427,"Rue de Chestret, Liege",LIE609 
+50.628875,5.563855,"Rue du Plan Incline, Liege",LIE535 
+50.64311,5.577025,"Rue du Rewe, Liege",LIE025 
+50.646097,5.579604,"Rue Saint-Jean-Baptiste, Liege",LIE055 
+50.631365,5.570695,"Boulevard Frere Orban, Liege",LIE657 
+50.6383,5.56904,"Avenue Maurice Destenay, Liege",LIE173 
+50.641785,5.58382,"Rue Ernest de Baviere, Liege",LIE601 
+50.635305,5.564545,"Rue des Augustins, Liege",LIE626 
+50.643045,5.56793,"Place Xavier Neujean, Liege",LIE044 
+50.630015,5.56846,"Rue des Guillemins, Liege",LIE005 
+50.638303,5.575999,"Pont Kennedy, Liege",LIE649 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE146 
+50.639915,5.56598,"Place Saint-Christophe, Liege",LIE618 
+50.635695,5.569455,"Boulevard Piercot, Liege",LIE555 
+50.637405,5.578564,"Rue Gretry, Liege",LIE073 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE035 
+50.625395,5.569281,"Rue de Sclessin, Liege",LIE641 
+50.648071,5.549635,"Rue Sainte-Marguerite, Liege",LIE700 
+50.6459,5.57682,"Rue des Mineurs, Liege",LIE115 
+50.628875,5.563855,"Rue du Plan Incline, Liege",LIE536 
+50.648305,5.582795,"Place Creve Coeur, Liege",LIE610 
+50.63822,5.570095,"Rue des Clarisses, Liege",LIE026 
+50.647745,5.584745,"Feronstree, Liege",LIE056 
+50.631365,5.570695,"Boulevard Frere Orban, Liege",LIE658 
+50.63881,5.57429,"Rue des Croisiers, Liege",LIE174 
+50.641472,5.583063,"Rue Henri de Dinant, Liege",LIE602 
+50.635305,5.564545,"Rue des Augustins, Liege",LIE627 
+50.6405,5.585155,"Rue Jean d Outremeuse, Liege",LIE083 
+50.643045,5.56793,"Place Xavier Neujean, Liege",LIE045 
+50.638303,5.575999,"Pont Kennedy, Liege",LIE650 
+50.63721,5.569895,"Place Saint-Jacques, Liege",LIE162 
+50.64038,5.56429,"Place des Beguinages, Liege",LIE619 
+50.635695,5.569455,"Boulevard Piercot, Liege",LIE556 
+50.637405,5.578564,"Rue Gretry, Liege",LIE074 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE036 
+50.62378,5.57098,"Place des Franchises, Liege",LIE642 
+50.648071,5.549635,"Rue Sainte-Marguerite, Liege",LIE701 
+50.64265,5.57428,"Rue Donceel, Liege",LIE187 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE120 
+50.646867,5.584872,"Quai de Maestricht, Liege",LIE611 
+50.647745,5.584745,"Feronstree, Liege",LIE057 
+50.63822,5.570095,"Rue des Clarisses, Liege",LIE027 
+50.631365,5.570695,"Boulevard Frere Orban, Liege",LIE659 
+50.63881,5.57429,"Rue des Croisiers, Liege",LIE175 
+50.641472,5.583063,"Rue Henri de Dinant, Liege",LIE603 
+50.63441,5.564805,"Rue du Jardin-Botanique, Liege",LIE628 
+50.640965,5.58249,"Rue Puits en Sock, Liege",LIE085 
+50.64286,5.56964,"Rue de la Casquette, Liege",LIE046 
+50.634656,5.570539,"Rue Forgeur, Liege",LIE651 
+50.6383,5.56904,"Avenue Maurice Destenay, Liege",LIE163 
+50.639785,5.56282,"Rue Jonfosse, Liege",LIE620 
+50.635695,5.569455,"Boulevard Piercot, Liege",LIE557 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE037 
+50.637405,5.578564,"Rue Gretry, Liege",LIE076 
+50.623155,5.571315,"Rue Auguste Buisseret, Liege",LIE643 
+50.645382,5.567019,"Rue Saint-Severin, Liege",LIE702 
+50.642005,5.565385,"Rue Lonhienne, Liege",LIE220 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE132 
+50.645762,5.580666,"La Batte, Liege",LIE612 
+50.647745,5.584745,"Feronstree, Liege",LIE058 
+50.631365,5.570695,"Boulevard Frere Orban, Liege",LIE660 
+50.63925,5.57415,"Rue du Mery, Liege",LIE176 
+50.638465,5.581175,"Place Delcour, Liege",LIE604 
+50.63441,5.564805,"Rue du Jardin-Botanique, Liege",LIE629 
+50.640965,5.58249,"Rue Puits en Sock, Liege",LIE086 
+50.64286,5.56964,"Rue de la Casquette, Liege",LIE047 
+50.63338,5.57038,"Rue Lebeau, Liege",LIE652 
+50.63721,5.569895,"Place Saint-Jacques, Liege",LIE164 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE522 
+50.63836,5.562267,"Rue Grandgagnage, Liege",LIE621 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE038 
+50.637405,5.578564,"Rue Gretry, Liege",LIE077 
+50.623155,5.571315,"Rue Auguste Buisseret, Liege",LIE644 
+50.645665,5.56699,"Rue Leon Mignon, Liege",LIE703 
+50.628169,5.56626,"Rue Dartois, Liege",LIE505 
+50.626539,5.570644,"Rue Paradis, Liege",LIE135 
+50.645762,5.580666,"La Batte, Liege",LIE613 
+50.646855,5.579155,"Rue Velbruck, Liege",LIE059 
+50.631365,5.570695,"Boulevard Frere Orban, Liege",LIE661 
+50.639615,5.57598,"Place du 20 Aout, Liege",LIE177 
+50.638465,5.581175,"Place Delcour, Liege",LIE605 
+50.631775,5.56495,"Rue Louvrex, Liege",LIE630 
+50.640965,5.58249,"Rue Puits en Sock, Liege",LIE087 
+50.64447,5.575395,"Rue de la Madeleine, Liege",LIE048 
+50.63214,5.57015,"Rue Paul Devaux, Liege",LIE653 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE525 
+50.638288,5.572772,"Rue du Vertbois, Liege",LIE165 
+50.637035,5.56403,"Rue Darchis, Liege",LIE622 
+50.630015,5.56846,"Rue des Guillemins, Liege",LIE006 
+50.637405,5.578564,"Rue Gretry, Liege",LIE078 
+50.623155,5.571315,"Rue Auguste Buisseret, Liege",LIE645 
+50.645382,5.567019,"Rue Saint-Severin, Liege",LIE704 
+50.627595,5.567685,"Rue Sohet, Liege",LIE511 
+50.626539,5.570644,"Rue Paradis, Liege",LIE136 
+50.640205,5.56402,"Rue Lambert le Begue, Liege",LIE614 
+50.647745,5.584745,"Feronstree, Liege",LIE060 
+50.629845,5.569839,"Avenue Blonden, Liege",LIE662 
+50.628875,5.563855,"Rue du Plan Incline, Liege",LIE537 
+50.639615,5.57598,"Place du 20 Aout, Liege",LIE178 
+50.631775,5.56495,"Rue Louvrex, Liege",LIE631 
+50.640965,5.58249,"Rue Puits en Sock, Liege",LIE088 
+50.643975,5.57643,"Rue de Gueldre, Liege",LIE049 
+50.631505,5.569328,"Avenue Rogier, Liege",LIE654 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE527 
+50.638288,5.572772,"Rue du Vertbois, Liege",LIE166 
+50.637035,5.56403,"Rue Darchis, Liege",LIE623 
+50.6257,5.5663,"Place des Guillemins, Liege",LIE007 
+50.64186,5.58085,"Chaussee des Pres, Liege",LIE079 
+50.632769,5.56601,"Rue Sainte-Marie, Liege",LIE515 
+50.626539,5.570644,"Rue Paradis, Liege",LIE137 
+50.64122,5.56656,"Rue des Urbanistes, Liege",LIE615 
+50.637205,5.57932,"Place Sylvain Dupuis, Liege",LIE069 
+50.629845,5.569839,"Avenue Blonden, Liege",LIE663 
+50.641288,5.575098,"Place Cockerill, Liege",LIE179 
+50.628875,5.563855,"Rue du Plan Incline, Liege",LIE538 
+50.631775,5.56495,"Rue Louvrex, Liege",LIE632 
+50.63948,5.570835,"Place Saint-Paul, Liege",LIE028 
+50.640965,5.58249,"Rue Puits en Sock, Liege",LIE089 
+50.63065,5.569825,"Rue Raikem, Liege",LIE655 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE528 
+50.638288,5.572772,"Rue du Vertbois, Liege",LIE167 
+50.634925,5.565425,"Rue Beeckman, Liege",LIE624 
+50.63781,5.562535,"Rue Saint-Gilles, Liege",LIE013 
+50.64101,5.58204,"Rue Surlet, Liege",LIE080 
+50.63661,5.572645,"Rue de l Eveche, Liege",LIE559 
+50.632769,5.56601,"Rue Sainte-Marie, Liege",LIE516 
+50.637205,5.57932,"Place Sylvain Dupuis, Liege",LIE070 
+50.629845,5.569839,"Avenue Blonden, Liege",LIE664 
+50.6425,5.577195,"Quai sur Meuse, Liege",LIE180 
+50.63927,5.565335,"Rue Trappe, Liege",LIE547 
+50.631055,5.56522,"Rue Fabry, Liege",LIE633 
+50.639615,5.569535,"Rue Hazinelle, Liege",LIE029 
+50.64186,5.58085,"Chaussee des Pres, Liege",LIE106 
+50.629405,5.56525,"Place de Bronckart, Liege",LIE636 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE530 
+50.6383,5.56904,"Avenue Maurice Destenay, Liege",LIE171 
+50.634925,5.565425,"Rue Beeckman, Liege",LIE625 
+50.63781,5.562535,"Rue Saint-Gilles, Liege",LIE014 
+50.64101,5.58204,"Rue Surlet, Liege",LIE081 
+50.637345,5.57049,"Place Emile Dupont, Liege",LIE560 
+50.632769,5.56601,"Rue Sainte-Marie, Liege",LIE517 
+50.630015,5.56846,"Rue des Guillemins, Liege",LIE001 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE039 
+50.629845,5.569839,"Avenue Blonden, Liege",LIE665 
+50.631505,5.569328,"Avenue Rogier, Liege",LIE550 
+50.6425,5.577195,"Quai sur Meuse, Liege",LIE181 
+50.63056,5.567015,"Rue de Rotterdam, Liege",LIE634 
+50.639915,5.57438,"Rue des Carmes, Liege",LIE030 
+50.641172,5.58078,"Boulevard Saucy, Liege",LIE107 
+50.629405,5.56525,"Place de Bronckart, Liege",LIE637 
+50.641475,5.57996,"Rue Saint-Eloi, Liege",LIE111 
+50.62865,5.564835,"Rue Simonon, Liege",LIE606 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE531 
+50.642825,5.57622,"Rue Florimont, Liege",LIE015 
+50.6405,5.585155,"Rue Jean d Outremeuse, Liege",LIE082 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE518 
+50.636065,5.570085,"Rue Eugene Ysaye, Liege",LIE561 
+50.630015,5.56846,"Rue des Guillemins, Liege",LIE002 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE040 
+50.620935,5.573555,"Place du General Leman, Liege",LIE646 
+50.635695,5.569455,"Boulevard Piercot, Liege",LIE552 
+50.647745,5.584745,"Feronstree, Liege",LIE184 
+50.631625,5.565325,"Rue Sainte-Veronique, Liege",LIE635 
+50.639915,5.57438,"Rue des Carmes, Liege",LIE031 
+50.641172,5.58078,"Boulevard Saucy, Liege",LIE109 
+50.62886,5.568465,"Rue de Serbie, Liege",LIE638 
+50.646655,5.576625,"Rue hors Chateau, Liege",LIE112 
+50.63141,5.564445,"Rue Hemricourt, Liege",LIE607 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE533 
+50.644964,5.577711,"Rue du Pont, Liege",LIE051 
+50.641915,5.574845,"Rue de l Etuve, Liege",LIE021 
+50.63041,5.56841,"Boulevard d Avroy, Liege",LIE519 
+50.63785,5.580529,"Rue de Mean, Liege",LIE590 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE041 
+50.630015,5.56846,"Rue des Guillemins, Liege",LIE003 
+50.620935,5.573555,"Place du General Leman, Liege",LIE647 
+50.64026,5.568504,"Boulevard de la Sauveniere, Liege",LIE144 
+50.641994,5.564786,"Rue sur la Fontaine, Liege",LIE616 
+50.635695,5.569455,"Boulevard Piercot, Liege",LIE553 
+50.640705,5.57265,"Rue Charles Magnette, Liege",LIE032 
+50.63141,5.564445,"Rue Hemricourt, Liege",LIE110 
+50.62886,5.568465,"Rue de Serbie, Liege",LIE639 
+50.646655,5.576625,"Rue hors Chateau, Liege",LIE113

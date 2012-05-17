@@ -1,0 +1,80 @@
+50.41242,4.444955,"Rue des Trois Rois, Charleroi",CHA111 
+50.409446,4.445942,"Boulevard Audent, Charleroi",CHA118 
+50.41008,4.445745,"Rue d Orleans, Charleroi",CHA115 
+50.41184,4.44014,"Rue de Turenne, Charleroi",CHA122 
+50.412645,4.442785,"Place du Manege, Charleroi",CHA129 
+50.412245,4.44207,"Boulevard Jacques Bertrand, Charleroi",CHA134 
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA17 
+50.4114,4.438455,"Avenue des Allies, Charleroi",CHA25 
+50.41184,4.44014,"Rue de Turenne, Charleroi",CHA126 
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA8 
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA21 
+50.408591,4.437386,"Rue Dagnelies, Charleroi",CHA30 
+50.41025,4.437375,"Rue du Grand Central, Charleroi",CHA37 
+50.409313,4.438138,"Place de la Digue, Charleroi",CHA34 
+50.407225,4.447655,"Rue de Montigny, Charleroi",CHA44 
+50.409522,4.442925,"Rue du Palais, Charleroi",CHA53 
+50.41687,4.45023,"Avenue Jules Henin, Charleroi",CHA103
+50.4114,4.438455,"Avenue des Allies, Charleroi",CHA48 
+50.413555,4.446515,"Rue de la Regence, Charleroi",CHA108
+50.41134,4.443685,"Rue de France, Charleroi",CHA112
+50.409446,4.445942,"Boulevard Audent, Charleroi",CHA119
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA13 
+50.409446,4.445942,"Boulevard Audent, Charleroi",CHA116
+50.41184,4.44014,"Rue de Turenne, Charleroi",CHA123
+50.412645,4.442785,"Place du Manege, Charleroi",CHA130
+50.41134,4.443685,"Rue de France, Charleroi",CHA138
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA18 
+50.412245,4.44207,"Boulevard Jacques Bertrand, Charleroi",CHA135
+50.405815,4.444885,"Rue Leopold, Charleroi",CHA26 
+50.405815,4.444885,"Rue Leopold, Charleroi",CHA27 
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA9 
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA22 
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA31 
+50.409313,4.438138,"Place de la Digue, Charleroi",CHA38 
+50.40677,4.43844,"Rue de l Industrie, Charleroi",CHA35 
+50.406955,4.44238,"Rue Charles Dupret, Charleroi",CHA45 
+50.410636,4.444552,"Rue Bassle, Charleroi",CHA54 
+50.415575,4.44864,"Avenue de Waterloo, Charleroi",CHA104 
+50.413555,4.446515,"Rue de la Regence, Charleroi",CHA109 
+50.41008,4.445745,"Rue d Orleans, Charleroi",CHA113 
+50.4128,4.450695,"Boulevard Paul Janson, Charleroi",CHA120 
+50.412645,4.442785,"Place du Manege, Charleroi",CHA127 
+50.41184,4.44014,"Rue de Turenne, Charleroi",CHA124 
+50.414005,4.44511,"Rue Chavannes, Charleroi",CHA132 
+50.4116,4.442885,"Rue du Beffroi, Charleroi",CHA139 
+50.407591,4.445616,"Rue Prunieau, Charleroi",CHA14 
+50.4072,4.44659,"Rue du Pont Neuf, Charleroi",CHA3 
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA10 
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA19 
+50.412245,4.44207,"Boulevard Jacques Bertrand, Charleroi",CHA136
+50.405815,4.444885,"Rue Leopold, Charleroi",CHA28 
+50.40807,4.441125,"Place Albert Ier, Charleroi",CHA24 
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA32 
+50.409313,4.438138,"Place de la Digue, Charleroi",CHA41 
+50.4114,4.438455,"Avenue des Allies, Charleroi",CHA49 
+50.41687,4.45023,"Avenue Jules Henin, Charleroi",CHA101
+50.40711,4.441475,"Rue Puissant, Charleroi",CHA46 
+50.415575,4.44864,"Avenue de Waterloo, Charleroi",CHA105 
+50.41263,4.44508,"Rue de l Aigle Noir, Charleroi",CHA110 
+50.409446,4.445942,"Boulevard Audent, Charleroi",CHA117 
+50.41008,4.445745,"Rue d Orleans, Charleroi",CHA114 
+50.41184,4.44014,"Rue de Turenne, Charleroi",CHA121 
+50.412645,4.442785,"Place du Manege, Charleroi",CHA128 
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA16 
+50.4116,4.442885,"Rue du Beffroi, Charleroi",CHA125 
+50.414005,4.44511,"Rue Chavannes, Charleroi",CHA133 
+50.41255,4.443635,"Rue du Dauphin, Charleroi",CHA140 
+50.4072,4.44659,"Rue du Pont Neuf, Charleroi",CHA4 
+50.408779,4.43883,"Boulevard Joseph Tirou, Charleroi",CHA20 
+50.41134,4.443685,"Rue de France, Charleroi",CHA137
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA11 
+50.405815,4.444885,"Rue Leopold, Charleroi",CHA29 
+50.41025,4.437375,"Rue du Grand Central, Charleroi",CHA36 
+50.405562,4.444166,"Quai de Brabant, Charleroi",CHA33 
+50.409313,4.438138,"Place de la Digue, Charleroi",CHA42 
+50.4072,4.44659,"Rue du Pont Neuf, Charleroi",CHA52 
+50.41687,4.45023,"Avenue Jules Henin, Charleroi",CHA102
+50.407225,4.447655,"Rue de Montigny, Charleroi",CHA47 
+50.413555,4.446515,"Rue de la Regence, Charleroi",CHA107
+50.413555,4.446515,"Rue de la Regence, Charleroi",CHA106
